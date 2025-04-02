@@ -1,0 +1,18 @@
+# Periodieke Overschrijving - ING
+
+## Nieuwe Periodieke Overschrijving via Mijn ING
+
+Je kunt je nieuwe Periodieke Overschrijving als volgt doen:
+1. Log in op Mijn ING
+2. Klik rechts in het scherm op de knop 'overschrijven'
+3. Je kan kiezen of je de overschrijving direct of op een later tijdstip wilt laten uitvoeren, dit geef je aan in het veld ‘uitvoeren’
+4. Wil je de overschrijving periodiek laten plaatsvinden, wijzig dan de frequentie van ‘eenmalig’ naar de gewenste frequentie
+5. Bij het invullen van een 'einddatum' wordt de Periodieke Overschrijving automatisch beëindigd. Dit kan je ook doen door het veld 'aantal keer' in te vullen, de einddatum wordt dan automatisch voor je berekend.
+
+## Wijzigen of intrekken Periodieke Overschrijving via Mijn ING
+
+Je kunt jouw Periodieke Overschrijving als volgt wijzigen of intrekken:
+1. Log in op Mijn ING
+2. Jouw periodieke overschrijving vind je links van de navigatie bij ‘Opdrachten’, klik dan op 'Betalingen'
+3. Onder ‘Geplande opdrachten’ klik je op de overschrijving voor een gedetailleerde weergave
+4. Vanuit deze weergave kan je de Periodieke Overschrijving wijzigen of intrekken.

@@ -1,0 +1,32 @@
+# Verwerkingsduur buitenlandse betalingen - Verwerkingstijd Wereldbetalingen
+
+### Uiterste aanlevertijden Mijn ING / Mijn ING Zakelijk / Inside Business
+
+START TABLE IN MARKDOWN
+| | | | | |
+| - | - | - | - | - |
+| Valuta's met directe verwerking | Valuta's met directe verwerking | Valuta's met directe verwerking | | |
+| Valuta | | Aangeleverd voor: | | |
+| AUD (Australische dollar) | | 05:00 | | |
+| BGN (Bulgaarse lev) | | 14:00 | | |
+| CAD (Canadese dollar) | | 16:00 | | |
+| CHF (Zwitserse frank) | | 14:30 | | |
+| CZK (Tsjechische kroon) | | 12:00 | | |
+| DKK (Deense kroon) | | 13:30 | | |
+| EUR (euro) | | 16:30 | | |
+| GBP (Britse pond) | | 18:00 | | |
+| HKD (Hong Kong dollar) | | 08:30 | | |
+| HUF (Hongaarse forint) | | 14:30 | | |
+| ILS (Israëlische shekel) | | 09:30 | | |
+| JPY (Japanse yen) | | 05:00 | | |
+| MXN (Mexicaanse peso) | | 15:30 | | |
+| NOK (Noorse kroon) | | 13:30 | | |
+| NZD (Nieuw\-Zeelandse dollar) | | 05:00 | | |
+| PLN (Poolse zloty) | | 14:00 | | |
+| RON (Roemeense leu) | | 12:30 | | |
+| SEK (Zweedse kroon) | | 13:30 | | |
+| SGD (Singaporese dollar) | | 08:30 | | |
+| TRY (Turkse lira) | | 11:00 | | |
+| USD (Amerikaanse dollar) | | 19:00 | | |
+| ZAR (Zuidafrikaanse rand) | | 11:30 | | |
+END TABLE IN MARKDOWN

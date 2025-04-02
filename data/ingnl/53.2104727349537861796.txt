@@ -1,0 +1,7 @@
+# De ING Scanner werkt niet - ING
+
+### Ik zie een foutmelding
+
+Krijg je een melding dat de kleurencode niet bij de scanner hoort? Controleer dan of je de juiste scanner hebt.
+Het kan ook zijn dat er meerdere keren een verkeerde scanner-pincode is gebruikt. Stel dan een nieuwe pincode in.
+Toont je scanner een melding met een 3-cijferige code? Noteer deze en neem contact met ons op.

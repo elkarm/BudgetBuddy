@@ -1,0 +1,16 @@
+# Tijdelijk geen sms-codes - ING - Blokkade Mijn ING én daarom tijdelijk geen sms-codes
+
+In een aantal gevallen blokkeren we tijdelijk Mijn ING. Daardoor ontvang je ook geen SMS-codes en kun je niet inloggen. Dit zijn preventieve maatregelen om het fraudeurs moeilijk te maken. Hieronder leggen we de meest voorkomende redenen van de tijdelijke blokkade uit.
+
+## Nieuwe telefoon of SIM-kaart
+
+Heb je een nieuwe telefoon of SIM-kaart en wijzigt je telefoonnummer niet? Dan horen wij dat van je telefoonprovider en doen wij een aantal extra veiligheidscontroles. Zo willen we voorkomen dat criminelen gebruik kunnen maken van ontvangen SMS-codes om te kunnen bankieren.
+We krijgen alleen de hoogstnoodzakelijke gegevens van jou over wijzigingen van SIM-kaart of telefoon van telecomproviders. Zo proberen we samen te werken om identiteitsfraude via de telefoon tegen te gaan. We gebruiken deze gegevens alleen om mogelijke fraude te voorkomen. En niet voor andere (commerciële) doeleinden. Meer informatie hierover staat in Algemene Verordening Gegevensbescherming, artikel 6, 1e lid, onder f.
+
+## Verkeerde SMS-codes
+
+Als je te vaak een verkeerde SMS-code invult bij het inloggen. Dan blokkeren we de toegang voor 3 uur. De blokkade gaat er vanzelf af. Daarvoor hoef jij niets te doen.
+
+## Pinnen en betalen met je pas kan gewoon
+
+Als we preventief Mijn ING blokkeren, kan je wel geld opnemen bij een automaat of betalen in winkels.

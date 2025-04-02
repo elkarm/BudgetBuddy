@@ -1,0 +1,48 @@
+# Landen Eurozone, Europese Economische Ruimte en SEPA - ING
+
+### Deelnemers betalingsverkeer
+
+In onderstaande lijst ziet u precies welke landen tot de Eurozone, de Europese Economische Ruimte (EER) en het SEPA-gebied behoren.
+START TABLE IN MARKDOWN
+| Landen en valuta Eurozone/EER/SEPA | Eurozone | EER | SEPA | Valuta |
+| - | - | - | - | - |
+| Andorra | | | checked | EUR |
+| België | checked | checked | checked | EUR |
+| Bulgarije | checked | checked | checked | BGN |
+| Cyprus | checked | checked | checked | EUR |
+| Denemarken | | checked | checked | DKK |
+| Duitsland | checked | checked | checked | EUR |
+| Estland | checked | checked | checked | EUR |
+| Finland | checked | checked | checked | EUR |
+| Frankrijk (inclusief Frans Guyana, Guadeloupe, Martinique, Réunion) | checked | checked | checked | EUR |
+| Griekenland | checked | checked | checked | EUR |
+| Guernsey | | | checked | GBP |
+| Hongarije | | checked | checked | HUF |
+| Ierland | checked | checked | checked | EUR |
+| IJsland | | checked | checked | ISK |
+| Isle of Man | | | checked | GBP |
+| Italië | checked | checked | checked | EUR |
+| Jersey | | | checked | GBP |
+| Kroatië | checked | checked | checked | EUR |
+| Letland | checked | checked | checked | EUR |
+| Liechtenstein | | checked | checked | CHF |
+| Litouwen | checked | checked | checked | EUR |
+| Luxemburg | checked | checked | checked | EUR |
+| Malta | checked | checked | checked | EUR |
+| Monaco | | | checked | EUR |
+| Nederland | checked | checked | checked | EUR |
+| Noorwegen | | checked | checked | NOK |
+| Oostenrijk | checked | checked | checked | EUR |
+| Polen | | checked | checked | PLN |
+| Portugal (inclusief Azoren en Madeira) | checked | checked | checked | EUR |
+| Roemenië | | checked | checked | RON |
+| San Marino | | | checked | EUR |
+| Slovenië | checked | checked | checked | EUR |
+| Slowakije | checked | checked | checked | EUR |
+| Spanje (inclusief Canarische Eilanden, Ceuta en Melilla) | checked | checked | checked | EUR |
+| Tsjechië | | checked | checked | CZK |
+| Vaticaanstad | | | checked | EUR |
+| Verenigd Koninkrijk (Engeland, Gibraltar, Schotland, Wales, Noord\-Ierland) | | | checked | GBP |
+| Zweden | | checked | checked | SEK |
+| Zwitserland | | | checked | CHF |
+END TABLE IN MARKDOWN

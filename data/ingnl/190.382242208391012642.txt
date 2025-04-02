@@ -1,0 +1,28 @@
+# Eurozone-landen - ING
+
+### Kosten
+
+De kosten voor een overschrijving in euro’s naar een land binnen de Eurozone worden altijd gedeeld (SHA) tussen jou en de ontvanger.
+START TABLE IN MARKDOWN
+| Land | Posities | Voorbeeld |
+| - | - | - |
+| België | 16 | BE62510007547061 |
+| Cyprus | 28 | CY17002001280000001200527600 |
+| Duitsland | 22 | DE89370400440532013000 |
+| Estland | 20 | EE902200221020145685 |
+| Finland | 18 | FI2112345600000785 |
+| Frankrijk | 27 | FR1420041010050500013M02606 |
+| Griekenland | 27 | GR1601101250000000012300695 |
+| Ierland | 22 | IE29AIBK93115212345678 |
+| Italië | 27 | IT40S0542811101000000123456 |
+| Kroatië | 21 | HR1210010051863000160 |
+| Letland | 21 | LV80BANK0000435195001 |
+| Litouwen | 20 | LT12100001101001000 |
+| Luxemburg | 20 | LU280019400644750000 |
+| Malta | 31 | MT84MALT011000012345MTLCASTO01S |
+| Oostenrijk | 20 | AT611904300234573201 |
+| Portugal | 25 | PT500000211231234567890154 |
+| Slovenië | 19 | SI56191000000123438 |
+| Slowakije | 24 | SK3112000000198742637541 |
+| Spanje | 24 | ES9121000418450200051332 |
+END TABLE IN MARKDOWN

@@ -1,0 +1,30 @@
+# Garmin Pay activeren bij ING
+
+## Veelgestelde vragen
+
+### Welke Garmin horloges ondersteunen Garmin Pay?
+
+Op de website van Garmin vind je alle modellen die Garmin Pay ondersteunen.
+
+### Welke betaalrekeningen kan ik toevoegen aan Garmin Pay?
+
+Je kunt Garmin Pay gebruiken voor alle betaalrekeningen die op je eigen naam staan.
+* **Gezamenlijke rekening** : als mederekeninghouder kun je deze rekening toevoegen aan de Garmin Pay wallet
+* **Jongerenrekening** : vanaf 16 jaar kun je gebruik maken van Garmin Pay
+* **Gemachtigde rekening:** als gemachtigde op een rekening kun je géén gebruik maken van Garmin Pay
+* **Zakelijke rekening:** is ook eenvoudig toe te voegen aan de Garmin Pay wallet
+* **Onder bewind:** als je onder bewind staat, kun je Garmin Pay niet gebruiken
+Heb je meerdere betaalpassen in de wallet? Als je gaat betalen, selecteer je eerst de betaalpas die je wilt gebruiken. Daarna houd je de watch bij de terminal.
+
+### Hoe kan ik passen van meerdere betaalrekeningen toevoegen aan de Garmin Wallet?
+
+Wil je meerdere betaalrekeningen in de wallet? Dat kan. Je kunt maximaal 10 passen toevoegen. Voor elke rekening die wilt toevoegen volg je hetzelfde activatieproces. En elke rekening moet je verifiëren om 'm te kunnen toevoegen aan je wallet.
+Als je gaat betalen, selecteer je eerst de betaalpas die je wilt gebruiken. Daarna houd je de watch bij de terminal.
+
+### Kan ik mijn Creditcard ook toevoegen aan de Garmin Pay wallet?
+
+Nee, momenteel kun je alleen de Betaalpas toevoegen aan de wallet.
+
+### Maakt het uit of ik een iOS of Android™ telefoon heb?
+
+Nee. Je kunt zowel met iOS als met een Android™ telefoon Garmin Pay activeren. Het werkt voor beide besturingssystemen.

@@ -1,0 +1,6 @@
+# Opnamekosten ING Spaardeposito en Groen Spaardeposito - ING
+
+## Wat is de actuele rente van het ING (Groen) Spaardeposito?
+
+Het actuele rentepercentage wordt berekend aan de hand van de actuele spaarrente op de dag dat je de opdracht voor tussentijdse opname geeft. Daarnaast wordt de resterende looptijd van jouw huidige ING (Groen) Spaardeposito meegenomen in de berekening. Deze looptijd wordt vergeleken met deposito’s met een vergelijkbare looptijd.
+Bijvoorbeeld: is de resterende looptijd 2,6 jaar? Dan wordt de actuele rente afgeleid van de deposito’s met een looptijd van 2 en 3 jaar. De laagste rente is de actuele rente. We nemen de laagste rente omdat dit voor je het voordeligst uitpakt in de berekening. Goed om te weten: ook als we het ING (Groen) Spaardeposito (tijdelijk) niet aanbieden is er sprake van een actuele rente. Deze is opvraagbaar bij ING.

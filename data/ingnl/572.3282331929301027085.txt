@@ -1,0 +1,8 @@
+# Update je app - ING
+
+## Veelgestelde vragen
+
+### Heeft het uitzetten van de versies iets te maken met veiligheid?
+
+Ja. Na verloop van tijd verloopt de ondersteuning op een oudere versie van een besturingssysteem. Hierdoor worden problemen niet langer opgelost en worden er geen beveiligingsupdates voor dit besturingssysteem meer uitgebracht.
+Daarom adviseren we altijd het meest recente besturingssysteem voor je toestel te gebruiken. In sommige gevallen is een besturingssysteem dusdanig verouderd dat een correcte werking van de app niet langer gegarandeerd kan worden, en zijn we genoodzaakt deze versies dicht te zetten.

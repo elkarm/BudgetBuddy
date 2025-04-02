@@ -1,0 +1,17 @@
+# Belt ING? Check het Gesprek - Ontmasker oplichters met Check het Gesprek
+
+## Veelgestelde vragen
+
+### Ik log in met Face ID of mijn vingerafdruk. Zie ik de knop dan wel?
+
+Wanneer je niet aan het bellen bent, log je in zoals je gewend bent. Bijvoorbeeld met biometrie, zoals je vingerafdruk. Als je aan het bellen bent, zorgt de app dat het inloggen met biometrie wordt uitgesteld. Je krijgt dan eerst het inlogscherm van de app te zien, met daarop de Check het Gesprek-knop. Wil je tijdens het telefoongesprek toch inloggen met biometrie? Dat kan. Tik op het icoontje met de vingerafdruk of het gezicht en de app scant deze direct zodat je kunt inloggen.
+
+### Klopt de uitslag van de Check altijd?
+
+* Als je te zien krijgt dat je inderdaad een ING-medewerker aan de lijn heeft, klopt dit altijd.
+* Stel dat je - bijvoorbeeld door de zenuwen - een typefout maakt bij het invoeren van je telefoonnummer. Dan is er geen match tussen dat nummer en het lopende telefoongesprek vanuit ING. Je krijgt dan te zien dat ING op dat moment niet naar het ingevoerde nummer belt. Op het waarschuwingsscherm kun je terugzien welk nummer je hebt ingevoerd. Zie je dat je een typefout gemaakt hebt? Dan kun je de Check prima nogmaals doen.
+* Ook goed om te weten: Check het Gesprek controleert alleen actieve telefoongesprekken. Doe je de Check voordat je opneemt of nadat je hebt opgehangen, dan krijg je dus te zien dat ING op dat moment niet met jou aan het bellen is.
+
+### Kan elke klant gebruikmaken van Check het Gesprek?
+
+Elke ING klant die de Mobiel Bankieren App heeft, kan gebruikmaken van de Check het Gesprek-knop op zijn of haar inlogscherm.

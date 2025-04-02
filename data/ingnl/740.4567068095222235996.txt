@@ -1,0 +1,28 @@
+# Inloggen in Mijn ING lukt niet - ING
+
+Inloggen doe je op ING.nl, via de knop ‘Inloggen’ rechtsboven in je scherm. Dan kom je in een inlogscherm.
+Maar wat wanneer inloggen niet lukt? We helpen je graag op weg met een aantal tips.
+
+## Bevestigen lukt niet
+
+Bevestigen is nodig om te kunnen inloggen. Na het invullen van je gebruikersnaam en wachtwoord bevestig je het inloggen met je Mobiel Bankieren App of ING Scanner.
+* Mijn app werkt niet
+* Mijn scanner werkt niet
+
+### Waarom is een app of scanner nodig voor inloggen?
+
+Internetbankieren met Mijn ING wordt nog veiliger met zogenaamde tweetrapsauthenticatie. Naast je gebruikersnaam en wachtwoord gebruik je dan een tweede middel om je te identificeren. Bij ING moet je daarom via de Mobiel Bankieren App of de ING Scanner je inlog bevestigen. Zo zorgen we samen voor een optimale bescherming van jouw financiële zaken.
+* Alles over het downloaden en activeren van je app
+* Bekijk direct de instructievideo: zo activeer je de app
+* Bekijk het stappenplan (PDF)
+
+### Waarom de app updaten naar de laatste versie?
+
+Dat is belangrijk. Als een app geen updates krijgt, wordt de beveiliging niet vernieuwd. Er komen dan ook geen nieuwe mogelijkheden meer in de app. Voor veilig mobiel bankieren zijn daarom updates nodig. Vanwege die veiligheid zorgen we dat oude app versies op een gegeven moment niet meer werken.
+* Hoe update je de Mobiel Bankieren App?
+* Veelgestelde vragen over het updaten van de app
+
+### Mijn app is up to date. Waarom lukt het mij dan niet om te bevestigen?
+
+Zorg er voor dat, in geval van een en/of rekening, jullie allebei eigen inlogcodes voor Mijn ING gebruiken en óók allebei een eigen werkende app. Dan kunnen jullie altijd – ook onafhankelijk van elkaar – alle bankzaken zelf regelen.
+Meer informatie over de en/of rekening en Mijn ING

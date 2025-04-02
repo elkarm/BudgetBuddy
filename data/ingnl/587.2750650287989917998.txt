@@ -1,0 +1,6 @@
+# Tarieven Rekeningen - ING - Inzicht in tarieven van betaalproducten
+
+## Rente op de betaalrekening
+
+Op de Betaalrekening zit een variabele rente. De rente kan positief, nul of negatief zijn. Bij een positief percentage ontvang je rente, bij een negatief percentage betaal je rente.
+Actueel rentepercentage en overige relevante informatie Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

@@ -1,0 +1,7 @@
+# Zo werkt Betaalverzoek - ING - Makkelijk geld terugvragen
+
+## Veelgestelde vragen Betaalverzoek
+
+### Betaalverzoek QR-Code scannen
+
+Je kunt alleen een ING Betaalverzoek QR code scannen met je ING app. Een QR-code van de Rabobank, ABN Amro (Tikkie) of een andere bank kan niet gescanned worden met een ING app. Een QR-code van een andere bank kan je wel scannen met de camera van je smartphone.

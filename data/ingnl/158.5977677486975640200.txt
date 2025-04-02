@@ -1,0 +1,25 @@
+# Identificatie - ING
+
+### Identificatie in de ING App
+
+Om je identiteitsbewijs te laten zien hoef je de deur niet uit. Want in de app is het in 3 stappen gebeurd:
+1. Pak je ID-kaart of paspoort en je telefoon
+2. In je app vind je een bericht waarin we je vragen te identificeren. Dit bericht kan een titel hebben bijvoorbeeld zoals: ‘Let op, je identiteitsbewijs ontbreekt nog’. Via deze link start je het identificatieproces. Of ga rechtsonder naar ‘Service’ en tik daarna in je takenlijst op ‘Direct doen’.
+3. Scan je ID-kaart of paspoort en controleer of je adres goed is
+Zien hoe het werkt? Bekijk dan de uitleg met afbeeldingen .
+**Kan je het bericht niet vinden? Geen probleem! Volg de volgende stappen:**
+* Ga naar tabje service (rechtsonder in de mobiele app)
+* Klik de chat open
+* Chat het volgende: ‘Identificeren’
+* Klik daarna: ‘Ik wil me laten identificeren’
+* De stappen hierna spreken voor zich. Zorg ervoor dat je smartphone beschikt over een NFC chip, een geldige ID hebt en de meest recente versie van de app.
+START TABLE IN MARKDOWN
+| Welke identiteitsbewijzen? | Opmerking |
+| - | - |
+| |
+| Een geldig paspoort. Nederlandse paspoorten, buitenlandse paspoorten, diplomatieke paspoorten en dienstpaspoorten. | |
+| Een geldig Nederlands rijbewijs (alleen op ING\-kantoor of \-servicepunt) | Let op: Buitenlandse rijbewijzen worden niet geaccepteerd. |
+| Een geldige Nederlandse identiteitskaart | |
+| Een geldige identiteitskaart die is afgegeven door een lidstaat binnen de Europese Unie. Het document moet altijd zijn voorzien van een pasfoto en de naam van de houder. | |
+| Vreemdelingendocumenten, afgegeven op grond van de vreemdelingenwet 2000 |
+END TABLE IN MARKDOWN

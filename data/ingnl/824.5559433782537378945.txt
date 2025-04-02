@@ -1,0 +1,41 @@
+# Tarieven betaalpakketten - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar ING
+* Creditcards
+* Passen
+* Rood staan
+* Overige producten
+* Gebruik
+* Buitenland
+START TABLE IN MARKDOWN
+| Betaalpakketten | Per maand |
+| - | - |
+| OranjePakket met korting | € 3,20 |
+| OranjePakket | € 3,65 |
+| Tweede rekeninghouder bij En/of Betaalrekening (incl. 2e Betaalpas) | € 1,10 |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| Niet meer te openen pakketten | Per maand |
+| - | - |
+| BasisPakket | € 4,35 |
+| BetaalPakket | € 6,30 |
+| RoyaalPakket | € 9,35 |
+END TABLE IN MARKDOWN
+* Vergelijk jouw pakket met het OranjePakket
+* Vergelijk het OranjePakket met het OranjePakket met Korting
+
+## Rente op de Betaalrekening
+
+Op de Betaalrekening zit een variabele rente. De rente kan positief, nul of negatief zijn. Bij een positief percentage ontvang je rente, bij een negatief percentage betaal je rente.
+Actueel rentepercentage en overige relevante informatie Ondanks de constante zorg en aandacht die ING aan de samenstelling van ING.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.
+
+## Downloads & informatie
+
+* Kostenoverzicht ING Betaalproducten (PDF)
+* Voorwaarden en overige regelingen voor particuliere rekeninghouders
+* Vergelijking betaaldiensten en informatiedocument
+* ### Hulp nodig?
+Service & Contact Hulp nodig?

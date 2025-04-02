@@ -1,0 +1,12 @@
+# Wereldbetaling Particulier - ING
+
+### Tips bij het doen van een Wereldbetaling
+
+* We adviseren je om over te maken in de valuta van de ontvangende rekening. Hiermee voorkom je het toepassen van een wisselkoers door de ontvangende bank.
+* Wanneer je overmaakt naar een land waar IBAN in gebruik is, vragen wij niet om de BIC in te vullen. Wij zoeken deze er automatisch voor je bij wanneer de betaling wordt verzonden.
+* Voor betalingen naar landen waar IBAN niet volledig is ingevoerd, is het opgeven van de BIC verplicht.
+* Naast de BIC code, is voor een aantal landen een Nationale Bank Code verplicht. Dit wordt automatisch getoond bij het selecteren van het land.
+* De BIC code kun je vinden op de website van de ontvangende bank, of vragen aan de ontvanger van je betaling.
+* Een BIC (en indien van toepassing een Nationale Bank Code) is verplicht om een Wereldbetaling automatisch te verwerken. Zonder deze codes kunnen Wereldbetalingen niet door ons verwerkt worden.
+* Check de landenpagina’s voor de specifieke vereisten per land, bijvoorbeeld een Nationale Bank Code of wat er in het omschrijvingsveld moet staan.
+* Wanneer de gegevens in je betaalopdracht onvolledig of onjuist zijn, kan de buitenlandse bank jouw opdracht weigeren en terugsturen. Het is mogelijk dat dit gebeurt met aftrek van kosten. Je ontvangt dan niet het volledige bedrag terug dat je hebt overgemaakt.

@@ -1,0 +1,25 @@
+# Servië - ING
+
+Wilt je geld overmaken naar Servië? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Na het invoeren van het bedrag en de kostenverdeling, krijg je direct een indicatie van de prijs en wisselkoers
+
+### Overmaken in andere valuta
+
+Je kunt de overschrijving niet uitvoeren in de valuta waarin de begunstigde rekening wordt aangehouden. Overleg met de begunstigde of deze een rekening heeft in een andere valuta. Zo kun je voorkomen dat er 2 keer een koersmarge in rekening wordt gebracht. Anders adviseren wij om de overschrijving uit te voeren in euro’s.
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Servië is de OUR-opslag €25.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN
+
+Het IBAN voor Servië bestaat uit 22 posities alfanumeriek (bijvoorbeeld RS35 2600 0560 1001 6113 79).

@@ -1,0 +1,30 @@
+# Extra creditcard aanvragen - ING
+
+Betaalgemak voor je partner of kind Met een extra creditcard profiteer je samen van de voordelen. Twee cards, één bestedingslimiet.
+Aanvragen in Mijn ING
+
+## Zo werkt een extra creditcard
+
+* Alleen de persoon met een ING creditcard kan een extra creditcard aanvragen en na ontvangst activeren.
+* Die extra creditcard wordt gekoppeld aan de originele ING creditcard (Creditcard of Platinumcard).
+* Beiden maken gebruik van dezelfde bestedingslimiet.
+* Betalingen met beide creditcards schrijven we van dezelfde Betaalrekening af.
+* De persoon met de ING creditcard is verantwoordelijk voor het terugbetalen van alle uitgaven.
+* De extra creditcard wordt getoond in je rekeningoverzicht onder 'andere rekeningen'. De persoon met de ING creditcard ziet de betalingen met de extra creditcard.
+
+## Kosten extra creditcard
+
+De kosten van de extra creditcard schrijven we af van de Betaalrekening waaraan de Creditcard of Platinumcard gekoppeld is.
+
+## Extra Creditcard
+
+START TABLE IN MARKDOWN
+| | | | |
+| - | - | - | - |
+| Uw Pakket | Creditcard | 1e Extra Creditcard | 2e Extra Creditcard |
+| OranjePakket | € 19,80 per jaar | € 15,00 per jaar | € 15,00 per jaar |
+| Niet meer te openen pakketten | | | |
+| BasisPakket | € 19,80 per jaar | € 15,00 per jaar | € 15,00 per jaar |
+| BetaalPakket | Onderdeel van pakket | Onderdeel van pakket | € 15,00 per jaar |
+| RoyaalPakket | Niet mogelijk | Niet mogelijk | Niet mogelijk |
+END TABLE IN MARKDOWN

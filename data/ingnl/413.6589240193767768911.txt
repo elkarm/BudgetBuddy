@@ -1,0 +1,10 @@
+# Bescherming tegen phishingberichten - ING - Herken jij phishing?
+
+Je hebt vast al vaker gehoord over phishing. En waarschijnlijk heb je al meerdere phishingberichten uit je mailbox verwijderd. Sommige valse mails herken je meteen. Maar sommige zijn net wat lastiger van echt te onderscheiden. Waar moet je dan op letten? En hoe herken je zo’n valse mail?
+
+### Linkjes zijn link
+
+Oplichters sturen phishing berichten die afkomstig lijken te zijn van een betrouwbare afzender, zoals ING. Dit kan een e-mail zijn, maar ook een sms of een WhatsApp bericht. Ze doen zich ook voor als andere bedrijven en instanties, zoals bijvoorbeeld PostNL, het CJIB, DigiD, de KvK of Woningnet. In het phishingbericht staat vaak een link. Na een klik op die link kom je vaak terecht op een nep-website die sprekend lijkt op de site van ING. Zo hopen de oplichters je persoonlijke gegevens of inloggegevens te pakken te krijgen. Want als je inlogt op de nep-website, stuur je jouw inlogcodes direct naar een oplichter. En die kan dan bij je rekening.
+Toch zijn er vaak alarmsignalen die je helpen zo’n bericht als phishing te herkennen:
+* Moet je snel inloggen via de link in een bericht? Bijvoorbeeld om ‘veiligheidsredenen’ of om ‘kosten te voorkomen’? Dat is verdacht: linkjes zijn link. Inloggen doe je alleen via de app of via de inlogpagina die je zelf opzoekt op de ING-website.
+* Moet je na een klik op de link persoonlijke gegevens of codes invullen? Vraag jezelf dan af of dat logisch is. Een fraudeur kan dit soort gegevens namelijk gebruiken om contact met je op te nemen en je vertrouwen te wekken. Bijvoorbeeld voor een andere oplichtingstruc, zoals bankhelpdeskfraude.

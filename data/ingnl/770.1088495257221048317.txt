@@ -1,0 +1,28 @@
+# Contactloos betalen met 'ING Mobiel Betalen' stopt - ING Mobiel Betalen met Android™
+
+## Veelgestelde vragen
+
+### Waarom stopt contactloos betalen via ING Mobiel Betalen?
+
+Android gebruikers kunnen sinds dit jaar Google Pay gebruiken voor mobiele betalingen: dat is sneller, gemakkelijker
+en net zo veilig. Je kunt je creditcard ook toevoegen aan je digitale portemonnee.
+
+### Wat betekent de verandering voor mij?
+
+Dat hangt ervan af. Gebruik je nu ING Mobiel Betalen als je contactloos betaalt? Dit kan vanaf september niet meer. Als je na deze datum contactloos wil blijven betalen, heb je Google Pay nodig. Het (opnieuw) aanmaken van een digitale betaalpas voor ING Mobiel Betalen is vanaf heden niet meer mogelijk.
+Gebruik je al Google Pay? Dan verandert er niets.
+
+### Moet ik iets doen?
+
+Nee, dat hoeft niet. Vanaf september werkt je digitale Betaalpas niet meer en is deze verwijderd uit je app.
+Wil je liever zelf je digitale pas(sen) verwijderen uit de ING Mobiel Betalen wallet? Dat kan via de volgende stappen:
+* Open de ING-app en tik op 'Service'
+* Ga naar 'Je app-instellingen' en klik op 'Mobiel Betalen'
+* Selecteer de digitale betaalpas die je wil verwijderen en kies ‘verwijderen’
+* Heb je meerdere digitale betaalpassen? Doe dit dan voor elke pas
+* Heb je meerdere smartphones met een geactiveerde digitale pas? Verwijder ze dan op elk toestel
+
+### Hoe werkt Google Pay?
+
+Google Pay gebruik je om te betalen met je Android™ telefoon (versie 8 of hoger). Hiervoor maak je gebruik van de Google Wallet. Dit is een digitale portemonnee, waarin je je betaalpassen, creditcards en klantkaarten bewaart. Google Pay werkt overal waar je contactloos kunt betalen. In winkels, maar ook in apps en webshops. In binnen- en buitenland.
+Google Pay activeer je via de ING-app.

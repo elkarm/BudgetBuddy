@@ -1,0 +1,14 @@
+# Renteberekening op je particuliere spaarrekening - ING - Renteberekening op je variabele spaarrekening
+
+## Groeirekening en Sneltreinspaarrekening
+
+### De Groeirekening en Sneltreinspaarrekening zijn niet meer te openen.
+
+START TABLE IN MARKDOWN
+| Saldo | Rente |
+| - | - |
+| € 0 t/m € 100.000 | 1,25% |
+| € 100.000 tot en met € 1.000.000 | 1,25% |
+| Boven € 1.000.000 | 0,00% |
+END TABLE IN MARKDOWN
+Bovenstaande saldoklassen en percentages kunnen wijzigen.

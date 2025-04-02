@@ -1,0 +1,25 @@
+# Tarieven Creditcards - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+START TABLE IN MARKDOWN
+| Gespreid betalen op de Creditcard/Platinumcard |
+| - |
+| Uw pakket | Totale krediet\-bedrag | Variabele debet\-rentevoet | Andere kosten van het krediet (per kwartaal) | Jaarlijkse Kosten percentage (JKP) |
+| OranjePakket met Korting met losse Creditcard | € 1.000 | 15.0%(* Het rentepercentage van Gespreid betalen is direct gekoppeld aan de maximale kredietvergoeding. Over rentewijzigingen word je altijd vooraf geïnformeerd.) | € 14,55 | 21.8% |
+| | € 5.000 | 15.0%\* | € 14,55 | 16.3% |
+| OranjePakket met losse Creditcard | € 1.000 | 15.0%\* | € 15,90 | 22.4% |
+| | € 5.000 | 15.0%\* | € 15,90 | 16.5% |
+| BasisPakket met losse Creditcard | € 1.000 | 15.0%\* | € 18,00 | 23.5% |
+| | € 5.000 | 15.0%\* | € 18,00 | 16.6% |
+| BetaalPakket inclusief Creditcard | € 1.000 | 15.0%\* | € 18,90 | 23.9% |
+| | € 5.000 | 15.0%\* | € 18,90 | 16.7% |
+| OranjePakket met Korting met losse Platinumcard | € 1.000 | 15.0%\* | € 22,65 | 25.7% |
+END TABLE IN MARKDOWN

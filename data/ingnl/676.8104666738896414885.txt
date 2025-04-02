@@ -1,0 +1,5 @@
+# Mastercard ID check - ING
+
+### Wat als ik de verkeerde code heb gebruikt bij Mastercard ID check?
+
+Als je 3 keer een foutieve code hebt gebruikt bij de goedkeuring met een ING Scanner dan wordt je Creditcard tijdelijk geblokkeerd. Na 15 minuten kun de betaling opnieuw uitvoeren en goedkeuren.

@@ -1,0 +1,6 @@
+# Verkeerde betaling gedaan - ING
+
+### Voorkomen is beter dan genezen
+
+Wist je dat IBAN-Naam Check bij digitale overschrijvingen een melding geeft als de naam en IBAN die je intoetst anders zijn dan de gegevens die bekend zijn bij de bank? Dit verkleint de kans op een verkeerde betaling.
+Meer over IBAN-Naam Check Maak een (terug)betaalverzoek

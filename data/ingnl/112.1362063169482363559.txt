@@ -1,0 +1,8 @@
+# Renteberekening op je particuliere spaarrekening - ING - Renteberekening op je variabele spaarrekening
+
+## Hoe de rente wordt berekend
+
+Aan het eind van elke dag berekenen we hoeveel rente je die dag opbouwt. Dit wordt als volgt berekend: het rentepercentage dat geldt voor de saldoklasse, gedeeld door 365 (dagen in het jaar), vermenigvuldigd met het saldo. In een schrikkeljaar wordt het jaar op 366 dagen gesteld.
+* Alle genoemde rentepercentages zijn nominaal en op jaarbasis.
+* De rente wordt één keer per jaar verrekend.
+Ondanks de constante zorg en aandacht die de ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

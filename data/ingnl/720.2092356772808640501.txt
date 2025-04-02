@@ -1,0 +1,15 @@
+# Rond af & Spaar
+
+## Wat het je kan opleveren
+
+### Waarom zijn er betalingen van gisteren niet afgerond?
+
+Alleen betalingen die verwerkt zijn worden afgerond. Vaak worden betalingen eerst "gereserveerd" op je betaalrekening totdat ze verwerkt zijn. Bij gereserveerde transacties staat er "reservering". Zodra de betaling verwerkt is, verdwijnt "reservering" en staat er een valutadatum bij. Op dat moment zal de betaling ook afgerond worden.
+Bij betalingen met pinpas of mobiel duurt het vaak 1 werkdag voordat de betaling verwerkt is. Dus dan wordt de betalingen een werkdag later afgerond dan de betaling zelf. iDeal betalingen worden bijna meteen verwerkt.
+Dus kijk in je overzicht of het om een "reservering" gaat. Zo ja, dan wordt die betaling waarschijnlijk de volgende dag afgerond.
+* ### Nog geen spaarrekening?
+Open nu gemakkelijk online een Oranje Spaarrekening
+Nog geen spaarrekening?
+* ### Spaardoel aanmaken
+Maak nu jouw persoonlijke spaardoel aan en bereik jouw doel sneller
+Spaardoel aanmaken

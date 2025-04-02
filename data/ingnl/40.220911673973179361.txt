@@ -1,0 +1,31 @@
+# Garmin Pay activeren bij ING
+
+## Veelgestelde vragen
+
+### Wat moet ik doen als mijn Garmin watch kwijt of gestolen is?
+
+Verwijder direct de betaalpassen uit de Garmin Wallet, zodat betalingen met de Garmin watch niet meer mogelijk zijn. Dit doe je via de Garmin Connect app of via de ING app.
+Als de Garmin watch van de pols is gehaald, dient altijd eerst de pincode ingevoerd te worden voordat ermee betaald kan worden. Houd je Garmin Pay pincode altijd geheim.
+
+### Hoe kan ik mijn Betaalpas blokkeren of verwijderen uit Garmin Pay Wallet?
+
+Je kunt de betaalpas op elk gewenst moment uit de Garmin Wallet verwijderen. Dit doe je via de Garmin Connect app of via de ING app.
+Betaalpas uit de Garmin wallet verwijderen **via ING app** :
+* Open de ING app en ga naar "Service"
+* Klik op "Je app-instellingen"
+* Kijk bij "Betalen" en klik op "Garmin Pay"
+* Kies de pas die je wilt verwijderen
+* En klik op "Verwijder uit Garmin Wallet"
+Betaalpas uit de Garmin Wallet verwijderen **via Garmin Connect app** :
+* Open de Garmin Connect app en ga naar "Instellingen"
+* Klik op "Garmin Pay"
+* Selecteer de pas die je wilt verwijderen
+* Klik op de instellingen (puntjes rechtsboven)
+* Klik op "Wis"
+De pas is verwijderd. Je kunt de Betaalpas op ieder moment weer toevoegen aan de Garmin Pay wallet. De makkelijkste manier is via de ING app.
+
+### Hoe kan ik Garmin Pay deactiveren als ik mijn Garmin Watch én telefoon kwijt ben?
+
+Kun je Garmin Pay niet meer zelf deactiveren? Als je toegang hebt tot een ander device, kun je via **Mijn ING** de Mobiel Bankieren app blokkeren. Of bel (met een andere telefoon) naar de ING alarmlijn.
+ING Alarmlijn: 020 22 888 00
+24 uur per dag, 7 dagen per week bereikbaar.

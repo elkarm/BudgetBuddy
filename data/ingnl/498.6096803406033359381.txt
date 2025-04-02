@@ -1,0 +1,28 @@
+# Nieuw in de app - ING
+
+## Nieuw: al je creditcard processen in de app
+
+### Met de app van ING heb je alles in de hand.
+
+In navolging van Android is het nu voor particuliere iOS-gebruikers ook mogelijk om direct in de app je creditcard instellingen aan te passen. Handig, makkelijk en snel!
+Ga naar ‘Je passen’ in Service of Instellingen, scroll naar beneden naar Creditcards en kies ‘Naar instellingen.' Hier kan je onder meer je creditcard activeren, limiet wijzigen, positief saldo overboeken en je pincode opvragen.
+
+## Nieuw in de app: digitaal doneren aan goede doelen
+
+### In de app kan je nu makkelijk en snel digitaal doneren aan zeven goede doelen.
+
+ING werkt hiervoor samen met Artsen zonder Grenzen, Greenpeace, de Hartstichting, KWF Kankerbestrijding, het Rode Kruis, Oxfam Novib en de Vogelbescherming.
+In het productenoverzicht van de app (Android en iOS) en Mijn ING vind je een overzicht van de goede doelen en kan je makkelijk en snel een donatie doen aan het door jou gekozen goede doel!
+
+## Nu: zoeken in de app (iOS & Android)
+
+### Goed nieuws, zoeken in de app is live voor iOS en Android.
+
+Met zoeken in de app maken we informatie nog makkelijker vindbaar. Je vindt de zoekfunctie onder Service, rechtsonder in de app. Search in de app heeft dezelfde functionaliteit als de huidige zoekbalk in Mijn ING.
+Zo werkt het
+1. Tik op ‘Service’ (rechtsonder in de app) en tik op het vergrootglas bovenin in het scherm
+2. Een scherm met een zoekbalk verschijnt in beeld met ‘typ in wat je zoekt’
+3. Typ de zoekwoord(en) in.
+4. Bevestig de zoekopdracht.
+5. Als de zoekwoorden resultaten opleveren, wordt de top vijf resultaten onder elkaar getoond. Het aantal resultaten hangt af van de zoekwoorden.
+6. Als de zoekwoorden geen resultaat opleveren, volgt een fout melding met de vraag het nog een keer te proberen met andere zoekwoorden.

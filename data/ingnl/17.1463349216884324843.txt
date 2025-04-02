@@ -1,0 +1,9 @@
+# Griekenland - ING
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Betalingen naar Griekenland doe je bij voorkeur in euro's
+
+### IBAN
+
+Het IBAN voor Griekenland bestaat uit 27 posities alfanumeriek (cijfers en letters aaneengesloten invullen), bijvoorbeeld: GR1601101250000000012300695.

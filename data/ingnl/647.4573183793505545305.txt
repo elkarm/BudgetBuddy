@@ -1,0 +1,8 @@
+# IBAN-Naam Check - ING
+
+### Welke meldingen zijn er?
+
+Er zijn drie soorten meldingen:
+* Typefout. Maak je een foutje in de naam of is deze iets anders, bijvoorbeeld Janse in plaats van Jansen, dan laten we de naam zien die bekend is bij de bank. Controleer zelf of de naam die wij voorstellen inderdaad de persoon of het bedrijf is die je bedoelt. De voorgestelde naam kun je overnemen
+* Fout. Is de naam die je intoetst helemaal anders dan de naam die bekend is bij de bank, bijvoorbeeld Pietersen in plaats van Jansen, let dan goed op. We laten je weten dat de opgegeven naam niet hoort bij het ingetoetste IBAN. Neem contact op met de ontvanger en controleer de betaalgegevens
+* Geen check. Kan er geen IBAN-Naam Check uitgevoerd worden voor het IBAN dat je invult, dan krijg je daar ook een melding van

@@ -1,0 +1,26 @@
+# Activate your app with your ID - ING
+
+### I have an app that already works. Do I have to activate it again?
+
+No, in this case, no further action is required of you. Activation is only necessary if you reinstall the app. For example, on a new phone or an additional device, such as a tablet.
+
+### Which identity documents can I use to activate the app?
+
+You can use the following **valid** forms of identification:
+* a passport
+* an ID card from a European Union member state
+* a Dutch residence permit
+* an Identity Card issued to foreign nationals
+* a Dutch driver's license
+
+### I have no ID and I want to activate the app. What do I do now?
+
+The law states that you must be able to show a valid ID when requested to do so from the age of 14. If you don't have an ID, then contact the municipality where you are registered to apply for one. You can find more information about this on the website of your municipality.
+
+### What happens to my data?
+
+This data is securely sent to us. We will then check to confirm whether you have sent this data and we will add any missing first name(s) to our systems. Afterwards, the remaining data we have received will be destroyed as soon as possible. This means that they are not stored in your app. Please see our privacy policy to read more about how we handle your data.
+
+### Why are you checking my ID? You already know me, right?
+
+It's correct that your data has been registered with us before. We're just establishing that we know it's you when you activate the app. That's why we compare the data from your ID when you activate the app with the data you submitted to us when you became a customer. To do this, we use the data from your identity document or the data from your Betaalpas (Debit Card).

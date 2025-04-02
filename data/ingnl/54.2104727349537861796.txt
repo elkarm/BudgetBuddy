@@ -1,0 +1,8 @@
+# De ING Scanner werkt niet - ING
+
+### Pincode van je scanner vergeten
+
+1. Open in een nieuw scherm Mijn ING en vul je gebruikersnaam en wachtwoord in
+2. Kies onderaan in het scherm met de kleurencode voor 'Hulp nodig?'
+3. Kies voor 'Ik ben mijn scanner-pincode vergeten'
+4. Stel een nieuwe scanner-pincode in door de scanner opnieuw te activeren

@@ -1,0 +1,19 @@
+# Rond af & Spaar
+
+## Wat het je kan opleveren
+
+### Hoe kan ik Rond af & Spaar wijzigen of uitzetten?
+
+Je kunt je betaal- of spaarrekening selecteren en via de instellingen Rond af & Spaar wijzigen of uitzetten. Dit kan door het schuifje uit te zetten. Ook kan je hier de spaarversneller aan- of uitzetten of een andere spaardoel selecteren.
+
+### Waarom zie ik Rond af & Spaar niet in de Productshop bij Product Sparen?
+
+Je hebt in dit geval Rond af & Spaar al een keer aangezet en deze kan je via je instellingen van je betaal- en/of spaarrekening terugvinden. Dit geldt ook voor als je Rond af & Spaar tijdelijk even uit hebt gezet.
+
+### Waarom zie ik niet alle spaardoelen in de lijst?
+
+Je ziet alleen de spaarrekening en spaardoelen, die aan je betaalrekening gekoppeld zijn. Deze betaalrekening heb je als eerste gekozen. Je kunt natuurlijk altijd een apart spaardoel aanmaken voor Rond af & Spaar, zodat je precies weet hoeveel je maandelijks hiermee spaart.
+
+### Wat gebeurt als ik halverwege de dag de spaarversneller aanzet of uitzet?
+
+Vanaf het moment dat je deze aanzet, geldt de spaarversneller voor al je betalingen die je doet met je pas, mobiel betalen, Apple pay of iDEAL. De afrondingen ervoor zullen nog niet worden genomen. Als je de spaarversneller uitzet betekent dit alle afrondingen na dat moment worden afgerond op de eerstvolgende hele euro.

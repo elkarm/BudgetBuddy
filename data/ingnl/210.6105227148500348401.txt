@@ -1,0 +1,14 @@
+# Belt ING? Check het Gesprek - Ontmasker oplichters met Check het Gesprek
+
+Je wordt gebeld door iemand die zegt van ING te zijn. En die vertelt je dat er iets mis is met je geld, je rekening of je Betaalpas. Dan wil je wel zeker weten dat je ons aan de lijn hebt en geen oplichter. Als je de nieuwste versie van de app hebt geïnstalleerd, kun je dit direct in de app controleren met Check het Gesprek. Hoe dat werkt? Dat lees en zie je hieronder.
+
+### Zo werkt Check het Gesprek
+
+Je checkt het gesprek als volgt:
+1. Open de Mobiel Bankieren App. Als je op je mobiel wordt gebeld, klik je op het icoon van de luidspreker zodat de beller verstaanbaar blijft. Word je op je vaste lijn gebeld? Dan ga je op je mobiele telefoon of tablet naar de app.
+2. Onderaan het startscherm van de app zie je de knop ‘Belt ING? Check het Gesprek’. Daar druk je op.
+3. In het volgende scherm vul je je eigen telefoonnummer in; dus het nummer waarop je gebeld wordt.
+4. Wij controleren direct of er iemand vanuit ING naar je nummer belt:
+   * als je echt een medewerker van ING aan de lijn hebt, staat in het scherm met wie je spreekt of vanuit welke afdeling er wordt gebeld. Via de groene balk bovenaan kun je weer terug naar het gesprek.
+   * als je een oplichter aan de lijn hebt, staat in het scherm dat je **niet** met iemand van ING belt. Ga via de groene balk bovenaan terug naar het gesprek en hang meteen op, zonder nog met de beller te praten.
+5. Bel de ING Alarmlijn via de knop in het scherm van je app (of via 020 22 888 00) en vertel wat er is gebeurd.

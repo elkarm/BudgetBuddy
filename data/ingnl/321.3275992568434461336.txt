@@ -1,0 +1,13 @@
+# Spaarrente - ING
+
+Alles wat je wilt weten over spaarrente Bij ING kan je kiezen uit spaarrekeningen met een vaste rente of met een variabele rente. Dat betekent de volgende keuze: wil je je spaargeld voor een langere periode vastzetten of wil je altijd direct over je geld beschikken?
+
+## Wat is spaarrente?
+
+Als je spaart wordt er rente berekend. De rente kan zowel positief als negatief als precies 0 zijn. Bij een positief percentage ontvang je rente over het saldo op je spaarrekening, bij een negatief percentage betaal je rente over het saldo. Bij ING kan je kiezen uit spaarrekeningen met een vaste rente of met een variabele rente. Dat betekent de volgende keuze: wil je je spaargeld voor een langere periode vastzetten of wil je altijd direct over je geld beschikken? Over het algemeen geldt: hoe langer je je spaargeld vastzet, hoe hoger de rente. Maar hoe maak je een verstandige keuze? In onderstaande tabel kan je de verschillen tussen beide spaarvormen zien:
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Variabele rente | De rente kan op ieder moment door de ING naar boven of naar beneden worden aangepast Opnemen en inleggen is altijd mogelijk Minimumsaldo is bij enkele spaarrekeningen vereist De hoogte van de rente kan afhankelijk zijn van het spaarsaldo. Gratis deelname ING Punten |
+| Vaste rente | De rente staat gedurende de looptijd van uw deposito vast Opnemen is tussentijds mogelijk tegen opnamekosten Tussentijds inleggen is niet mogelijk. U kunt wel een extra deposito openen tegen de dan geldende rentepercentages Minimale inleg vereist Geen deelname ING Punten |
+END TABLE IN MARKDOWN

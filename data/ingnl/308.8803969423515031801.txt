@@ -1,0 +1,26 @@
+# Koeweit - ING
+
+Wil je geld overmaken naar Koeweit? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Na het invoeren van het bedrag en de kostenverdeling, krijg je direct een indicatie van de prijs en wisselkoers
+
+### Bedrag
+
+Voor Koeweit dinar geldt een afwijkende regel voor het over te boeken bedrag. Je mag een bedrag tot maximaal drie decimalen (tienden centen) achter de komma noteren.
+Bijvoorbeeld: 10,225
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Koeweit is de OUR-opslag €50.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN
+
+Het IBAN voor Koeweit bestaat uit 30 posities alfanumeriek (cijfers en letters aaneengesloten invullen), bijvoorbeeld KW81 CBKU 0000 0000 0000 1234 5601 01.

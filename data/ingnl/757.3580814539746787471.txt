@@ -1,0 +1,30 @@
+# Creditcard - ING - ING Creditcard
+
+## Hoe werkt een creditcard?
+
+Met een creditcard betaal je zonder dat het geld direct van je rekening wordt afgeschreven. Een creditcard is een betaalpas waarbij je op het moment van betalen niet over het geld hoeft te beschikken op je ING Betaalrekening. Na een betaling wordt het bedrag eerst van je creditcard afgeschreven. De betalingen met je creditcard schrijven we vervolgens één keer per maand van je ING Betaalrekening af.
+
+### Kenmerken van een Creditcard
+
+* Vaste jaarlijkse kosten van € 19,80
+* Kies een bestedingslimiet van € 1.000 tot € 5.000
+* Maandelijkse afschrijving van je betalingen: exacte data
+* Je creditcard uitgaven zie je direct in je App en Mijn ING
+* Te gebruiken voor Apple Pay en Google Pay
+* Hoekige inkeping aan de zijkant, met name handig als je een visuele beperking hebt
+
+### Voordelen Creditcard
+
+* Handig op reis omdat de dekking wereldwijd beter is dan je betaalpas.
+* Handig bij borg betalingen, huren (bijv. autohuur in het buitenland) en reserveren. Je hoeft dan geen geldbedrag voor te schieten.
+* Aankopen zijn 180 dagen verzekerd tegen schade, verlies en diefstal.
+* Bestelling niet of verkeerd geleverd? Vraag je geld terug met de GeldTerugService . Let op, er gelden wel beperkende voorwaarden.
+* Te gebruiken voor Apple Pay en Google Pay
+Polisvoorwaarden Creditcard en Platinumcard 2023
+
+### Nadelen Creditcard
+
+* Geld opnemen bij een geldautomaat kost extra geld. Gebruik hiervoor bij voorkeur je Betaalpas.
+* Betalen in valuta anders dan de euro kost net als bij je Betaalpas extra geld, maar is bij een Creditcard iets duurder.
+* De extra bestedingsruimte kan leiden tot meer uitgaven dan je eigenlijk kunt veroorloven.
+* De afschrijving van je creditcardbetalingen kan leiden tot roodstand zonder toestemming als je onvoldoende bestedingsruimte op je Betaalrekening hebt.

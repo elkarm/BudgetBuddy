@@ -1,0 +1,9 @@
+# Contactloos betalen met je Betaalpas - ING
+
+## Veiligheid
+
+Contactloos betalen is een veilige manier van betalen:
+* **Bescherming met pincode** : De pincode beschermt je Betaalpas. Kleine bedragen betaal je zonder pincode, maar voor een bedrag hoger dan € 50 is altijd je pincode nodig. En zodra meerdere achtereenvolgende contactloze betalingen bij elkaar € 100 of meer bedragen, dan is ook je pincode nodig.
+* **Misbruik erg lastig** : Met contactloos betalen worden je betaalgegevens uitgewisseld via NFC. Dit is een veilige manier van informatie delen en is beperkt tot een straal van 10 centimeter. Door die korte afstand moet ook van heel dichtbij contact gemaakt worden om gegevens uit te wisselen. Zit je Betaalpas in je tas of portemonnee dan is contact maken niet mogelijk. Om het risico van misbruik door derden te beperken is daarom voor bedragen boven de € 50 een pincode nodig.
+* **Schade vergoed** : Bij misbruik door derden vergoeden wij bijna altijd je schade.
+Neem bij fraude direct contact op met onze Alarmlijn.

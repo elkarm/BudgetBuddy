@@ -1,0 +1,34 @@
+# Opnamekosten ING Spaardeposito en Groen Spaardeposito - ING
+
+## De rente op jouw deposito is gelijk aan of hoger dan de actuele rente
+
+In deze situatie betaal je de vaste opnamekosten. Dit is 0,5% van het opnamebedrag voor ING Spaardeposito en 2% voor ING Groen Spaardeposito.
+
+### We gaan uit van het volgende scenario:
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Jouw inleg | € 25.000 |
+| Afsluitdatum ING (Groen) Spaardeposito | 1 oktober 2022 |
+| Looptijd en einddatum | 7 jaar, tot 1 oktober 2029 |
+| Datum van jouw opname | 1 februari 2027 |
+| Resterende looptijd tot einddatum in jaren | 973 dagen gedeeld door 365 is 2,666 jaar |
+| Rente van jouw ING (Groen) Spaardeposito | 2% |
+| Actuele rente ING (Groen) Spaardeposito 2 jaar | 1% |
+| Opnamebedrag | € 20.000 |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Dit levert deze rekensom op voor ING Spaardeposito: | Dit levert deze rekensom op voor ING Spaardeposito: |
+| 0,5% x € 20.000 | € 100,00 |
+| Totale opnamekosten | € 100,00 |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Dit levert deze rekensom op voor ING Groen Spaardeposito: | Dit levert deze rekensom op voor ING Groen Spaardeposito: |
+| 2% x € 20.000 | € 400,00 |
+| Totale opnamekosten | € 400,00 |
+END TABLE IN MARKDOWN

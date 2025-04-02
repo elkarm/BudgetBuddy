@@ -1,0 +1,23 @@
+# Wanneer ontvang je jouw afschrift?- ING - Afschriften
+
+## Wanneer ontvang je jouw betaalafschrift?
+
+Dat hangt af van hoe vaak je het afschrift ontvangt, het laatste cijfer van jouw rekeningnummer en van onze postleverancier. In sommige gevallen kan het voorkomen dat jouw afschrift enkele dagen later bezorgd wordt.
+We gaan minder papier verbruiken om zo bij te dragen aan een duurzamere wereld. Daarom versturen we per 15 maart 2024 geen papieren maandafschriften meer als je een BasisPakket, BetaalPakket of RoyaalPakket hebt en je Mijn ING en/of de app gebruikt. Want hierin kun je op elk moment alle bij- en afschrijvingen én het actuele saldo zien.
+Ook sturen we vanaf 1 maart 2024 geen dagelijkse en wekelijkse betaalafschriften meer, ongeacht welke betaalpakket je hebt. We gaan deze afschriften tweewekelijks sturen. Kijk op ing.nl/wijzigingen-maart-2024 voor meer informatie.
+Goed om te weten:
+* Je ontvangt geen afschrift als er geen transacties zijn geweest sinds het laatste afschrift.
+* Bij een en/of rekening ontvangen beide rekenighouders een afschrift als de adressen verschillende zijn.
+Hieronder staan de bezorgdata in 2024. **Let op:** Rondom feestdagen kan de bezorgdatum afwijken.
+Het kan voorkomen dat de bezorging vertraagd is.
+Tweewekelijkse verzending
+Maandelijkse verzending
+START TABLE IN MARKDOWN
+| | | | | | | |
+| - | - | - | - | - | - | - |
+| Laatste cijfer rekeningnummer | Juli | Augustus | September | Oktober | November | December |
+| 1 | do 4 of vr 5 | do 1 of vr 2 | di 3 of wo 4 | do 3 of vr 4 | do 31 okt of vr 1 | di 3 of wo 4 |
+| 2 | di 9 of wo 10 | di 6 of wo 7 | di 10 of wo 11 | di 8 of wo 9 | di 5 of wo 6 | di 10 of wo 11 |
+| 3 | do 11 of vr 12 | do 8 of vr 9 | do 12 of vr 13 | do 10 of vr 11 | di 12 of wo 13 | di 10 of wo 11 |
+| 4 | di 16 of wo 17 | di 13 of wo 14 | di 17 of wo 18 | di 15 of wo 16 | di 12 of wo 13 | do 12 of vr 13 |
+END TABLE IN MARKDOWN

@@ -1,0 +1,13 @@
+# GeldTerugService creditcard - ING
+
+### Kan ik bij een reservering ook de GeldTerugService gebruiken?
+
+Nee, alleen afgeschreven bedragen van je creditcard kan je proberen terug te vragen. Voor een reservering op je creditcard kan dit niet.
+Een reservering op je creditcard is een betaaltransactie die nog niet volledig verwerkt is, en die niet meer kan worden ingetrokken. Het saldo van je creditcard is al met het bedrag van de reservering verlaagd (afschrijving) of verhoogd (bijschrijving). Dit kan gebeuren als je online iets bestelt, en bijvoorbeeld ook voor de borg als je een auto wilt huren. Het kan tot 21 dagen duren voordat een creditcard reservering is verwerkt of verdwenen van je overzicht. Een reservering wordt niet meegenomen in de maandelijkse incasso die wordt afgeschreven door de ING. LET OP: Alleen het bedrijf kan de reservering intrekken.
+
+### Goed om te weten
+
+* Alleen afgeschreven bedragen van je creditcard kan je proberen terug te vragen. Voor een reservering op je creditcard kan dit niet.
+* Zorg ervoor dat je het verzoek indient binnen 120 dagen nadat het bedrag van je creditcard is afgeschreven.
+* Wij vragen bewijs dat je contact hebt gezocht met de verkoper en een eventuele reactie hierop.
+Je kan de GeldTerugService ook invullen om een betaling terug te vragen als dit is afgeschreven van je positieve saldo. Een positief saldo is een bedrag dat je zelf hebt ingelegd via de ING app of Mijn ING om je bestedingslimiet te verhogen met een bijboeking vanaf je betaalrekening.

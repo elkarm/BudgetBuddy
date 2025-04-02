@@ -1,0 +1,13 @@
+# Betaalpas in het buitenland - ING
+
+### Wisselkoersen
+
+Wisselkoersen worden gebruikt om vreemde valuta transacties om te rekenen naar euro’s. Voor de Maestro Betaalpas hanteert de ING de wisselkoersen van Mastercard. Voor de V PAY Betaalpas hanteert ING de wisselkoersen van VISA. Voor het omrekenen van vreemde valuta transacties naar euro’s brengt de ING kosten in rekening, dit noemen we koersopslag. De koersopslag bedraagt 1,40%. Dit betekent dat ING de wisselkoers verhoogt met 1,40%.
+Heb je een Betaalpas met het V PAY-logo? Dan geldt de wisselkoers van VISA en dat is de koers van de dag waarop de geldopname geboekt is.
+Heb je een Betaalpas met het Maestro-logo? Dan geldt de wisselkoers van Mastercard en dat is de koers van de voorgaande dag waarop de geldopname geboekt is.
+ECB-referentiekoers Naast de door de ING gehanteerde wisselkoersen van VISA en Mastercard publiceert de Europese Centrale Bank ( ECB ) zijn wisselkoers. De Europese Commissie heeft de ECB wisselkoers gekozen als referentiekoers. Om transparant naar de klanten te zijn moeten alle betaaldienstaanbieders in de Europese Economische Ruimte ( EER ) inzicht geven in hoeveel koersopslag zij berekenen.
+Dynamic Currency Conversion (DCC) Als je een betaling of geldopname in een andere valuta dan de euro doet, dan kan de lokale betaaldienstaanbieder vragen of je gebruik wilt maken van Dynamic Currency Conversion (DCC). Wanneer je voor DCC kiest, wordt de wisselkoers van de lokale betaaldienstaanbieder toegepast en als je daar niet voor kiest, de wisselkoers van de ING.
+Betaaldienstaanbieders in de EER zijn bij DCC verplicht hun koersopslag, uitgedrukt als percentage ten opzichte van de ECB-referentiekoers, te melden voordat je de betaling goedkeurt, bijvoorbeeld op de geldautomaat. (deze verplichting geldt niet buiten de EER)
+ING wisselkoerscalculator In de ING wisselkoerscalculator kun je de ING koersopslag uitgedrukt als percentage ten opzichte van de ECB-referentiekoers bekijken. Deze kun je vergelijken met het percentage van de lokale betaaldienstaanbieder om te beslissen of je gebruik wilt maken van Dynamic Currency Conversion (DCC). Ervaring leert dat lokale betaaldienstaanbieders vaak een hogere omrekenkoers hanteren dan ING.
+Berichten in Mijn ING en Mobiel Bankieren App Bij elke eerste transactie in een vreemde valuta die je in een kalendermaand doet in één van de EER-landen, krijg je van ons een bericht in Mijn ING en de Mobiel Bankieren App. Hierin geven we met een percentage aan hoe onze koersopslag zich op dat moment verhoudt tot de ECB-referentiekoers.
+Heb je geen behoefte aan deze berichten? Schakel deze optie dan uit in de Berichten betalingen in buitenland van Mijn ING.

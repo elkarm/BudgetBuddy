@@ -1,0 +1,25 @@
+# Doelsparen - ING - Spaardoelen
+
+## Veelgestelde vragen
+
+### Geld overboeken tussen spaardoelen
+
+Dat is in Mijn ING (nog niet in de app) mogelijk als de spaardoelen bij dezelfde Oranje Spaarrekening horen. Selecteer het spaardoel waar je het geld vanaf wilt halen en kies daar voor "Opnemen". In het opname scherm kun je vervolgens de Betaalrekening waar de Oranje Spaarrekening aan is gekoppeld wijzigen in het andere spaardoel waar je het geld naartoe wilt boeken. Rond de opname af en het geld wordt direct overgeboekt naar het andere spaardoel. Je totale spaarsaldo op de Oranje Spaarrekening blijft gelijk.​
+Het overboeken van een spaardoel naar een ander spaardoel dat hoort bij een andere Oranje Spaarrekening (gekoppeld aan een andere Betaalrekening) is niet direct mogelijk. Daarvoor doe je eerst een spaaropname (naar je gekoppelde Betaalrekening), vervolgens een overschrijving naar de Betaalrekening waar het andere spaardoel (de bestemming) bij hoort en tenslotte doe je een spaarinleg bij het spaardoel van je bestemming.
+Naar Mijn ING
+
+### Zo wijzig je je spaardoel in de Mobiel Bankieren App
+
+iOs:
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Klik op het spaardoel dat je wilt wijzigen
+* Klik op het ‘wijzigen’ icoontje (het pennetje) bovenin het scherm
+* Klik op het doelbedrag en stel een nieuw doel in (NB: je kunt hier ook de naam en afbeelding van het spaardoel wijzigen)
+* Klik op ‘Opslaan’ om de wijzigingen te bewaren
+Android:
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Klik op het spaardoel dat je wilt wijzigen
+* Klik op het menu (de ‘bitterballen’) rechts bovenin het scherm
+* Kies ‘wijzigen’
+* Klik op het doelbedrag en stel een nieuw doel in (NB: je kunt hier ook de naam en afbeelding van het spaardoel wijzigen)
+* Klik op ‘Opslaan’ om de wijzigingen te bewaren

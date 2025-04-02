@@ -1,0 +1,18 @@
+# Extra creditcard aanvragen - ING
+
+## Extra Platinumcard
+
+START TABLE IN MARKDOWN
+| | | | |
+| - | - | - | - |
+| Uw Pakket | Platinumcard | 1e Extra Platinumcard | 2e Extra Platinumcard |
+| OranjePakket | € 52,20 per jaar | € 31,20 per jaar | € 31,20 per jaar |
+| Niet meer te openen pakketten | | | |
+| BasisPakket | € 52,20 per jaar | € 31,20 per jaar | € 31,20 per jaar |
+| BetaalPakket | Niet mogelijk | Niet mogelijk | Niet mogelijk |
+| RoyaalPakket | Onderdeel van pakket | Onderdeel van pakket | € 31,20 per jaar |
+END TABLE IN MARKDOWN
+
+## Welk pakket heb je?
+
+Zoek via Mijn ING in het overzicht op 'Kosten pakket'. Je pakkettype (Oranje-, Basis-, Betaal- of RoyaalPakket) staat in de afschrijving vermeld. Heb je geen Mijn ING? Kijk dan in je papieren rekeningafschriften.

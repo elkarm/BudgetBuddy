@@ -1,0 +1,47 @@
+# Verenigde Arabische Emiraten - ING
+
+### IBAN en vereiste informatie
+
+* Het IBAN voor Verenigde Arabische Emiraten bestaat uit 23 posities alfanumeriek (cijfers en letters aaneengesloten invullen), bijvoorbeeld: AE070331234567890123456.
+* The Centrale Bank van de Verenigde Arabische Emiraten (CBUAE) stelt een Purpose of Payment Code verplicht. De Purpose of Payment code zet je in het omschrijvingsveld, in het volgende formaat: /BENEFRES/AE//<Purpose of Payment Code>/ Bijvoorbeeld: /BENEFRES/AE//ACM/
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Code | Omschrijving van Purpose of Payment Code |
+| AFA | Receipts or payments from personal residents bank account or deposits abroad |
+| AFL | Receipts or payments from personal non\-residents bank account in the UAE |
+| ALW | Allowance |
+| CHC | Charitable Contributions (Charity and Aid) |
+| EDU | Educational Support |
+| FAM | Family Support (Workers’ remittances) |
+| FIA | Investment fund shared foreign |
+| FIL | Investment fund shared in the UAE |
+| FIS | Financial services |
+| GDE | Goods sold (Exports in FOB value) |
+| GDI | Goods bought (Imports in CIF value) |
+| IGT | Inter\-group transfers |
+| IID | Interest on debt intragroup |
+| INS | Insurance services |
+| ISH | Income on investment funds shares |
+| ITS | Computer services |
+| LEA | Leasing abroad |
+| LEL | Leasing in the UAE |
+| OAT | OWN ACCOUNT TRNSFER |
+| OTS | Other modes of transport (INCLUDING Postal and courier services) |
+| PEN | Pension |
+| PIN | Personal Investments |
+| PMS | Professional and management consulting services |
+| PPA | Purchase of real estate abroad from residents |
+| PPL | Purchase of real estate in the UAE from non\-residents |
+| PRS | Personal, cultural, audiovisual and recreational services |
+| RNT | Rent Payments |
+| SAL | Salary (Compensation of employees) |
+| SCO | Construction |
+| STR | Travel |
+| TCS | Telecommunication services |
+| TOF | Transfer of funds between persons Normal and Juridical |
+| TTS | Technical, trade‐related and other business services |
+| UTL | Utility Bill Payments |
+| TAX | Tax Payment |
+END TABLE IN MARKDOWN
+Purpose codes Verenigde Arabische Emiraten

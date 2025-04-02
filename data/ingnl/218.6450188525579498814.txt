@@ -1,0 +1,26 @@
+# Tarieven Passen - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven.
+Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar ING
+* Creditcards
+* Rood staan
+* Overige Producten
+* Buitenland
+* Gebruik, storten en afschriften
+Tip: Het is vaak verstandig om te betalen in de lokale munteenheid. Als je wilt afrekenen in euro’s wordt het bedrag dat je besteedt in vreemde valuta door de bank of winkel naar de euro omgerekend. Vaak hanteert men in deze gevallen een hogere omrekenkoers dan ING waardoor je duurder uit bent.
+START TABLE IN MARKDOWN
+| Uitgaande Overschrijvingen | |
+| - | - |
+| Overschrijving via Mijn ING | € 0,00 |
+| Overschrijving via iDEAL | € 0,00 |
+| Overschrijving via Mobiel Bankieren | € 0,00 |
+| Europese Overschrijvingskaarten voor houders van een OranjePakket of ING Studentenrekening, Jongerenrekening en Kinderrekening (niet mogelijk met OranjePakket met korting) | € 12,50 per boekje van 20 kaarten |
+| Europese Overschrijvingskaarten voor houders van het BasisPakket en BetaalPakket\* | € 0,00 per boekje van 20 kaarten |
+| 20 portvrije ING verzendenveloppen naar correspondentieadres klant: in bezit van OranjePakket of ING Studentenrekening, Jongerenrekening of Kinderrekening\*\* (niet mogelijk met OranjePakket met korting) | € 15,00 |
+| 20 portvrije ING verzendenveloppen naar correspondentieadres klant: voor houders van de overige pakketten\*\* (niet mogelijk met OranjePakket met korting) | € 0,00 |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

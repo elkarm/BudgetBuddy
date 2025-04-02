@@ -1,0 +1,21 @@
+# Betalingsverkeer op feestdagen - ING
+
+### Dienstverlening 2024
+
+START TABLE IN MARKDOWN
+| | | Europese Instant payment mogelijk\*\* | Europese Overschrijvingmogelijk\*\*\* | Wereldbetalingmogelijk\*\*\*\* | Euronext Amsterdam geopend |
+| - | - | - | - | - | - |
+| Vrijdag 29 maart | Goede Vrijdag | Ja | Nee | Nee | Nee |
+| Maandag 1 april | 2de Paasdag | Ja | Nee | Nee | Nee |
+| Zaterdag 27 april | Koningsdag | Ja | Nee | Nee | Nee |
+| Woensdag 1 mei | Dag van de Arbeid | Ja | Nee | Nee | Nee |
+| Zondag 5 mei | Bevrijdingsdag(* Bevrijdingsdag wordt elke 5 jaar gevierd ** Geleidelijk zullen steeds meer (enkelvoudige) overschrijvingen via de Mobiel Bankieren App en Mijn ING als instant payment uitgevoerd worden, dus ook ’s avonds, in het weekend en op feestdagen. Klik hier voor meer informatie.) | Ja | Nee | Nee | Nee |
+| Donderdag 9 mei | Hemelvaartsdag | Ja | Ja | Ja | Ja |
+| Maandag 20 mei | 2e Pinksterdag | Ja | Ja | Ja | Ja |
+| Woensdag 25 december | 1e Kerstdag | Ja | Nee | Nee | Nee |
+| Donderdag 26 december | 2e Kerstdag | Ja | Nee | Nee | Nee |
+| Dinsdag 31 december | Oudejaarsdag | Ja | Ja | Ja | Ja |
+| Woensdag 1 januari 2025 | Nieuwjaarsdag | Ja | Nee | Nee | Nee |
+| | | | | | |
+END TABLE IN MARKDOWN
+(***\* Wereldbetalingen zijn overboekingen naar landen buiten het SEPA-gebied, of in een andere valuta dan euro daarbinnen.) Europese overschrijvingen zijn overboekingen in euro naar rekeningen in landen binnen het SEPA-gebied , dus ook binnen Nederland.

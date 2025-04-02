@@ -1,0 +1,31 @@
+# Verwerkingsduur buitenlandse betalingen - Verwerkingstijd Wereldbetalingen
+
+### Uiterste aanlevertijden Mijn ING / Mijn ING Zakelijk / Inside Business
+
+START TABLE IN MARKDOWN
+| | | | | |
+| - | - | - | - | - |
+| Valuta's met verwerking volgende werkdag | Valuta's met verwerking volgende werkdag | Valuta's met verwerking volgende werkdag | | |
+| Valuta | | Aangeleverd voor: | | |
+| AED (VAE Dirham) | | 15:30 | | |
+| CNY (Chinese yuan) | | 15:30 | | |
+| SAR (Saudi\-Arabische riyal) | | 15:30 | | |
+| THB (Thaise bath) | | 15:30 | | |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| | | | | |
+| - | - | - | - | - |
+| Valuta's met verwerking over 2 werkdagen | Valuta's met verwerking over 2 werkdagen | Valuta's met verwerking over 2 werkdagen | | |
+| Valuta | | Aangeleverd voor: | | |
+| ANG (Antilliaanse gulden) | | 15:30 | | |
+| AWG (Arubaanse gulden) | | 9:30 | | |
+| BHD (Bahreinse dinar) | | 11:30 | | |
+| INR (Indiase rupee) | | 15:30 | | |
+| KES (Kenyaanse shilling) | | 15:30 | | |
+| KWD (Koeweitse dinar) | | 15:30 | | |
+| KRW (Koreaanse won) | | 15:30 | | |
+| MAD (Marokkaanse dirham) | | 15:30 | | |
+| MUR (Mauritaanse rupee) | | 09:30 | | |
+| OMR (Omaanse rial) | | 16:15 | | |
+| TND (Tunesische dinar) | | 15:30 | | |
+END TABLE IN MARKDOWN

@@ -1,0 +1,11 @@
+# Belt ING? Check het Gesprek - Ontmasker oplichters met Check het Gesprek
+
+### Hoe werkt het als je inlogt met FaceID of je vingerafdruk?
+
+Wanneer je niet aan het bellen bent, log je in zoals je gewend bent. Bijvoorbeeld met je FaceID. In dat geval zie je het login scherm – en dus de Check het Gesprek knop – nauwelijks. Maar als je aan het bellen bent en tegelijkertijd de app opent, zorgt de app dat het inloggen met biometrie wordt onderdrukt. Je krijgt dan eerst het inlogscherm van de app te zien, met daarop de Check het Gesprek-knop. De knop zal op dat moment bovendien pulseren om je aandacht te trekken. Zo houden we de balans tussen veiligheid en gebruiksgemak zo optimaal mogelijk. De knop is immers vooral relevant op het moment dat je aan het bellen bent.
+Wil je de Check gebruiken terwijl je al ingelogd bent? Dat kan! Type 'check het gesprek' in de zoekbalk bovenaan de overzichtspagina van je app. Je krijgt dan twee resultaten. Het eerste zoekresultaat (‘Wat is Check het Gesprek?’) verwijst je naar dit artikel op ing.nl. Met het tweede (‘Belt ING? Check het Gesprek’) start je de Check.
+
+### Ophangen is ook OK
+
+Lukt het niet om de app te openen terwijl je aan het bellen bent? Hang dan gewoon direct op en bel de Alarmlijn. Een échte ING-medewerker vindt dat geen probleem.
+Je kunt de Alarmlijn vanuit de app bellen (via de Serviceknop onderaan het scherm,) of gewoon telefonisch via 020 22 888 00. De Alarmlijn is 24 uur per dag, 7 dagen in de week bereikbaar.

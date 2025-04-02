@@ -1,0 +1,15 @@
+# Hoe lees ik mijn creditcard afschrijvingen? - ING
+
+Op deze pagina beantwoorden we de meestgestelde vragen over je creditcard afschrijvingen. Wat is bijvoorbeeld een reservering, incasso accountr 210 of een kaartbijdrage?
+
+### Transacties op je creditcard overzicht
+
+* **Kaartbijdrage:** Als je net een nieuwe creditcard hebt zul je altijd als eerste transactie op je overzicht “Kaartbijdrage” zien. Dit zijn de kosten van je creditcard, ook wel de kaartbijdrage genoemd. Deze kaartbijdrage betaal je jaarlijks vooruit en wordt automatisch afgeschreven.
+* **Reservering:** Een reservering op je creditcard is een betaaltransactie die nog niet volledig verwerkt is, en die niet meer kan worden ingetrokken. Het saldo van je creditcard is al met het bedrag van de reservering verlaagd (afschrijving) of verhoogd (bijschrijving). Dit kan gebeuren als je online iets bestelt, en bijvoorbeeld ook voor de borg als je een auto wilt huren. Het kan tot 21 dagen duren voordat een creditcard reservering is verwerkt of verdwenen van je overzicht. Een reservering wordt niet meegenomen in de maandelijkse incasso die wordt afgeschreven door de ING.
+LET OP: Alleen het bedrijf kan de reservering intrekken.
+
+### Incasso creditcard accountnr 210
+
+Deze beschrijving staat voor de maandelijkse afschrijving van je creditcard. Als je je creditcard de afgelopen maand hebt gebruikt, betaal je het openstaande saldo door middel van de maandelijkse afschrijving. Je hoeft hier niets voor te doen, wij incasseren het openstaande saldo automatisch van je bankrekening. Alleen als je gespreid betalen aan hebt staan werkt dit anders.
+Klik op **toon vorige periode** binnen je creditcardoverzicht om te bekijken uit welke transacties je maandelijkse afschrijving is opgebouwd.
+Heb je een extra creditcard? Dan zie je alleen de transacties die met die creditcard gedaan zijn. De hoofdkaarthouder ziet wel alle transacties terug in het overzicht, ook de transacties die met de extra creditcard zijn gedaan. De incasso is dan een afschrijving van het openstaande saldo van zowel de hoofd- als de extra creditcard.

@@ -1,0 +1,13 @@
+# Makkelijk online betalen met de Digitale Betaalpas - Koppel je betaalpas voor makkelijk online betalen
+
+## Wat heb je nodig om een winkel te koppelen?
+
+Vanaf 16 jaar kun je je favoriete winkel koppelen. Je hebt het volgende nodig:
+* Een particuliere Betaalrekening.
+* De meest recente versie van de Mobiel Bankieren app.
+* Een persoonlijk login account bij de winkel.
+* De meest recente versie van de app van de winkel waaraan je de rekening wilt koppelen.
+
+## Betaallimiet
+
+Voor online betalingen bij alle gekoppelde winkels en betalen met Apple Pay/Mobiel Betalen geldt gezamelijk één daglimiet van maximaal € 2.500. Ben je 16 of 17 jaar, dan is het maximumbedrag € 250 per dag. Het maakt niet uit of je in Nederland of in het buitenland betaalt. De limiet kun je niet wijzigen.

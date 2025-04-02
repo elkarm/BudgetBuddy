@@ -1,0 +1,37 @@
+# Nieuw in de app - ING
+
+## Update Betaalverzoek: meerdere bedragen splitsen in één verzoek
+
+### Nieuw in de app: meerdere bedragen splitsen in één Betaalverzoek (Android en iOS).
+
+Met deze update gaat een veelgevraagd klantverzoek live. Zo maken we de app nog makkelijker, slimmer en persoonlijker!
+Betaalverzoek maken
+
+## Rekeningoverzicht (iOS en Android)
+
+### Iets wijzigen of bekijken in de instellingen van je Betaalrekening?
+
+Nu een handig overzicht op de pagina rekening instellingen.
+Hoe werkt het? Log in op de app en klik op je betaalrekening. Tik op de drie puntjes rechtsboven voor een overzicht. In dit overzicht vind je onder meer jouw:
+* IBAN
+* BIC
+* Rente overzicht
+* Afschriften downloaden
+* Rekening opzeggen
+* en meer
+
+## Nu ook Dark Mode voor Android!
+
+Dark Mode is een feature waarbij de interface aangepast kan worden naar een donker kleurschema.
+Dark Mode van ING is beschikbaar op zowel de telefoon als tablet. Je moet hiervoor versie tien of nieuwer hebben. De app past zich automatisch aan de instellingen van je Android-telefoon. Je kunt de ING-app dus niet altijd op donker instellen.
+
+## Creditcards nu ook in Kijk Vooruit
+
+De creditcard die is toegevoegd is het type creditcard voor particuliere klanten waar maandelijks het gehele openstaande bedrag door ING wordt geïncasseerd. Meer dan 90% van onze klanten heeft dit type creditcard.
+Wat zie je precies in Kijk Vooruit?
+* Afschrijvingen die zeker zullen plaatsvinden
+* Afschrijvingen die voorspeld worden op basis van eerdere afschrijvingen, zoals bijvoorbeeld je energierekening
+* Bijschrijvingen die voorspeld worden op basis van eerdere bijschrijvingen zoals bijvoorbeeld je salaris
+* Spaaropdrachten die je hebt ingepland
+* Het voorspelde saldo op basis van alle bedragen die volgens Kijk Vooruit van je rekening gaan of er bij komen
+Alles over Kijk Vooruit

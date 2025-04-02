@@ -1,0 +1,32 @@
+# Software van je smartphone of tablet - ING
+
+Net zoals bij een computer heeft ook je smartphone of tablet een softwaresysteem, ook wel een besturingssysteem genoemd. De bekendste zijn iOS (voor Apple toestellen) en Android (voor bijvoorbeeld Samsung).
+
+## Software update
+
+Deze software heeft regelmatig een update nodig. Zo voldoe je weer aan alle nieuwe veiligheidsstandaarden en verbeteringen. En houd je toegang tot al je apps. Om de app te kunnen installeren of updaten is soms dus eerst een software update nodig.
+Op dit moment is minimaal iOS 15 of Android 8 nodig om onze app te kunnen gebruiken. Hiermee ontvang je de nieuwste versies van de app. Kun je je software niet updaten naar iOS 15 of Android 8? Dan is je toestel helaas verouderd.
+
+### Zo doe je een software update voor iOS (Apple)
+
+**Update besturingssysteem van je smartphone of tablet**
+1. Klik op ‘Instellingen’ op je smartphone op tablet
+2. Klik op ‘Algemeen’
+3. Klik op ‘Software-update’
+4. Als er een nieuwe update beschikbaar is, dan zie je deze hier staan. Klik op ‘update’ om het downloaden van de update te starten. Klik vervolgens op ‘installeer'
+5. Na de installatie kun je de Mobiel Bankieren App opnieuw proberen te updaten of te downloaden
+* Update de app
+* Download de app
+
+### Zo doe je een software update voor Android (Samsung, Google, Motorola))
+
+**Update besturingssysteem van je smartphone of tablet**
+1. Klik op ‘Instellingen’ op je smartphone op tablet
+2. Klik op ‘Over deze telefoon’
+3. Klik op ‘Systeem updates’
+4. Klik op ‘Controleren op updates’
+5. Als er een nieuwe update beschikbaar is, dan zie je deze hier staan. Klik op ‘update’ om het downloaden van de update te starten. Klik vervolgens op ‘installeer’
+6. Na de installatie kun je de Mobiel Bankieren App opnieuw proberen te updaten of te downloaden
+Updaten van het besturingssysteem van Android kan op sommige toestellen net iets anders werken.
+* Update de app
+* Download de app

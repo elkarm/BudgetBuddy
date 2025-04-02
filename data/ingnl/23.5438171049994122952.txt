@@ -1,0 +1,28 @@
+# Canada - ING
+
+Wilt je geld overmaken naar Canada? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt jouw begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Canada is de OUR-opslag €15.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van jouw opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN, BIC en Canadian Sort Code
+
+Canada kent geen IBAN en geen standaardrekeningstructuur.
+Voor betalingen naar Canada in CAD is naast het rekeningnummer en de BIC, het opgeven van een nationale bankcode vereist, de Canadian Sort Code (CC), bestaande uit 9 cijfers.
+Voor betalingen naar Canada in andere valuta's dan CAD, zoals EUR, is de Canadian Sort Code (CC) niet nodig.
+
+### Belangrijk
+
+Op facturen kan het zijn dat de CC in 2 delen wordt weergegeven, 'Bank' en 'Branch':
+'Bank' - of 'Institution' - bestaat uit 4 cijfers. Als je minder cijfers aantreft op uw factuur, vul je het aan met een of meerdere voorloopnullen, zodat je op 4 cijfers uitkomt. Bijvoorbeeld: bij 'Bank 074' zet je er een extra nul voor. Het getal wordt dan '0074'.
+'Branch' – of 'Transit' - bestaat uit 5 cijfers. Als je minder cijfers aantreft op de factuur, vul je het aan met een of meerdere voorloopnullen zodat je op 5 cijfers uitkomt. Bijvoorbeeld: bij 'Branch 0598' zet je er een extra nul voor. Het getal wordt dan '00598'. Deze gedeeltes zet je vervolgens achter elkaar. In dit voorbeeld wordt het dan: 007400598.

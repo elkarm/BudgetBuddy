@@ -1,0 +1,18 @@
+# Tarieven Creditcards - ING - Inzicht in tarieven van betaalproducten
+
+### Meer over de tabel Gespreid Betalen bij de creditcard
+
+* **Variabele debetrentevoet**
+Het rentepercentage, dat je voor je krediet betaalt, op jaarbasis. Deze rente is variabel en kan wijzigen in de periode dat je het krediet hebt.
+* **Jaarlijks Kostenpercentage**
+Dit percentage geeft de te betalen rente plus eventuele bijkomende kosten voor een Betaalrekening en Betaalpas op jaarbasis aan. De andere kosten van het krediet zijn in dit geval de kosten van jouw betaalpakket.
+Voor de berekening van deze percentages gaan wij uit van de volgende situatie:
+* Het totale kredietbedrag wordt onmiddellijk in een keer helemaal opgenomen en in 12 gelijke maandelijkse termijnen terugbetaald.
+* Er wordt tussendoor niet extra afgelost of een nieuwe opname gedaan.
+* De debetrentevoet van het krediet blijft de hele duur van het contract gelijk.
+* Je maakt gebruik van een betaalpakket.
+* De kosten van het pakket blijven de hele duur van het contract gelijk
+* Aanvragen Gespreid Betalen op creditcards is niet meer mogelijk.
+* Bij Gespreid betalen los je maandelijks een vast bedrag of percentage van het openstaande bedrag af. Het maandelijkse bedrag bestaat uit rente en aflossing.
+* Je kunt altijd zelf extra aflossen zonder aanvullende kosten.
+Extra Saldo Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

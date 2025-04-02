@@ -1,0 +1,20 @@
+# Inzicht in tarieven van betaalproducten - ING
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft de ING ze voor je op een rij gezet.
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Emergency Cash | Met Emergency Cash kun je 24 uur per dag bij verlies of diefstal van de Betaalpas geld opnemen in het buitenland Je kunt opnemen tot en met een bedrag van € 2.000 |
+| | Met Emergency Cash kun je 24 uur per dag bij verlies of diefstal van de Betaalpas geld opnemen in het buitenland Je kunt opnemen tot en met een bedrag van € 2.000 |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| Mobiel Bankieren | |
+| - | - |
+| Mobiel Bankieren (Apple Pay of betalen met Android) | € 0,00 |
+| De kosten voor het gebruik van internet en je mobiele telefoon zijn voor je eigen rekening. | De kosten voor het gebruik van internet en je mobiele telefoon zijn voor je eigen rekening. |
+END TABLE IN MARKDOWN
+
+## Kluizen
+
+Het is niet meer mogelijk om een kluis bij ING te huren.
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

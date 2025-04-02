@@ -1,0 +1,20 @@
+# Incasso, zo werkt het - ING
+
+### Maximum bedrag instellen
+
+Het is mogelijk om een maximum bedrag voor een incasso in te stellen. Zo bepaal je zelf welk bedrag maximaal geïncasseerd kan worden. Je stelt dit maximum in per machtiging.
+Hoe doe je dat?
+1. Ga naar het Incasso overzicht.
+2. Selecteer de juiste Betaalrekening.
+3. Scroll naar beneden tot je bij het kopje 'Incassomachtigingen' bent. Klik hier op de incassant om de bestaande machtiging(en) weer te geven. Klik in de machtiging op 'Bewerk maximum bedrag'.
+4. Er verschijnt nu een pop up scherm. Controleer de gegevens en verplaats onderaan het schuifje naar rechts door er op te klikken. Voer vervolgens het maximale bedrag in. Klik op "Bewaar".
+5. Nu is het maximum bedrag ingesteld. Het bedrag is direct zichtbaar in de machtiging zelf.
+
+### Terugboeken van een onterechte incasso
+
+Is er onterecht een incasso van je Betaalrekening afgeschreven? Dan is het goed te weten dat je dit bedrag eenvoudig kunt terugboeken (storneren). Het terugboeken van een incasso kan binnen 56 dagen nadat het bedrag van je rekening is geïncasseerd. Indien deze tijd is verstreken kun je een ‘Melding onterechte incasso’ indienen.
+Meer over onterechte incasso's en het terugboeken hiervan
+
+### Kan ik een verzoek tot terugboeken van incasso (stornering) alsnog annuleren?
+
+Het is niet mogelijk om je verzoek tot terugboeken van een incasso te annuleren. Neem hiervoor contact op met de incassant.

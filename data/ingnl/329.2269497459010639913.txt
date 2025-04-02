@@ -1,0 +1,26 @@
+# Onze dienstverlening op feestdagen - ING - Dienstverlening op feestdagen
+
+Op sommige officiële feestdagen passen wij onze dienstverlening en onze openingstijden aan.
+
+## Betalingsverkeer op feestdagen
+
+Op sommige (inter)nationale feestdagen geldt een aangepaste dienstverlening voor het betalingsverkeer. Je kunt je betalingen tijdens officiële feestdagen wel altijd elektronisch aanleveren. Ze worden dan de eerstvolgende werkdag verwerkt met uitzondering van instant payments welke altijd direct worden verwerkt. We hebben de dagen wanneer je betaalopdrachten wel en niet worden verwerkt in een overzicht gezet.
+Overzicht betalingsverkeer op feestdagen
+
+## Bereikbaarheid telefonische Klantenservice, Chat en Webcare
+
+START TABLE IN MARKDOWN
+| Datum | Feestdag | Bereikbaarheid |
+| - | - | - |
+| Maandag 1 april | 2e Paasdag | Gesloten |
+| Zaterdag 27 april | Koningsdag | Gesloten |
+| Donderdag 9 mei | Hemelvaartsdag | Gesloten |
+| Maandag 20 mei | 2e Pinksterdag | Gesloten |
+| Dinsdag 24 december | Kerstavond | Tot 16:00u |
+| Woensdag 25 december | 1e Kerstdag | Geloten |
+| Donderdag 26 december | 2e Kerstdag | Gesloten |
+| Dinsdag 31 december | Oudjaarsdag | Tot 16:00u |
+END TABLE IN MARKDOWN
+Deze bereikbaarheid geldt voor onze telefonische klantenservice, het chatten met één van onze medewerkers en ons Webcare team.
+De Alarmlijn is 24 uur per dag, 7 dagen per week bereikbaar via 020 22 888 00 . Dit nummer is uitsluitend voor het melden van vermissing, diefstal en blokkeren van betaalpassen, creditcards en overschrijvingskaarten.
+Stel hier je vraag in de chat

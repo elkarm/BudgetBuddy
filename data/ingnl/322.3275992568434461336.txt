@@ -1,0 +1,18 @@
+# Spaarrente - ING
+
+## Hoe komt de spaarrente tot stand?
+
+### Hoe wordt de hoogte van de rente voor spaarrekeningen met een variabele rente bepaald?
+
+Bij een spaarrekening met een variabele rente kan ING op elk moment de spaarrente wijzigen. De hoogte van de variabele spaarrente wordt daarbij bepaald door onder andere:
+* De marktrentes
+* Het spaargedrag van onze klanten
+* De spaarrentes in de markt
+
+### De marktrentes
+
+Een deel van het spaargeld dat de bank beheert, wordt opnieuw uitgeleend in de markt in de vorm van bijvoorbeeld hypotheken en leningen aan bedrijven. De bank leent een deel van dit geld uit voor een langere periode omdat dit meestal een hogere rente oplevert. Dit gebeurt tegen vergoedingen die gebaseerd zijn op de kapitaalmarktrentes.(* De kapitaalmarkt is het geheel van vraag en aanbod van krediet met een looptijd van meer dan 1 jaar.) Maar om er voor te zorgen dat onze klanten hun spaargeld altijd kunnen opnemen, lenen we niet al het spaargeld uit voor een langere periode. Een deel lenen we kort uit tegen vergoedingen die gebaseerd zijn op de geldmarktrentes.(** De geldmarkt is het geheel van vraag en aanbod van krediet met een looptijd korter dan 1 jaar.)
+
+### Het spaargedrag van onze klanten
+
+Hoeveel spaargeld we uitlenen voor een korte periode en hoeveel voor langere periodes, hangt af van de hoeveelheid aan spaargeld die onze klanten opnemen.

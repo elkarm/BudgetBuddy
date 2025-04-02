@@ -1,0 +1,9 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### Hoe vaak kan ik een Apple Pay/ mobiele betaalpas activeren?
+
+Je kunt nu maximaal 2 keer per dag of maximaal 3 keer per 30 dagen mobiel betalen activeren. Dit limiet geldt per combinatie van betaalpas en mobiele telefoon/ apparaat.
+Heb je dit limiet bereikt? Dan zie je een foutmelding tijdens het activatie proces “Kaartlimiet apparaat”.
+Afhankelijk van het aantal keer dat je mobiel betalen hebt geactiveerd kun je het op een later moment nog een keer proberen. Of gebruik je een andere telefoon of selecteer je een andere betaalpas.

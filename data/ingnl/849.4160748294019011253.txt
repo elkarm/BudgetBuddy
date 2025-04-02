@@ -1,0 +1,10 @@
+# Hulp na online aankoop oplichting - ING
+
+### Hoe werkt het?
+
+* Doe online aangifte via politie.nl
+* Check op deze site van de politie of er meldingen bekend zijn over het IBAN nummer waar jij geld naar hebt overgemaakt
+* Is er een melding bekend? Maak hier dan een prinstscreen van.
+* Mail een kopie van jouw aangifte en de printscreen naar fraude@ing.nl
+* Wij houden je op de hoogte van de voortgang.
+Dit proces is afgesproken tussen de banken die lid zijn van de Betaalvereniging . Dat betekent dat we dit proces alleen voor je kunnen starten als het geld is overgemaakt naar een Nederlandse bankrekening van één van de banken die lid is van de Betaalvereniging .

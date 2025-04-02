@@ -1,0 +1,25 @@
+# Tarieven Rekeningen - ING - Inzicht in tarieven van betaalproducten
+
+## Kosten voor niet-digitale middelen Kinder- Jongeren- en Studentenrekening
+
+START TABLE IN MARKDOWN
+| Wat kan eventueel ook niet digitaal | Kinderrekening | Jongerenrekening | Studentenrekening |
+| - | - | - | - |
+| Papieren maandafschrift | Gratis | Gratis | € 1,25 per maand |
+| Twee wekelijks afschrift | € 1,75 per maand | € 1,75 per maand | € 1,75 per maand |
+| Gebruik overschrijvingskaarten | € 12,50 voor boekje met 20 kaarten | € 12,50 voor boekje met 20 kaarten | € 12,50 voor boekje met 20 kaarten |
+| Contant geld storten op eigen rekening | Eerste 3 keer per kalender jaar gratis Elke extra storting kost € 6 per storting | Eerste 2 keer per kalender jaar gratis Elke extra storting kost € 6 per storting | Biljetten: eerste 2 keer per kalender jaar gratis. Elke extra storting en elke storting met muntgeld kost €6 per storting. |
+| ATM Euro geldopname binnen de EER\-landen | Gratis | Gratis | Eerste 12 per kalender jaar gratis, erna € 0,80 per keer |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| Rekeningen | |
+| - | - |
+| Kinderrekening (van 0 tot 12 jaar) | Gratis |
+| Als je kind 12 jaar wordt, verandert de Kinderrekening automatisch in een Jongerenrekening met hetzelfde rekeningnummer Zelf een unieke Betaalpas ontwerpen | |
+| Jongerenrekening (van 12 tot 18 jaar) | Gratis |
+| Op een leuke manier met geld leren omgaan Geldzaken regelen via internet en telefoon (met jouw toestemming) | |
+| Studentenrekening (van 16 tot 30 jaar) | Gratis |
+| Studiefinanciering snel op je rekening |
+END TABLE IN MARKDOWN
+* Meer informatie over Betaalrekeningen
+* Betaalrekening aanvragen

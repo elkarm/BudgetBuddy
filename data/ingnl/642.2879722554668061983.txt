@@ -1,0 +1,18 @@
+# Reserveringen - ING
+
+Kom je wel eens het woord ‘Reservering’ tegen in je Mobile Bankieren App, Mijn ING of creditcardoverzicht? En vraag je je af wat dat betekent? Hieronder vind je antwoord op veel gestelde vragen.
+
+### Wat is een reservering?
+
+Een reservering is een betaling die nog niet helemaal is verwerkt, maar die je niet meer kunt terugdraaien. ING kan een reservering niet verwijderen of aanpassen. Het saldo van je Betaalrekening of de bestedingsruimte van je creditcard wordt al wel verlaagd met het bedrag van de reservering. Hierdoor weet je wat je nog kunt besteden.
+
+### Reserveringen bij een Betaalpas
+
+Reken je af met je pas, mobiel of smartwatch? Of neem je geld op bij een geldautomaat? Dan zie je in je Mobiel Bankieren App of Mijn ING direct daarna bij het bedrag ‘Reservering’ staan. Bij een Betaalpas wordt het gereserveerde bedrag in mindering op je saldo van je Betaalrekening. De datum van de reservering wordt na de afboeking automatisch aangepast aan de datum waarop het bedrag daadwerkelijk van je rekening wordt afgeschreven (de boekdatum). Op de boekdatum worden eventuele kosten toegevoegd zoals koersopslag bij betalingen in vreemde valuta en geldopnamekosten.
+Uitleg bij langere reservering
+Als de reservering langer dan 4 dagen duurt, dan zie je bij de transactie de volgende tekst:
+De meeste reserveringen worden binnen 7 dagen een boeking of ze vervallen. Maar soms staat je betaling langer op ‘reservering’, bijvoorbeeld bij een autohuur of een hotelreservering. Het saldo van je Betaalrekening is dan al wel verlaagd met het bedrag van de reservering. En goed om te weten: ING kan geen reserveringen verwijderen of wijzigen.
+
+### Reserveringen bij overschrijvingen in de Mobiel Bankieren App of Mijn ING
+
+Wanneer je geld overmaakt in Mijn ING of de Mobiel Bankieren App, wordt dit nog dezelfde dag volledig verwerkt. De datum van de reservering wordt na de afboeking automatisch aangepast aan de boekdatum. Een betaaltransactie is volledig verwerkt na boeking. Kijk hier voor meer informatie over de verwerkingstijden van een overschrijving.

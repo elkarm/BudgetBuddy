@@ -1,0 +1,22 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+## Veelgestelde vragen
+
+### Hoe vaak kan ik een Google Pay/ Mobiele Betaalpas activeren?
+
+Je kunt maximaal 2 keer per dag of maximaal 3 keer per 30 dagen Google Pay/ mobiel betalen activeren. Dit limiet geldt per combinatie van betaalpas en mobiele telefoon/ apparaat.
+Heb je dit limiet bereikt? Dan zie je een foutmelding tijdens het activatie proces “Kaartlimiet apparaat”.
+Afhankelijk van het aantal keer dat je mobiel betalen hebt geactiveerd kun je het op een later moment nog een keer proberen. Of gebruik je een andere telefoon of selecteer je een andere betaalpas.
+
+### Kan ik betalen met gezichtsherkenning of vingerafdrukidentificatie?
+
+Voor betalingen ontgrendel je je telefoon zoals je gewend bent. Dus met je pincode, gezichtsherkenning of vingerafdruk. Daarna kun je direct de betaling uitvoeren.
+Voor veilig betalen van Google Pay, raden we je aan om je telefoon te ontgrendelen met biometrics (gezichtsherkenning of vingerafdrukidentificatie). Gebruik je toch liever de pincode voor ontgrendeling? Zorg dat de standaard pincode (fabrieksinstelling) is aangepast.
+
+### Kan ik mijn Creditcard in Google Pay gebruiken?
+
+Ja, je kunt jouw ING Creditcard toevoegen aan de Google Wallet. Bekijk hier hoe je je ING Creditcard toevoegt aan de Google Wallet .
+
+### Moet je telefoon verbonden zijn met internet om te betalen met Google Pay?
+
+Ja en nee. Als je telefoon niet verbonden is met internet kun je maximaal 10 keer een betaling doen. Daarna moet je telefoon eerst weer verbinding maken met internet om een nieuwe betaling te doen.

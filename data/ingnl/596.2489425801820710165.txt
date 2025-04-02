@@ -1,0 +1,18 @@
+# Rood staan op je betaalrekening - ING - ING Rood Staan
+
+## Wat kost ING Rood Staan?
+
+Rente voor Rood Staan De rente die je betaalt is afhankelijk van het bedrag dat je rood hebt gestaan en hoe lang. We berekenen aan het eind van elke dag hoeveel rente je die dag moet betalen. Op de eerste dag van de maand tellen we de berekende dagrentes van afgelopen maand op en schrijven we de som af van je Betaalrekening.
+Kosten Oranjepakket en jaarlijks kostenpercentage Hieronder zie je rekenvoorbeelden van rente en kosten bij verschillende kredietbedragen. Het maandbedrag zijn de rentekosten als je de hele maand maximaal rood hebt gestaan. Het jaarlijks kostenpercentage bevat naast de rentekosten ook de kosten van het Oranjepakket (€ 3,15 per maand). Deze worden bij elkaar opgeteld en zijn samen de totale kosten die je maakt.
+START TABLE IN MARKDOWN
+| Totale kredietbedrag | Variabele debetrentevoet | Maandbedrag | Duur | Kosten Oranjepakket (per maand) | Jaarlijks kostenpercentage |
+| - | - | - | - | - | - |
+| € 250 | 14.90% | € 2.97 | Onbepaald | € 3,65 | 36,8% |
+| € 500 | 14.90% | € 5.93 | Onbepaald | € 3,65 | 25,6% |
+| € 1.000 | 14.90% | € 11.86 | Onbepaald | € 3,65 | 20,3% |
+| € 2.000 | 14.90% | € 23.73 | Onbepaald | € 3,65 | 17,7% |
+| Aanbieder | ING Bank NV, Bijlmerplein 888, 1102 MG Amsterdam | ING Bank NV, Bijlmerplein 888, 1102 MG Amsterdam | ING Bank NV, Bijlmerplein 888, 1102 MG Amsterdam | Handelsregister Amsterdam nr. 33031431 | Handelsregister Amsterdam nr. 33031431 |
+END TABLE IN MARKDOWN
+* Het totaal te betalen bedrag voor ING Rood Staan is onder meer afhankelijk van de looptijd van je krediet. Omdat niet bekend is hoe lang je van dit krediet gebruik gaat maken, kunnen wij het totaal te betalen bedrag niet berekenen.
+* Over rentestijgingen word je altijd minimaal 30 dagen vooraf geïnformeerd.
+* De debetrentevoet is variabel en is gelijk aan de maximale kredietvergoeding verminderd met 0,1%. Per 1 mei 2024 is de debetrentevoet 14.90% (15% - 0,1%). Wijzigingen voorbehouden.

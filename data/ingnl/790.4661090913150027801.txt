@@ -1,0 +1,27 @@
+# Studenten Creditcard - ING
+
+## Veelgestelde vragen
+
+### Hoe werkt de GeldTerugService?
+
+Is er iets misgegaan bij een aankoop of geldopname met de creditcard? Met de GeldTerugService doe je eenvoudig een verzoek tot teruggave van je creditcardbetaling.
+Een betaling met je Studenten Creditcard terugvragen kan alleen als:
+* er onterecht een bedrag is afgeschreven van je Studenten Creditcard
+* je 30 dagen na de betaling je aankoop nog niet hebt ontvangen
+* het bestelde product verkeerd geleverd of nep is
+* de verkoper een bedrag zou terugstorten, maar dit na 15 dagen nog niet is gebeurd
+* je geen of te weinig geld hebt gekregen bij een opname bij een geldautomaat
+Probeer altijd eerst tot een oplossing met de verkoper te komen. Kom je er samen niet uit, of is de verkoper onbereikbaar? Dan kan je gebruik maken van de GeldTerugService . Wij vragen een bewijs dat je contact hebt gezocht met de verkoper.
+
+### Is online betalen met de Studenten Creditcard veilig?
+
+Online betalen met de Studenten Creditcard is net zo veilig als iDeal of automatische incasso. Er vindt zelfs nog extra controle plaats via de MasterCard Securecode. Bij onregelmatige betalingen kan een betaling worden tegengehouden en nemen wij contact met je op. Daarnaast zal steeds vaker gevraagd worden of je betaling extra wil bevestigen met je mobiele app of met behulp van de ING scanner.
+Bij misbruik van je Studenten Creditcard zoals fraude, verlies of diefstal vergoeden wij je schade volledig, als er geen sprake is van fraude, opzet en grove nalatigheid van jouw kant.
+
+### Zijn de creditcards van ING van Mastercard of VISA?
+
+De creditcards van ING zijn Mastercard-creditcards. Je kunt wereldwijd betalen op meer dan 35 miljoen adressen, overal waar je het Mastercard-logo ziet.
+
+### Hoe kan ik betalingen op mijn Studenten Creditcard eerder aflossen?
+
+Zelf aflossen kan het makkelijkst via de ING-app in je creditcard overzicht. Je kunt ook extra aflossen en zo een positief saldo op je Studenten Creditcard creëren als je even meer bestedingsruimte nodig hebt.

@@ -1,0 +1,22 @@
+# Verschillen betaalpas en creditcard - Betaalpas of creditcard
+
+## Vergelijk de kenmerken
+
+Wil je de verschillen in productkenmerken weten? In onderstaande tabel kan je de belangrijkste verschillen vergelijken.
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| | Bij gebruik Betaalpas/iDEAL | Bij gebruik Creditcard of Platinumcard |
+| Heeft u realtime inzicht in uw uitgaven in Mijn ING en App? | Ja | Ja |
+| Zijn uw aankopen verzekerd tegen schade, verlies en diefstal? | Nee | Ja |
+| Heeft u bij geen levering of beschadiging van uw bestelling recht op geld terug als er iets misgaat? | Nee | Ja |
+| Wanneer wordt het bedrag afgeschreven van uw rekening? | Directe afschrijving van Betaalrekening | Afschrijving in de 1ste week van de maand |
+| Te gebruiken als waarborg bij een reservering | Nee | Ja |
+| Betaalt u rente over het openstaand saldo? | Nee | Nee, uw uitgaven worden maandelijks afgeschreven |
+| Meer informatie | ING Betaalpas | ING Creditcard |
+END TABLE IN MARKDOWN
+Bekijk onze creditcards
+
+## \* Betalen in euro's
+
+Betaal je in euro’s in een land met de euro? Dan betaal je geen extra kosten. Betaal je in een andere valuta en krijg je de keuze om af te rekenen in de lokale munteenheid of in euro’s? Kies dan voor de lokale munteenheid. Buitenlandse winkels, horeca, etc gebruiken meestal een hogere omrekenkoers naar euro's dan ING waardoor je duurder uit bent.

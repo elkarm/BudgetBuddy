@@ -1,0 +1,16 @@
+# Pushnotificaties - ING
+
+Voor saldo en af- en bijschrijvingen! Pushnotificaties zijn meldingen die je kunt instellen in de Mobiel Bankieren App. Een seintje. Bijvoorbeeld wanneer je salaris is gestort. Zo ben je op de hoogte van wat er op je rekening gebeurt zonder steeds te hoeven inloggen.
+
+## Pushnotificaties instellen
+
+Je kunt pushnotificaties eenvoudig aan- en uitzetten via instellingen > Pushnotificaties in de Mobiel Bankieren App.
+
+## Waar kun je pushnotificaties voor instellen?
+
+Je kunt standaard pushnotificaties instellen. Dan ontvang je meldingen met betrekking tot veiligheid en mobiel bevestigen.
+Daarnaast kun je pushnotificaties instellen voor:
+* Af- en bijschrijvingen. Je ontvangt een melding wanneer er een bedrag is af- of bijgeschreven.
+* Minimum saldo. Je ontvangt een melding wanneer je saldo onder een bepaald bedrag komt. Het bedrag kun je zelf instellen
+* ### Haal jij alles uit de App?
+Ontdek meer functionaliteiten Haal jij alles uit de App?

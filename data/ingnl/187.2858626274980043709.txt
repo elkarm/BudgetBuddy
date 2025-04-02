@@ -1,0 +1,22 @@
+# Creditcard aanvragen - ING
+
+## Veelgestelde vragen over creditcards
+
+### Hoe trek ik een openstaande reservering op mijn creditcard in?
+
+Om een openstaande reservering in te trekken moet je contact opnemen met het desbetreffende bedrijf. Alleen zij kunnen een verzoek tot intrekking indienen.
+Het bedrijf kan een email sturen naar ing.nl.consumer.card@ing.nl met in de email de volgende gegevens:
+* Het volledige 16-cijferige creditcardnummer
+* Autorisatiecode (deze bestaat uit 6 cijfers)
+* De transactiedatum
+* Het oorspronkelijke bedrag incl. de juiste valuta (bijv. Euro's, Amerikaanse Dollars etc.)
+* De naam/term van het verzoek: "Verwijderen autorisatie"
+Na ontvangst van de e-mail wordt de autorisatie binnen 1 werkdag ingetrokken. Overigens moet een bedrijf een resevering altijd binnen 21 dagen verwerken.
+
+### ICS Cardservices vraagt om mijn creditcardgegevens van ING. Klopt dit wel?
+
+Nee, ICS Cardservice heeft niets te maken met jouw ING creditcard. Deel je gegevens niet. Je hebt vermoedelijk een phishing bericht ontvangen. Stuur deze door naar valse-email@ing.nl . Op de pagina Veilig Bankieren vind je meer informatie hoe je oplichters en fraudeurs herkent.
+
+### Waar vind ik mijn creditcardgegevens?
+
+De gegevens van je creditcard, zoals kaartnummer, vervaldatum en CVC code, vind je op je creditcard. Deze gegevens staan niet in Mijn ING of de Mobiel Bankieren App. Om veiligheidsredenen kunnen wij deze ook niet telefonisch of via chat geven. Het kaartnummer is het 16-cijferige nummer op de voorkant van de kaart. De vervaldatum staat ook op de voorkant van de kaart bij "valid thru" en bestaat uit de maand en het jaartal (bijvoorbeeld: 12/29). De CVC is het 3-cijferige getal op de achterkant van de kaart.

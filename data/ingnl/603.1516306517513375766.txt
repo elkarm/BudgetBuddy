@@ -1,0 +1,31 @@
+# Inzicht: weten waar je geld naartoe gaat - ING
+
+## Er kijkt geen mens naar je gegevens
+
+Het indelen gebeurt volledig automatisch, er komt geen mens aan te pas. Je transacties worden alleen verwerkt voor het maken van een overzicht per categorie, nergens anders voor. En dat doen we pas nadat je toestemming hebt gegeven.
+
+### Hoe werkt het?
+
+Als je pint, geld overmaakt of ontvangt, koppelen we deze transactie aan een bepaalde categorie. Betaal je bijvoorbeeld een lunch met je Betaalpas, dan valt deze betaling onder de categorie ‘Eten & Drinken’. Dit doet een computer automatisch als je Inzicht aanzet. Je kunt de categorie van een transactie aanpassen om zo je inzicht in je bankzaken te verbeteren. Soms kunnen we een transactie niet koppelen omdat we niet goed weten waar die het beste past. Dan zie je de transactie terug bij ‘Zelf nog indelen’.
+Je kunt zien:
+* Hoeveel je in totaal aan een specifieke categorie hebt uitgegeven in een bepaalde periode
+* Binnen welke categorie de transactie valt
+* Welke transacties in een categorie staan
+Belangrijk: met deze inzichten geven we geen advies en doen we verder ook niets. Het is alleen bedoeld om jou meer inzicht te geven in je bankzaken.
+
+### Zijn er kosten verbonden aan Inzicht?
+
+Inzicht is onderdeel van alle betaalpakketten. Er zijn binnen die pakketten geen extra kosten aan verbonden.
+
+### Hoe trek ik mijn toestemming in?
+
+In Mijn ING:
+* Ga naar je account (rechts bovenin)
+* Klik op Instellingen en daarna bij Privacy 'Wijzig je privacy-instellingen'
+* Aan het eind van ‘Waar geef jij je geld aan uit?’ kun je je toestemming intrekken
+In de app:
+* Ga naar Service (rechts onderin)
+* Klik op Je app-instellingen en daarna Instellingen privacy
+* Dan word je doorgestuurd naar Mijn ING, naar de privacy pagina
+* Aan het eind van ‘Waar geef jij je geld aan uit?’ kun je je toestemming intrekken
+Let op: Als je je toestemming intrekt, verwijderen we direct ook jouw gegevens en de indeling in de categorieën.

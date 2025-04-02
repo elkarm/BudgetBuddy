@@ -1,0 +1,8 @@
+# Verklaring termen en afkortingen buitenlandbetalingen - ING
+
+### Kostenverdeling: OUR, SHA en BEN
+
+* Our Cost (OUR): Jij betaalt alle kosten van de betaling: je betaalt de kosten van de ING én de kosten van de bank van de ontvanger.
+* Shared Cost (SHA): De kosten worden gedeeld tussen jou en de ontvanger: jij betaalt de kosten van de ING. De ontvanger betaalt de kosten die de ontvangende bank in rekening brengt.
+* Beneficiary Cost (BEN): De ontvanger betaalt alle kosten van de betaling: de ontvanger betaalt de kosten van de ING én de kosten die de ontvangende bank in rekening brengt. Jij betaalt geen kosten.
+\* Tot de Europese Economische Ruimte behoren momenteel: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Ijsland, Italië, Kroatië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Nederland, Noorwegen, Oostenrijk, Polen, Portugal, Roemenie, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.

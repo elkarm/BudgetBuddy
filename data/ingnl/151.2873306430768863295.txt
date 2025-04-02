@@ -1,0 +1,14 @@
+# Contactloos geld opnemen en storten met je pas - ING - Contactloos opnemen en storten met de Betaalpas
+
+Geen gedoe. Nu nog makkelijker geld opnemen of storten bij de geldautomaat!
+Snel, veilig en eenvoudig je contant geld opnemen of storten bij de geldautomaat. Het is nu mogelijk om met je pas contactloos geld op te nemen bij geldautomaten van Geldmaat! Contant geld storten kan natuurlijk ook contactloos.
+
+## Kenmerken
+
+* Contactloos opnemen en storten met je pas.
+* Opnemen en storten tot aan je limiet.
+* Contactloos saldo informatie opvragen op de geldautomaat.
+* Pincode is altijd benodigd.
+* De transactie verloopt als een gewone pintransactie op een geldautomaat.
+* Via de NFC reader, deze herken je aan het contactloos-symbool op de geldautomaat. Bij de reader brandt een lampje.
+* Contactloos opnemen via de NFC reader kan nog niet met de mobiele telefoon. Geld opnemen met een cashcode is uiteraard wel mogelijk.

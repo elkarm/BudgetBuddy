@@ -1,0 +1,26 @@
+# OUR-opslag: tarieven per land - ING
+
+De OUR-opslag is een bedrag bovenop het reguliere transactietarief. Dit bedrag wordt in rekening gebracht als je in de betaalopdracht aangeeft om, naast het tarief van ING, ook de kosten van de bank van de ontvanger te betalen (kostenverdeling OUR). De OUR-opslag is een vergoeding voor het bedrag dat de bank van ontvanger in rekening brengt. Met de opslagtarieven sluit de ING zo dicht mogelijk aan bij de werkelijke kosten die de bank van de ontvanger in rekening brengt.
+Onderstaande OUR-tarieven gelden niet voor Wereldbetalingen binnen de Europese Economische Ruimte (EER). Opdrachten naar een EER-land kunnen door wet- en regelgeving alleen op basis van shared kostenverdeling (SHA) worden verwerkt, dit geldt voor alle valuta's.
+START TABLE IN MARKDOWN
+| ISO\-code | Land | Tarief | ISO\-code | Land | Tarief |
+| - | - | - | - | - | - |
+| IN | India | € 25,00 | LK | Sri Lanka | € 25,00 |
+| ID | Indonesië | € 25,00 | SR | Suriname | € 9,00 |
+| IM | Isle of Man | € 25,00 | TW | Taiwan | € 25,00 |
+| IL | Israel | € 25,00 | TZ | Tanzania | € 25,00 |
+| CI | Ivoorkust | € 25,00 | TH | Thailand | € 25,00 |
+| JM | Jamaica | € 25,00 | TN | Tunesië | € 25,00 |
+| JP | Japan | € 50,00 | TR | Turkije | € 25,00 |
+| YE | Jemen | € 15,00 | UY | Uruguay | € 25,00 |
+| JE | Jersey | € 25,00 | AE | Verenig. Arab. Emiraten | € 25,00 |
+| JO | Jordanië | € 15,00 | GB | Verenigd Koninkrijk | € 25,00 |
+| CM | Kameroen | € 50,00 | US | Verenigde Staten | € 9,00 |
+| KE | Kenia | € 50,00 | VN | Vietnam | € 15,00 |
+| KW | Koeweit | € 50,00 | BY | Wit\-Rusland | € 50,00 |
+| LB | Libanon | € 15,00 | XM | Zambia | € 50,00 |
+| MK | Macedonië | € 25,00 | ZA | Zuid Afrika | € 25,00 |
+| MY | Maleisië | € 15,00 | KR | Zuid Korea | € 25,00 |
+| MA | Marokko | € 9,00 | CH | Zwitserland | € 15,00 |
+| | | | | Rest van de wereld | € 50,00 |
+END TABLE IN MARKDOWN

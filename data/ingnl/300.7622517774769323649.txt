@@ -1,0 +1,16 @@
+# App updaten voor Android - ING
+
+## Software-update voor je telefoon
+
+Naast onze app heeft ook je hele telefoon soms een update nodig. Anders kan het zijn dat je de laatste versie van onze app niet krijgt. Deze Android software-updates zijn genummerd. Op dit moment is minimaal Android 8 nodig om onze app te kunnen gebruiken. Hieronder vind je uitleg hoe je je een software-update doet op je telefoon.
+
+### Zo doe je een software-update voor Android (bijvoorbeeld Huawei, LG, Sony)
+
+**Update besturingssysteem van je smartphone of tablet**
+1. Klik op ‘Instellingen’ op je smartphone op tablet
+2. Klik op ‘Over deze telefoon’
+3. Klik op ‘Systeem updates’
+4. Klik op ‘Controleren op updates’
+5. Als er een nieuwe update beschikbaar is, dan zie je deze hier staan. Klik op ‘update’ om het downloaden van de update te starten. Klik vervolgens op ‘installeer’
+6. Na de installatie kun je de Mobiel Bankieren App opnieuw proberen te updaten of te downloaden
+Updaten van het besturingssysteem van Android kan op sommige toestellen net iets anders werken.

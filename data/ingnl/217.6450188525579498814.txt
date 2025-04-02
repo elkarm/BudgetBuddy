@@ -1,0 +1,38 @@
+# Tarieven Passen - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven.
+Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar ING
+* Creditcards
+* Rood staan
+* Overige Producten
+* Buitenland
+* Gebruik, storten en afschriften
+START TABLE IN MARKDOWN
+| Betaalpas | |
+| - | - |
+| Extra Betaalpas voor gemachtigde (per maand) | € 1,10 |
+| Vervanging Betaalpas | € 4,50 |
+| Mijn Betaalpas | € 9,75 |
+| Kies je eigen foto of afbeelding of een beeld uit de galerij voor je Betaalpas Mijn Betaalpas heeft dezelfde functionaliteiten als de Betaalpas | Kies je eigen foto of afbeelding of een beeld uit de galerij voor je Betaalpas Mijn Betaalpas heeft dezelfde functionaliteiten als de Betaalpas |
+| Vervanging Mijn Betaalpas met behoud van je huidige foto | € 4,50 |
+END TABLE IN MARKDOWN
+* In alle pakketten met een rekening op één naam zit één Betaalpas inbegrepen.
+* Bij een En/of Betaalrekening ontvangen standaard beide rekeninghouders een Betaalpas.
+* Een tweede rekeninghouder (incl. Betaalpas), bij een En/of Betaalrekening, maakt onderdeel uit van het Royaalpakket, je betaalt er in dit pakket niet apart voor.
+* Voor een Betaalpas voor een gemachtigde betaal je in alle pakketten apart.
+Meer informatie over de Betaalpas
+START TABLE IN MARKDOWN
+| Betalen | |
+| - | - |
+| Betalen met Betaalpas in euro's | € 0,00 |
+| Betalen met Betaalpas in vreemde valuta | 1,40% koersopslag\* |
+| | |
+| Betalen met Creditcard in euro's | € 0,00 |
+| Betalen met Creditcard in vreemde valuta | 2,00% koersopslag\* |
+| \* Voor betalingen met een creditcard met het Mastercard\-logo geldt een maximum aantal van 15 transacties per dag | \* Voor betalingen met een creditcard met het Mastercard\-logo geldt een maximum aantal van 15 transacties per dag |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

@@ -1,0 +1,6 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veiligheid
+
+Mobiel betalen met Apple Pay is net zo veilig als contactloos betalen met je plastic betaalpas. Je bevestigt namelijk elke transactie met Face ID, Touch ID of een ontgrendelingscode.
+Tijdens het betalen met Apple Pay worden de betaalgegevens veilig uitgewisseld via NFC. Dit werkt alleen in een straal van 10 centimeter. Daarom moet je ook van heel dichtbij contact maken om gegevens uit te wisselen. ​Zit je mobiel in je tas, dan is contact maken niet mogelijk. Neem bij verlies, diefstal en fraude wel contact op met onze alarmlijn. Wij kunnen dan Apple Pay direct blokkeren.

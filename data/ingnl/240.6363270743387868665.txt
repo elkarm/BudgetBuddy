@@ -1,0 +1,20 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+## Veelgestelde vragen
+
+### Ik herken het nummer op de betaalpas in de Google Wallet niet, kan ik dit wijzigen?
+
+Op de betaalpas in de Google Wallet staat een nummer, wat niet hetzelfde is als je de IBAN rekeningnummer. Bij meerdere ING passen in de Google wallet kan het verwarrend zijn welke pas bij welke ING rekening hoort. Na het activeren van Google Pay, ontvang je een inbox-bericht waarin vermeld staat welk pasnummer bij welke IBAN rekeningnummer hoort. Het is mogelijk om je betaalpas een eigen bijnaam te geven in de Google Wallet.
+De betaalpas een naam geven in de Google Wallet: Via de instellingen van de Google Wallet kun je zelf een naam instellen om een betaalpas makkelijk te herkennen.
+1. Open de Google Wallet-app
+2. Zoek de betaalpas die u een bijnaam wilt geven. Swipe naar links totdat je de juiste kaart ziet.
+3. Tik op de kaart.
+4. Tik onderaan op: 'Een bijnaam toevoegen'.
+5. Voer de gewenste bijnaam in en tik op ‘Opslaan’
+Je gepersonaliseerde naam kan alleen uit letters bestaan en bestaat uit maximaal 24 tekens.
+
+### Wat is een digitale betaalpas?
+
+Een digitale bankpas is een elektronische versie van je plastic Betaalpas. Je kunt 'm gebruiken voor betalen met een telefoon of smartwatch. Het is eigenlijk een extra pas voor je Betaalrekening. Ben je bijvoorbeeld je plastic Betaalpas kwijt? En heb je deze geblokkeerd? Dan kun je toch nog betalen met je digitale Google Pay pas.
+Wil je jouw Betaalpas digitaal maken? Dat kan in de ING Mobiel Bankieren App. Bekijk hier hoe je Google Pay activeert .
+Op dit moment is Google Pay nog niet beschikbaar voor betalen met je smartwatch. Hier wordt wel aan gewerkt. Zodra bekend is wanneer dit geintroduceerd wordt, dan zullen we hierover communiceren.

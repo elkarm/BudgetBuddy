@@ -1,0 +1,14 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+## Veelgestelde vragen
+
+### Welke gegevens worden er gedeeld met Google?
+
+Om Google Pay te kunnen activeren en te gebruiken voor betalingen, deelt ING je naam, adres en telefoonnummer met Google. Je moet er zelf voor zorgen dat deze gegevens juist zijn. Google vergelijkt deze gegevens met de contactgegevens die je gebruikt voor je Google-account. Dit doen ze om eventuele fraude te voorkomen.
+Als je betaalt met Google Pay dan ontvangt Google je betaalgegevens. Dit zijn bijvoorbeeld de datum en tijd van de betaling. Maar ook het bedrag en de naam van de winkel waar je hebt betaald. Ook ontvangt Google betaalgegevens vanuit Mastercard. Hiermee wordt de transactie technisch mogelijk gemaakt.
+Nadat je Google Pay hebt geactiveerd is Google verantwoordelijk voor het veilig houden en het eventuele gebruik van jouw persoonsgegevens en geldt de privacyverklaring van Google . Wil je je privacyvoorkeuren voor Google Pay wijzigen? Dat kan via de privacy check van Google.
+
+### Waar kan ik terecht met een andere vraag over Google Pay?
+
+Bekijk ook de veelgestelde vragen over Google Pay activeren of Google Pay Creditcard.
+Staat jou vraag er niet tussen? Dan helpen we je graag verder via onze chat.

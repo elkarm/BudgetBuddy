@@ -1,0 +1,26 @@
+# Verklaring termen en afkortingen buitenlandbetalingen - ING
+
+Als je gebruikmaakt van internationale betalingen, kom je enkele termen regelmatig tegen. Hieronder staan de belangrijkste: BIC, IBAN, SWIFT en SHA.
+
+### De BIC van ING is: INGBNL2A
+
+De Bank Identifier Code (BIC) is een code waarmee een bank bij internationaal betalingsverkeer geïdentificeerd wordt. Iedere bank heeft een unieke BIC. De BIC wordt ook wel SWIFT-adres of SWIFT-code genoemd. Een correcte BIC krijg je alleen via de (bank van de) begunstigde. Voor het ontvangen van geld uit het buitenland op je Betaalrekening verstrek je aan de betaler de BIC van ING (INGBNL2A) en je IBAN.
+
+### International Bank Account Number (IBAN)
+
+Het IBAN identificeert elke rekeninghouder, inclusief bank en vestigingsland. Om het toenemende betalingsverkeer in Europa te stroomlijnen hebben banken van de Europese Unie het IBAN als nieuwe standaard ontwikkeld. Dankzij het unieke IBAN kunnen banken de betaling helemaal automatisch verwerken, zonder aanvullende informatie. Een correcte IBAN kun je alleen verkrijgen via de (bank van de) begunstigde.
+
+### Single Euro Payments Area (SEPA)
+
+Met SEPA is betalen binnen Europa net zo gemakkelijk en snel als betalen binnen Nederland.
+
+### Wat is SEPA?
+
+* Eén Europese betaalmarkt
+* Geen verschil meer tussen binnen- en buitenlandse betalingen
+* In euro's
+* Overschrijven, incasso's en betaalpassen
+
+### Geld ontvangen uit het buitenland
+
+Als je geld uit het buitenland wilt ontvangen op je Betaalrekening, geef je de BIC van de ING (INGBNL2A) en je IBAN aan de betaler. De IBAN kan je vinden in het rekeningoverzicht van jouw betaalrekening in Mijn ING of de ING mobiel bankieren app.

@@ -1,0 +1,7 @@
+# Verklaring termen en afkortingen buitenlandbetalingen - ING
+
+### Kosten
+
+* Europese Overschrijving: de kosten worden altijd gedeeld (SHA). ING berekent je geen kosten voor een Europese Overschrijving. De ontvangende bank kan wel kosten in rekening brengen. Deze betaalt de ontvanger.
+* Wereldbetaling: je bepaalt de kostenverdeling tussen jou en degene aan wie je geld overmaakt. Geef je geen verdeling aan, dan worden de kosten van je opdracht gedeeld (SHA).
+Let op: Een betaling naar een rekening binnen de EER\* in een EER\* valuta wordt altijd verwerkt op basis van gedeelde kosten (SHA)

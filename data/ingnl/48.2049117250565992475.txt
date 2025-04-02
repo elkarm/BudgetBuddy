@@ -1,0 +1,6 @@
+# China - ING
+
+### Controle van gegevens
+
+* Banken in China controleren de gegevens die je invoert streng. Ze moeten exact gelijk zijn aan de gegevens die bij de Chinese bank geregistreerd staan. Neem dus de naam en woonplaats van de begunstigde exact over van de factuur. Kort ook geen termen af, zoals ‘Limited’ naar ‘Ltd.’ Omgekeerd geldt hetzelfde: als de factuur de afkorting Ltd bevat, neem dit dan over. Als de gegevens van de begunstigde niet volledig en exact worden ingevoerd, keurt de bank in China de betaling mogelijk af. Je betaalt dan ook een boete.
+* China maakt geen gebruik van IBAN en kent geen vaste structuur voor rekeningnummers.

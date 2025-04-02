@@ -1,0 +1,20 @@
+# IBAN-Naam Check - ING
+
+Voorkomen van verkeerde overboekingen Je wilt graag betalen aan de juiste persoon of het juiste bedrijf. De IBAN-Naam Check geeft een melding als de naam en IBAN die je intoetst anders zijn dan de gegevens die bekend zijn bij de bank. Dit voorkomt vergissingen en helpt fraude te bestrijden. Wel zo veilig.
+
+### Hoe werkt de IBAN-Naam Check?
+
+Met de IBAN-Naam Check maken we online betalen makkelijker en nog veiliger en helpen we om fraude en vergissingen te voorkomen. De IBAN-Naam Check controleert of de ingetoetste naam bij het IBAN anders is dan de naam die bekend is bij de bank. Je krijgt een melding als er iets afwijkt.
+De IBAN-Naam Check werkt op Nederlandse rekeningnummers en wordt standaard uitgevoerd op betalingen die je in Mijn ING uitvoert, met uitzondering van verzamelbetalingen. Je hoeft je niet aan te melden voor de IBAN-Naam Check en het is geen aparte app of programma.
+
+### Wat moet ik doen als ik een melding krijg?
+
+Je bepaalt zelf of je na een melding de betaling uitvoert of afbreekt. Wij adviseren je wel om bij een foutmelding de gegevens te controleren. Misschien heb je een vergissing gemaakt of zijn de gegevens in je adresboek verouderd? Of is er misschien sprake van fraude en heb je een nepfactuur ontvangen? Als je een melding krijgt, controleer dan op een andere manier of het IBAN klopt. Neem bijvoorbeeld contact op met de persoon of het bedrijf aan wie je geld wilt overboeken. Je blijft zelf verantwoordelijk voor betalingen die je doet.
+
+### Welke betalingen worden gecheckt?
+
+De IBAN-Naam Check werkt bij online betalingen, via de app of internetbankieren. De IBAN-Naam Check werkt niet bij incasso-opdrachten en alleen bij Nederlandse betaal- en spaarrekeningnummers.
+
+### Wat als de IBAN-Naam Check het niet doet?
+
+Als de naam bij het ingevulde IBAN niet gecontroleerd kan worden, geeft de IBAN-Naam Check hiervan een melding. De betaling kan wel gewoon uitgevoerd worden.

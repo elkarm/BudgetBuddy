@@ -1,0 +1,36 @@
+# ING Spaardeposito
+
+Je geld vastzetten met een vaste looptijd tegen een vaste rente.
+Spaardeposito openen
+* Vaste rente vanaf 2,35%
+* Vaste looptijd: 3 of 5 jaar
+* Kosteloos te openen bij je betaalrekening
+
+## Wat is deposito sparen en hoe werkt het?
+
+Met een spaardeposito zet je je geld voor een bepaalde periode vast. Je bepaalt zelf de looptijd, legt eenmalig geld in en krijgt tijdens deze looptijd een vaste rente. De minimale inleg op het ING Spaardeposito is € 500.
+
+## Rente en looptijd
+
+Je ontvangt een vaste rente, deze rente kan per looptijd verschillen. De rente is vast. Wat betekent dat de rente niet verandert tot het einde van de looptijd.
+START TABLE IN MARKDOWN
+| Looptijd | Rente |
+| - | - |
+| 3 jaar | 2,35% |
+| 5 jaar | 2,35% |
+| Deze tarieven gelden per 29 januari 2024. Rentewijzigingen voorbehouden. |
+END TABLE IN MARKDOWN
+
+### Hoe wordt de rente berekend?
+
+* De afgesproken rente geldt op jaarbasis (365 dagen).
+* Rente wordt dagelijks als volgt opgebouwd: rentepercentage / 365 x jouw saldo.
+
+### Hoe werkt jaarlijkse uitbetaling van rente?
+
+Stel:
+* Je hebt een ING Spaardeposito
+* Inleg: € 25.000
+* Looptijd: 5 jaar
+* Rente: 1,50% (voorbeeldrente)
+Rente per jaar: 1,50% x € 25.000 = € 375 Je krijgt de rente jaarlijks uitgekeerd op je Betaalrekening. Er is tijdens de looptijd dus geen rente-op-rente op jouw Spaardeposito.

@@ -1,0 +1,17 @@
+# Limieten voor overmaken - Een groot bedrag overmaken via de app of Mijn ING?
+
+## Goed om te weten:
+
+* Limiet instellen: Je app limiet kun je alleen instellen in de Mobiel Bankieren App en je Mijn ING limiet kun je alleen instellen in Mijn ING. Binnenkort wordt dat voor het gemak één digitale limiet. Je wordt daar dan over geïnformeerd.
+* Betaling inplannen: Beide limieten gelden voor het totaal aan over te schrijven bedragen dat je op één dag kunt bevestigen, ongeacht de overschrijfdatum.
+* 4 uur wachttijd: Bij een verhoging gaat je nieuwe limiet 4 uur na je bevestiging in. Dat kan helaas niet sneller, ook niet via de Klantenservice of een ING-kantoor. Lees hier waarom dit zo is. Verlagen van de limiet gaat wel direct.
+* Tijdelijk instellen: Geef bij het instellen van een hogere daglimiet altijd een einddatum aan. Zo voorkom je mogelijk misbruik. Na de einddatum springt het bedrag weer terug.
+* iDEAL betalingen: Hoeveel je kunt betalen via iDEAL hangt af van je limiet voor de app (als je bevestigt via de app) of je limiet voor Mijn ING (als je bevestigt via Mijn ING).
+* Incasso’s en periodieke overboekingen tellen niet mee in je daglimiet. Alleen overboekingen naar rekeningen van een ander die je op een dag zelf invoert via Mijn ING of je app tellen mee.
+* Overboekingen tussen je eigen rekeningen zoals je spaarrekening, en/of rekening, beleggingsrekening en je eigen betaalrekening tellen niet mee in je daglimiet.
+* Limiet bereikt: Als je je limiet hebt bereikt, ontvang je een bericht zodra je nog een betaalopdracht probeert te versturen.
+* Meer dan €50.000 overmaken? Dat kan alleen door op de dag dat je dit wilt overmaken langs te gaan bij een ING-kantoor. Je kunt op die manier de limiet voor Mijn ING tijdelijk verhogen tot maximaal €1.000.000. Deze limiet is enkel geldig op de dag dat je het kantoor bezoekt. De ING-kantoren werken op afspraak , heeft de verhoging spoed dan kan je zonder afspraak het ING-kantoor bezoeken.
+Let op: dit kan niet op een servicepunt, alleen op een ING-kantoor. Vergeet ook niet een geldig ID bewijs mee te nemen. Meer dan €50.000 overmaken kan niet in de app.
+* Gezamenlijke rekeningen: Heb je een gezamenlijke rekening of toegang tot rekeningen van iemand anders? Dan zal een transactie via de app, Mijn ING of IDEAL ook impact hebben op de resterende limiet in Mijn ING van die persoon.
+* Overige limieten: Naast limieten voor overmaken zijn er ook limieten voor betalen in een winkel en contant geld opnemen met je Betaalpas. Check ze allemaal op ing.nl/limiet .
+Meer over veilig bankieren

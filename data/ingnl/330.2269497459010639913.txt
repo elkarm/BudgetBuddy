@@ -1,0 +1,16 @@
+# Onze dienstverlening op feestdagen - ING - Dienstverlening op feestdagen
+
+## Bereikbaarheid Beleggen
+
+START TABLE IN MARKDOWN
+| Datum | Feestdag | Bereikbaarheid |
+| - | - | - |
+| Maandag 1 april | 2e Paasdag | Gesloten |
+| Zaterdag 27 april | Koningsdag | Gesloten |
+| Donderdag 9 mei | Hemelvaartsdag | Tot 17.30u |
+| Maandag 20 mei | 2e Pinksterdag | Tot 17.30u |
+| Dinsdag 24 december | Kerstavond | Tot 16.00u |
+| Woensdag 25 december | 1e Kerstdag | Gesloten |
+| Donderdag 26 december | 2e Kerstdag | Gesloten |
+| Dinsdag 31 december | Oudjaarsdag | Tot 16.00u |
+END TABLE IN MARKDOWN

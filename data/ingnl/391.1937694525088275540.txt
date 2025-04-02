@@ -1,0 +1,38 @@
+# Muntsoortcode buitenlandse valuta - ING
+
+Bij een internationale overschrijving kun je een bedrag overmaken in euro's of in vreemde-valuta. Als je in vreemde valuta een bedrag overmaakt, vermeld dan de muntsoortcode op je betalingsopdracht.
+Wisselkoersen
+
+### De belangrijkste muntcodes
+
+START TABLE IN MARKDOWN
+| Land/muntsoort | Code | Land/muntsoort | Code |
+| - | - | - | - |
+| Amerikaanse dollar | USD | Maleisische ringgit\* | EUR of USD |
+| Antilliaanse gulden | ANG | Malta | EUR |
+| Arubaanse gulden | AWG | Marokkaanse dirham | MAD |
+| Australische dollar | AUD | Nederland | EUR |
+| België | EUR | Nieuw\-Zeelandse dollar | NZD |
+| Britse pond | GBP | Noorse kroon | NOK |
+| Canadese dollar | CAD | Oostenrijk | EUR |
+| Cyprus | EUR | Portugal | EUR |
+| Deense kroon | DKK | Poolse zloty | PLN |
+| Duitsland | EUR | Singapore dollar | SGD |
+| Finland | EUR | Slovenië | EUR |
+| Frankrijk | EUR | Slowakije | EUR |
+| Luxemburg | EUR | Spanje | EUR |
+| Griekenland | EUR | Surinaamse dollar\* | EUR of USD |
+| Hongaarse forint | HUF | Thaise baht | THB |
+| Hongkong dollar | HKD | Tsjechische kroon | CZK |
+| Ierland | EUR | Turkse lira | TRY |
+| Indiase rupee | INR | IJslandse kroon | ISK |
+| Italië | EUR | Zuid\-Afrikaanse rand | ZAR |
+| Koreaanse won | KRW | Zweedse kroon | SEK |
+| Kroatië | EUR | Zwitserse frank | CHF |
+| Letland | EUR | | |
+| Litouwse litas | LTL | |
+END TABLE IN MARKDOWN
+
+### Welke valuta is het voordeligst?
+
+Meestal is het voordelig om een betalingsopdracht te doen in de valuta van het land van bestemming. Toch zijn er buiten de Europese Economische Ruimte ook uitzonderingen\*.

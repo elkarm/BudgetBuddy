@@ -1,0 +1,8 @@
+# Creditcard aanvragen - ING
+
+## Veelgestelde vragen over creditcards
+
+### Waarom werkt contactloos betalen met mijn creditcard niet?
+
+Voordat je de kaart contactloos kunt gebruiken moet de creditcard geactiveerd worden in Mijn ING of de Mobiel Bankieren App. Bij een nieuw ontvangen creditcard moet er eerst een transactie met pincode plaatsvinden voordat contactloos betalen werkt.
+Controleer tot slot of de creditcard is voorzien van het contactloos betalen logo. Als dit niet op de voorzijde van de creditcard staat, dan is deze niet geschikt voor contactloos betalen en kan je kosteloos de creditcard vervangen .

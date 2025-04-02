@@ -1,0 +1,26 @@
+# Tarieven Passen - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven.
+Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar ING
+* Creditcards
+* Rood staan
+* Overige Producten
+* Buitenland
+* Gebruik, storten en afschriften
+(** Je bestelt de enveloppen online . Heb je vragen? Bekijk de veelgestelde vragen .)Heb je een RoyaalPakket? Dan is het Overschrijvingsboekje gratis.
+START TABLE IN MARKDOWN
+| Opnemen | |
+| - | - |
+| Euro's opnemen met Betaalpas binnen de EER landen | € 0,00 |
+| Euro's opnemen met Betaalpas binnen de EER landen voor houders van OranjePakket met Korting | € 0,80 |
+| Euro's opnemen met Betaalpas binnen de EER landen voor houders van een Studentenrekening | Eerste 12 per kalenderjaar gratis, erna € 0,80 per keer |
+| Euro's opnemen met Betaalpas buiten de EER landen | € 3,50 per transactie | |
+| Vreemde valuta opnemen met Betaalpas | € 3,50 per transactie + 1,40% koersopslag\* |
+| Vreemde valuta opnemen met Betaalpas voor houders van het OranjePakket met Korting | € 3,50 per transactie + 1,40% koersopslag\* |
+| Opnemen met creditcard bij geldautomaten in euro's | 4% met een minimum van € 4,50 per transactie |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

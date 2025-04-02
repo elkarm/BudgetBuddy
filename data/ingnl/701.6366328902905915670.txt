@@ -1,0 +1,17 @@
+# Niet meer te openen pakketten - ING
+
+Sinds 4 april 2016 is het niet langer mogelijk om een BasisPakket, BetaalPakket of RoyaalPakket te openen. Hieronder vind je meer informatie over deze pakketten.
+* ### BasisPakket
+  + € 4,35 per maand
+  + Creditcard of Platinumcard mogelijk
+  + 2e Creditcard of Platinumcard mogelijk
+  + Gratis maandelijks papieren AfschriftenBasisPakket
+* ### RoyaalPakket
+  + € 9,35 per maand
+  + Inclusief Platinumcard met bestedingslimiet tot €20.000
+  + 2e rekeninghouder en 2e Platinumcard zonder extra kostenRoyaalPakket
+* ### BetaalPakket
+  + € 6,30 per maand
+  + Inclusief Creditcard met bestedingslimiet tot €5.000
+  + 2e Creditcard zonder extra kosten
+  + Gratis maandelijks papieren AfschriftenBetaalPakket

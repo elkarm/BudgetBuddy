@@ -1,0 +1,18 @@
+# Uitbetalen van je restsaldo - ING
+
+## Verplichte documentatie
+
+Het verwerken van uitbetalingsverzoeken moet zorgvuldig gebeuren. Daarom vragen we om documentatie bij je verzoek aan te leveren zodat we de juiste controles kunnen uitvoeren. Zonder deze aanvullende documentatie kunnen we je verzoek niet in behandeling nemen. De documentatie hangt af van het restsaldo bedrag. Kijk hieronder in de tabel wat voor jou van toepassing is.
+
+### Verplichte documentatie (Particuliere Betaalrekening)
+
+START TABLE IN MARKDOWN
+| Particuliere Betaalrekening | | | |
+| - | - | - | - |
+| < € 10.000 | > € 10.000 | | |
+| Ingevuld en ondertekend formulier | Ingevuld en ondertekend formulier | | |
+| Kopie geldig identiteitsbewijs(* Betreft het een minderjarige rekeninghouder? Stuur dan een (gewaarmerkt) kopie van een geldig identiteitsbewijs van zowel de rekeninghouder als de wettelijke vertegenwoordiger zoals een ouder/voogd mee.) | Gewaarmerkt kopie geldig identiteitsbewijs(** De rekening waar je het saldo op wilt hebben gestort moet op dezelfde naam staan als de rekening die is opgeheven of op naam van de wettelijk vertegenwoordiger van de entiteit van de opgeheven rekening.) | | |
+| | Kopie afschrift bestemmingsrekening (inclusief IBAN nummer) | | |
+| | | | |
+END TABLE IN MARKDOWN
+\*\*\* Indien de entiteit is afgewikkeld hebben wij een rechthebbendenverklaring nodig. Dit is verzamelbegrip voor een document waaruit blijkt dat je recht hebt op het restsaldo. Indien de entiteit nog bestaat maar niet is ingeschreven in de KvK, dan de laatste statuten of notulen waaruit blijkt dat je bevoegd bent.

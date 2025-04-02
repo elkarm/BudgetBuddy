@@ -1,0 +1,19 @@
+# Rond af & Spaar
+
+## Hoe snel wil je sparen?
+
+Standaard wordt op de eerstvolgende hele euro afgerond. Wil je sneller je spaardoel bereiken? Zet dan de **spaarversneller** aan. Dan wordt er op de eerstvolgende 2, 5 of 10 euro afgerond.
+Een voorbeeldje zonder spaarversneller:
+* Stel, je koopt een lekkere koffie plus broodje voor € 7,40
+* Dit bedrag wordt afgerond op de eerstvolgende hele euro: dat is € 8,00​
+* Je spaart € 0,60
+En hetzelfde voorbeeld als je de **spaarversneller instelt op 5 euro** :
+* Je koopt weer een lekkere koffie plus broodje voor € 7,40
+* Nu wordt dit bedrag afgerond op de eerstvolgende 5 euro: dat is € 10,00
+* Dan spaar je € 2,60​
+* ### Spaardoelen
+Maak jij al gebruik van spaardoelen? Stel ze nu in en maak sparen makkelijker.
+Stel het nu in Spaardoelen
+* ### Automatisch sparen
+Spaar je al automatisch? Stel het een keer in en je hebt er geen omkijken meer naar.
+Bv net nadat je salaris is gestort Automatisch sparen

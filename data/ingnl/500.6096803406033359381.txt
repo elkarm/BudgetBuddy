@@ -1,0 +1,5 @@
+# Nieuw in de app - ING
+
+## Makkelijker categoriseren en in- en uitgaven optellen
+
+Met tags in de app heb je nog meer inzicht in je financiën en uitgaven. Op verzoek van veel klanten hebben we deze feature verder verbeterd. Bij het bundelen van je tags zie je voortaan niet alleen een overzicht van alle transacties maar ook het totaal bedrag. Daarnaast onthoudt de app eerder door jou aangemaakte tags. Die krijg je voorgesteld bij het plaatsen van tags. Handig!

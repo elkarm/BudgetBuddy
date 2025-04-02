@@ -1,0 +1,20 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### Telefoon kwijt of gestolen?
+
+Verwijder je betaalpas of creditcard dan via iCloud met ‘Zoek mijn iPhone’ of via je ‘Apple ID accountpagina’. Volg de volgende stappen:
+* Open de ‘Zoek mijn iPhone’-app of ga naar iCloud.com.
+* Klik op ‘Zoek mijn iPhone. Selecteer het apparaat en klik op ‘Geef op als verloren’. Het is daarna nier meer mogelijk om een betaling to doen met Apple Pay.
+* Beheren via je Apple ID-account: log in op je Apple ID-accountpagina en klik op je apparaat. Ga naar Apple Pay en klik op ‘Verwijder’ of Verwijder alles’.
+Vergeet niet ook je Mobiel Bankieren app te blokkeren. Dat doe je in Mijn ING. Of bel de Alarmlijn.
+
+### Apple Pay blokkeren
+
+Je kunt de betaalpas op elk gewenst moment uit de Apple Wallet verwijderen. Ga naar de Apple Wallet, tik op de pas die je wilt verwijderen. Tik op het menu (blauw rondje met drie witte puntjes). Onderaan het scherm zie je ‘verwijder kaart’. Kies ‘Verwijder’ als je de kaart definitief wilt verwijderen. De transactiehistorie is dan ook niet meer zichtbaar in de Wallet.
+Kan ik de pas van Apple Pay in Mijn ING verwijderen? Nee, maar je kunt de betaalpas op elk gewenst moment uit de Apple Wallet verwijderen.
+
+### Is er ook Apple Pay (mobiel betalen) voor Android gebruikers?
+
+Voor mobiel betalen met een Android telefoon is er Google Pay .

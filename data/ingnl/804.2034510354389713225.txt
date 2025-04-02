@@ -1,0 +1,23 @@
+# Inzicht in tarieven van betaalproducten - ING
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Creditcards
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+START TABLE IN MARKDOWN
+| Betalen | |
+| - | - |
+| Betalen met Betaalpas in euro's | € 0,00 |
+| Betalen met Betaalpas in vreemde valuta | 1,40% koersopslag(* Bij OranjePakket met korting is het afnemen van afschriften niet meer mogelijk.) |
+| | |
+| Betalen met Creditcard in euro's | € 0,00 |
+| Betalen met Creditcard in vreemde valuta | 2,00% koersopslag(** Heb je een Kinderrekening of Jongerenrekening of afschrift in braille? Dan kun je gratis maandelijks een afschrift ontvangen in Nederland. Dit geldt ook wanneer je gebruikmaakt van een Basis-, Betaal- of RoyaalPakket.) |
+| \* Voor betalingen met een creditcard met het Mastercard\-logo geldt een maximum aantal van 15 transacties per dag | \* Voor betalingen met een creditcard met het Mastercard\-logo geldt een maximum aantal van 15 transacties per dag |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

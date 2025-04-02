@@ -1,0 +1,7 @@
+# Verenigde Staten (USA) - ING
+
+## Kosten
+
+* Kies je voor OUR kostenverdeling dan worden er geen(*In enkele gevallen worden, ondanks de kostenverdeling OUR, toch kosten in rekening gebracht door de begunstigde bank. In de Verenigde Staten wordt dit ‘Incoming Wire Fee’ genoemd. ING kan geen invloed uitoefenen op het inhouden van deze kosten. Wel heeft ING invloed op het bedrag dat de begunstigde bank ontvangt. Dit zal, in het geval van OUR kostenverdeling, altijd het volledig opgestuurde bedrag zijn. Wanneer de begunstigde aangeeft dat hij niet het volledige bedrag heeft ontvangen, zal hij zijn bank moeten vragen waarom nog extra kosten in rekening zijn gebracht.) kosten op het bedrag ingehouden door de tussenliggende banken die de betaling verwerken en de begunstigde bank die het bedrag ontvangt.
+* Voor de OUR kostenverdeling brengt ING een OUR-opslag in rekening. Voor de Verenigde Staten is de OUR-opslag €9.
+* Maak je meer dan $ 1000 over en kies je voor de kostenverdeling BEN of SHA? Houd er dan rekening mee dat er $20 aan extra kosten gerekend worden door tussenliggende banken. Deze $20 worden ingehouden op het bedrag dat de begunstigde ontvangt.

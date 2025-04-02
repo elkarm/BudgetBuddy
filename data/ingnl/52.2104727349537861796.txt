@@ -1,0 +1,37 @@
+# De ING Scanner werkt niet - ING
+
+Lukt het scannen van de kleurencode met je ING Scanner niet?
+Dat kan aan verschillende dingen liggen.
+
+### De scanner gaat niet aan
+
+Als je op de oranje knop drukt, gaat je scanner dan aan?
+Zo niet, dan moeten de batterijen misschien worden vervangen. Als je dat hebt gedaan, kun je de scanner dan aanzetten?
+
+### De camera werkt niet
+
+Zet je scanner aan en richt de camera ergens op. Zie je hetzelfde op het scanner schermpje?
+Is de lens zichtbaar gebroken of gekrast? Vraag dan een nieuwe scanner aan. Volg onderstaande stappen:
+1. Open in een nieuw scherm Mijn ING en vul je gebruikersnaam en wachtwoord in
+2. Kies onderaan in het scherm met de kleurencode voor 'Hulp nodig?'
+3. Kies voor 'Scannen van de kleurencode lukt niet'
+4. Kies voor 'Nieuwe scanner aanvragen' en volg de instructies op je scherm
+
+### Gebruik je de scanner op de juiste manier?
+
+De lens zit aan de achterkant van de scanner. Weet je zeker dat je vinger niet voor de lens zit?
+Richt de lens op de kleurencode totdat je deze in het vierkant op het scherm van je scanner ziet.
+
+### De scanner ziet de kleurencode niet
+
+De instellingen of kwaliteit van je scherm kunnen scannen lastig maken. Heeft je scherm:
+* barsten?
+* alles in zwart en wit?
+* 'dode' pixels?
+* teveel reflecterend licht?
+Wijzig dan je scherminstellingen naar 'kleur' en beperk de lichtreflectie.
+Kun je de kleurencode nog steeds niet scannen?
+1. Open in een nieuw scherm Mijn ING en vul je gebruikersnaam en wachtwoord in
+2. Kies onderaan in het scherm met de kleurencode voor 'Hulp nodig?'
+3. Kies voor 'Scannen van de kleurencode lukt niet'
+4. Kies voor 'Nieuwe scanner aanvragen' en volg de instructies op je scherm

@@ -1,0 +1,21 @@
+# Sparen met de Oranje Spaarrekening - ING
+
+## Rente Oranje Spaarrekening
+
+START TABLE IN MARKDOWN
+| Spaarsaldo | Spaarrente |
+| - | - |
+| € 0 t/m € 10.000 | 1,50% |
+| € 10.000 t/m € 100.000 | 1,25% |
+| € 100.000 t/m €1.000.000 | 1,25% |
+| Boven € 1.000.000 | 0,00% |
+END TABLE IN MARKDOWN
+Deze tarieven gelden per 15 oktober 2023. De rente op de Oranje Spaarrekening is variabel en op jaarbasis.
+Op je Oranje Spaarrekening wordt de rente berekend door het saldo van de verschillende spaardoelen bij elkaar op te tellen.
+Hoe wordt de rente berekend?
+
+## Inflatie en je spaargeld
+
+Je hebt het vast voorbij zien komen in het nieuws: alles wordt steeds duurder. Dat komt door inflatie, geld wordt steeds minder waard. Maar wat betekent dat voor je spaargeld?
+Stel dat je spaart voor een elektrische auto, een vakantie of een verbouwing. Wat kan je over 5 jaar nog kopen voor dat geld?
+Bereken wat je geld straks waard is

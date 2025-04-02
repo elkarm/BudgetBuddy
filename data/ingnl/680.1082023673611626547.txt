@@ -1,0 +1,25 @@
+# Turkije - ING
+
+Wil je geld overmaken naar Turkije? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+Je betaalt de transactiekosten eerst zelf, wij betalen ze later aan je terug.
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Kies bij de transactie voor kostenverdeling ‘OUR’
+* Na het invoeren van het bedrag en de kostenverdeling, krijg je direct een indicatie van de prijs en wisselkoers
+Let op:
+Heb je de volledige voor- en achternaam van de begunstigde ingevuld? Bij betalingen wordt hier op gecontroleerd.
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Turkije is de OUR-opslag €25.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN
+
+Het IBAN voor Turkije bestaat uit 26 posities alfanumeriek (cijfers en letters aaneengesloten invullen), bijvoorbeeld: TR330006100519786457841326.

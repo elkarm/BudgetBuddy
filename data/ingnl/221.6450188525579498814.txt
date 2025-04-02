@@ -1,0 +1,23 @@
+# Tarieven Passen - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven.
+Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar ING
+* Creditcards
+* Rood staan
+* Overige Producten
+* Buitenland
+* Gebruik, storten en afschriften
+(** Je bestelt de enveloppen online . Heb je vragen? Bekijk de veelgestelde vragen .)Heb je een RoyaalPakket? Dan is het Overschrijvingsboekje gratis.
+START TABLE IN MARKDOWN
+| Opnemen | |
+| - | - |
+| Per dag kun je maximaal € 500 opnemen. Dit is de standaard opnamelimiet. Heb je even meer contant geld nodig? Dan verhoog je de daglimiet tot maximaal € 5.000. Dat kan voor bedragen boven € 1.000 maximaal voor 3 dagen. | Per dag kun je maximaal € 500 opnemen. Dit is de standaard opnamelimiet. Heb je even meer contant geld nodig? Dan verhoog je de daglimiet tot maximaal € 5.000. Dat kan voor bedragen boven € 1.000 maximaal voor 3 dagen. |
+| Bij een geldopname met een Betaalpas bij geldautomaten in het buitenland, geldt een maximum van € 500 per dag in plaatselijke valuta. Een buitenlandse bank kan je voor een (geld\- of betaalautomaat)transactie kosten in rekening brengen. Dit moet apart vermeld staan op het transactiescherm en je moet hiervoor expliciet akkoord geven. | Bij een geldopname met een Betaalpas bij geldautomaten in het buitenland, geldt een maximum van € 500 per dag in plaatselijke valuta. Een buitenlandse bank kan je voor een (geld\- of betaalautomaat)transactie kosten in rekening brengen. Dit moet apart vermeld staan op het transactiescherm en je moet hiervoor expliciet akkoord geven. |
+| Bij een geldautomaat met het MasterCard\-logo kun je met je creditcard tot 2 keer per dag geld opnemen. Met de Creditcard tot een maximum bedrag van € 400 en met de Platinumcard tot een maximum van € 1.000 per dag. | Bij een geldautomaat met het MasterCard\-logo kun je met je creditcard tot 2 keer per dag geld opnemen. Met de Creditcard tot een maximum bedrag van € 400 en met de Platinumcard tot een maximum van € 1.000 per dag. |
+| Bij opnemen met een creditcard bij bankkantoren in het buitenland geldt een maximum van 2 opnames per dag | Bij opnemen met een creditcard bij bankkantoren in het buitenland geldt een maximum van 2 opnames per dag |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

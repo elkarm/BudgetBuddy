@@ -1,0 +1,21 @@
+# Verantwoordelijkheid geven en toch grip houden - ING
+
+En toch grip houden Met een eigen rekening, Betaalpas en app leert je kind van jongs af aan digitaal te bankieren. Bijvoorbeeld dat je moet sparen voor die nieuwe sneakers, telefoon of fiets. En dat je een week of maand met je zakgeld moet doen. Zodat er na een middagje shoppen of snackbarbezoek nog wel geld over is voor een leuk cadeautje voor je jarige vader of moeder. Zelf doen is leren. En als ouder wil je je kind natuurlijk begeleiden daarbij.
+
+### Stapsgewijs meer verantwoordelijkheid
+
+Op de Kinder - en Jongerenrekening kan je niet rood staan. Je kind kan dus nooit meer uitgeven dan er op zijn rekening staat. Daarnaast kun je als ouder een limiet instellen op de Betaalpas. Zo bepaal je samen met je kind hoeveel het per dag kan betalen en opnemen. En wordt je kind ouder, dan kun je de limiet verhogen. Zo geef je stapsgewijs meer verantwoordelijkheid. In de tabel hieronder zie je een overzicht van de verschillende limieten en wie ze kan aanpassen.
+Betaalpaslimiet aanpassen
+
+### Limieten op de Kinder- en Jongerenrekening
+
+START TABLE IN MARKDOWN
+| Type limiet | Limiet per dag | Ouder kan aanpassen? |
+| - | - | - |
+| Betalen met je betaalpas | € 250 | Ja (max € 1.000 voor 30 dgn.) |
+| Geld opnemen met je betaalpas | € 250 | Ja (naar beneden aanpasbaar) |
+| Storten | € 1.000 (max € 5.000 p.j.) | Nee |
+| Mobiel Betalen (vanaf 16 jaar) | € 250 | Nee |
+| Overschrijven in de app (incl. IDEAL) | € 2.000 | Nee |
+| Overschrijven via Mijn ING (incl. IDEAL) | € 2.000 | Nee |
+END TABLE IN MARKDOWN

@@ -1,0 +1,21 @@
+# Betalen met je mobiel - Mobiel betalen voor Apple, Android™ en Garmin
+
+Bij ING betaal je soepel met je mobiel. Heb je die telefoon al in de hand of je smartwatch aan je pols? Probeer het eens! Je wilt straks niet meer anders.
+* ### Apple Pay
+  + Voor iPhone, iPad en Apple Watch
+  + Makkelijk betalen via je Apple Wallet
+  + Ook geschikt voor creditcard betaling
+  + In winkels, apps en webshopsApple Pay
+* ### ING Mobiel Betalen
+  + Voor Android™ telefoons
+  + Let op: Binnenkort niet meer te gebruikenING Mobiel Betalen
+* ### Google Pay
+  + Voor Android™ telefoons
+  + Makkelijk betalen via je Google Wallet
+  + Ook geschikt voor creditcard betaling
+  + In winkels, apps en webshopsGoogle Pay
+* ### Garmin Pay
+  + Voor je Garmin watch
+  + Makkelijk betalen met je Garmin Wallet
+  + Je portemonnee aan je pols
+  + In winkels met contactloos betalenGarmin Pay

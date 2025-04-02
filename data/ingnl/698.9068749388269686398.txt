@@ -1,0 +1,9 @@
+# Creditcard in het buitenland - ING
+
+### Wisselkoersen
+
+**ING wisselkoers** Wisselkoersen worden gebruikt om vreemde valuta transacties om te rekenen naar euro’s. Voor de creditcard hanteert de ING de wisselkoers van Mastercard. Voor het omrekenen van vreemde valuta transacties naar euro’s brengt de ING kosten in rekening, dit noemen we koersopslag. De koersopslag bedraagt 2,00%. Dit betekent dat ING de wisselkoers verhoogt met 2,00%.
+**ECB-referentiekoers**
+Naast de door de ING gehanteerde wisselkoers van Mastercard publiceert de Europese Centrale Bank ( ECB ) haar wisselkoers. De Europese Commissie heeft de ECB wisselkoers gekozen als referentiekoers. Om transparant naar de klanten te zijn moeten alle betaaldienstaanbieders in de EER inzicht geven in hoeveel koersopslag zij berekenen.
+**ING wisselkoerscalculator**
+In de ING wisselkoerscalculator kun je de ING koersopslag uitgedrukt als percentage ten opzichte van de ECB-referentiekoers bekijken. Deze kun je vergelijken met het percentage van de lokale betaaldienstaanbieder om te beslissen of je gebruik wilt maken van Dynamic Currency Conversion (DCC). Ervaring leert dat lokale betaaldienstaanbieders vaak een hogere omrekenkoers hanteren dan ING.

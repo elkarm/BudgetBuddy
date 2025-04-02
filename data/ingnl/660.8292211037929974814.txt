@@ -1,0 +1,13 @@
+# Mobiele pincode opnieuw aanvragen of wijzigen - ING
+
+## Mobiele pincode opnieuw aanvragen?
+
+Er zijn twee manieren om weer toegang te krijgen tot je app als je je mobiele pincode bent vergeten:
+1. Vul 3 keer een verkeerde mobiele pincode in op jouw app. Of misschien heb je dit al wel gedaan? Jouw app is nu geblokkeerd. Activeer je app opnieuw. Je wordt vanzelf gevraagd om een nieuwe mobiele pincode in te stellen.
+2. Log in op Mijn ING (internetbankieren) en ga naar ‘mobiele toestellen’. Hier zie je een overzicht van de toestellen waarop jij onze app hebt geïnstalleerd. Kies nu voor de optie ‘Blokkeren’. Jouw app is nu geblokkeerd. Activeer je app opnieuw. Je wordt vanzelf gevraagd om een nieuwe mobiele pincode in te stellen.
+
+## Mobiele pincode wijzigen?
+
+Je mobiele pincode verander je zelf via het hoofdmenu van de app:
+1. Ga onderin je app naar ‘Service’ en kies voor 'App-instellingen'
+2. Kies voor ‘Mobiele pincode wijzigen’ en regel het meteen.

@@ -1,0 +1,23 @@
+# Wijzigingen per 1 maart 2024 - ING
+
+## Nieuwe tarieven particuliere betaalpakketten
+
+START TABLE IN MARKDOWN
+| Per maand | Tot 1\-3\-2024 | Vanaf 1\-3\-2024 |
+| - | - | - |
+| OranjePakket met korting | € 2,70 | € 3,20 |
+| OranjePakket | € 3,15 | € 3,65 |
+| BasisPakket | € 3,85 | € 4,35 |
+| BetaalPakket | € 5,80 | € 6,30 |
+| RoyaalPakket | € 8,85 | € 9,35 |
+END TABLE IN MARKDOWN
+Het BasisPakket, BetaalPakket en RoyaalPakket zijn sinds 4 april 2016 niet meer af te sluiten.
+Weten welk betaalpakket je hebt? Dat vind je in je app, Mijn ING of op je afschrift.
+In de app klik je op je Betaalrekening en dan rechtsboven op de knop Instellingen. Daar zie je je rekeningdetails, inclusief je pakket.
+Je kunt in Mijn ING en/of de app zoeken op “kosten”. Bij de maandelijkse afschrijving van je pakketkosten staat je pakket.
+Dit is ook een goed moment om te kijken of je huidige pakket nog bij je past. Via ing.nl/vergelijkjepakket kun je checken of je (veel) voordeliger uit bent met een ander betaalpakket.
+
+### Waarom passen we de tarieven aan?
+
+We willen (digitaal) bankieren steeds makkelijker en sneller voor jou maken. Zo kan je nu zonder Betaalpas - met een code uit de app - geld opnemen bij een geldautomaat.
+Tegelijkertijd moeten we ervoor zorgen dat het betalingsverkeer veilig blijft. Er zijn namelijk steeds nieuwe eisen en ontwikkelingen in het opsporen van fraude, het tegengaan van witwassen en terrorismefinanciering.

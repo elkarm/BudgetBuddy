@@ -1,0 +1,26 @@
+# Contactloos betalen met je Betaalpas - ING
+
+Contactloos betalen werkt nadat je eerst 1 keer mét pincode hebt gepind of betaald.
+Met jouw betaalpas kun je contactloos betalen. Het is niet mogelijk om contactloos betalen uit te zetten. Contactloos betalen zonder pincode kan natuurlijk niet ongelimiteerd. Hieronder lees je hoe het werkt.
+
+## Zo werkt het
+
+Contactloos betalen werkt nadat je eerst 1 keer mét pincode hebt gepind of betaald. Daarna reken je razendsnel bedragen onder de € 50,- af zonder pincode. Contactloos betalen is heel makkelijk. Houd je Betaalpas tegen de zijkant van de betaalautomaat.
+
+### Tot en met € 50: geen pincode
+
+Is het bedrag dat je contactloos wilt betalen € 50 of lager dan heb je geen pincode nodig.
+Zo werkt het:
+* Houd je betaalpas kort naast de betaalautomaat
+* De betaling wordt dan direct gedaan, je hebt geen pincode nodig
+* Als je betaling is geslaagd, zie je dat ook op het scherm
+
+### Boven de € 50: met pincode
+
+* Houd je betaalpas kort naast de betaalautomaat
+* Toets nu je pincode in en bevestig de betaling met OK
+* Als je betaling is geslaagd, zie je dat ook op het scherm
+
+### Cumulatief limiet: € 100
+
+Als je meerdere achtereenvolgende contactloze betalingen hebt gedaan zonder pincode en die tellen op tot € 100 of meer, dan is voor die laatste transactie je pincode nodig. Gebruik je tussen betalingen door je pincode, dan begint de telling weer opnieuw.

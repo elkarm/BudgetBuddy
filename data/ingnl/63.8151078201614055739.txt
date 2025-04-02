@@ -1,0 +1,23 @@
+# Zuid-Afrika - ING
+
+Wilt je geld overmaken naar Zuid-Afrika? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Na het invoeren van het bedrag en de kostenverdeling, krijg je direct een indicatie van de prijs en wisselkoers
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Zuid-Afrika is de OUR-opslag €25.
+
+### Verwerkingsduur
+
+Wil weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### South African National Clearing Code
+
+Voor betalingen naar Zuid-Afrika in ZAR dien je naast het rekeningnummer en de BIC (Bank Identifier Code) ook de South African National Clearing Code (ook wel ZA code genoemd) op te geven. Deze code bestaat uit 6 cijfers.
+Voor betalingen naar Zuid-Afrika in andere valuta's dan ZAR, zoals EUR, is alleen een BIC nodig.
+Zuid-Afrika kent geen standaard formaat voor het rekeningnummer.

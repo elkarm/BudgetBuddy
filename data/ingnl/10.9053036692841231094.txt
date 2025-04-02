@@ -1,0 +1,20 @@
+# Uitbetalen van je restsaldo - ING
+
+## Waar stuur ik mijn verzoek naartoe?
+
+### Verstuur verzoek (Zakelijke Betaalrekening)
+
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Per e\-mail | Per e\-mail | Per e\-mail |
+| Zakelijk verzoek | Zakelijk verzoek | |
+| Restsaldo.zakelijk@ing.com | Restsaldo.zakelijk@ing.com | |
+| | | |
+| Per Post | Per Post | Per Post |
+| In Nederland | Vanuit het buitenland | Vanuit het buitenland |
+| ING | ING | ING |
+| Antwoordnummer 40620 | I.B.R.S. / C.C.R.I. NUMÉRO 40540 | I.B.R.S. / C.C.R.I. NUMÉRO 40540 |
+| 8900 TA Leeuwarden | 8900 SP Leeuwarden | 8900 SP Leeuwarden |
+| | PAYS BAS | PAYS BAS |
+END TABLE IN MARKDOWN

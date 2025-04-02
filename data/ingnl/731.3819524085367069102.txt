@@ -1,0 +1,25 @@
+# Instant Payments - ING
+
+Geld overmaken of ontvangen binnen enkele seconden. 24 uur per dag en 7 dagen per week. Het kan met Instant Payments!
+
+# Instant Payments
+
+### Wat is Instant Payments?
+
+Instant Payments zijn euro overschrijvingen die binnen enkele seconden op de rekening van de begunstigde staan.
+Elke dag van de week en op elk moment van de dag. Dus ook 's nachts, in het weekend en op feestdagen!
+
+### Welke betalingen worden verwerkt als Instant Payment?
+
+Enkelvoudige euro overschrijvingen via Mijn ING en de Mobiel Bankieren App naar rekeningen bij deelnemende banken.
+Naast ING zijn dat vrijwel alle banken in Nederland. Daarnaast zullen op termijn geleidelijk ook steeds meer internationale euro overschrijvingen naar banken in Europa (het zogenaamde SEPA gebied) als instant payment verwerkt kunnen worden.
+
+### Hoe kan ik een Instant Payments doen?
+
+Overschrijvingen via Mijn ING en de Mobiel Bankieren App voeren we automatisch uit als Instant Payment als het kan.
+Let op! Het is dus niet nodig om je rekening of pas te activeren voor Instant Payments. Indien je een bericht hierover ontvangt dan gaat het zeer waarschijnlijk om ' phishing' fraude '.
+
+### Wat merk ik van een Instant Payment?
+
+* Wanneer je een overschrijving doet met Mijn ING of met de Mobiel Bankieren App zie je na het invullen van bedrag en begunstigde rekening meteen op het scherm of we de overschrijving ' **Direct** ' uitvoeren (als Instant Payment) of ' **Binnen een werkdag** ' (als reguliere Europese Overschrijving). In geval van directe verwerking is het geld binnen een paar seconden bijgeschreven op de rekening van de begunstigde.
+* Als begunstigde van een betaling kun je - als de bank van de betaler deelneemt aan Instant Payments - 7 dagen per week 24 uur per dag betalingen ontvangen op al je Euro rekeningen bij ING met een IBAN. Dit geldt voor enkelvoudige overschrijvingen via Internet en Mobiel Bankieren. Zogenaamde verzamelbetalingen (ook wel batchbetalingen genoemd) - zoals salaris, toeslagen en uitkeringen - worden door de deelnemende banken nog niet als Instant Payment verwerkt.

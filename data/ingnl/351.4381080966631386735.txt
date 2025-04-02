@@ -1,0 +1,26 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Betalen in de winkel
+
+In de winkel werkt Apple Pay net zoals contactloos betalen. Betalen met Apple Pay is mogelijk bij iedere betaalautomaat met een 'contactloos betalen' of Apple Pay logo, ook in het buitenland. Alleen gebruik je je iPhone of Apple Watch in plaats van je ING Betaalpas of Creditcard. Houd je iPhone of Apple Watch even bij de betaalautomaat, net zoals je met je pas zou doen.
+
+### Betalen met Face ID
+
+Face ID is een methode om een persoon te identificeren. Deze identificatie kan je gebruiken om een betalingsopdracht met Apple Pay te bevestigen.
+Hoe werkt het? Dubbelklik op de knop aan de zijkant van je iPhone. "Kijk" naar het scherm voor de gezichtsherkenning. Houd de bovenkant van je telefoon een paar centimeter van de betaalautomaat. Zie je 'Gereed' en een vinkje op het beeldscherm? Dan heb je betaald.
+Bekijk hier de video
+
+### Betalen met Touch ID
+
+Vingerafdruk, Fingerprint in het Engels of ook wel Touch ID, is ook een identificatie methode. Deze identificatie kan je gebruiken om een betalingsopdracht met Apple Pay te bevestigen.​
+Hoe werkt het? Dubbelklik op de knop aan de zijkant van je iPhone. Gebruik je vingerafdruk voor identificatie. Houd de bovenkant van je telefoon een paar centimeter van de betaalautomaat. Zie je 'Gereed' en een vinkje op het beeldscherm? Dan heb je betaald.
+Bekijk hier de video
+
+### ​​​​​​​Betalen met je Apple Watch
+
+Dubbelklik op de zijknop en scrol om een kaart te kiezen. Houd het scherm van je Apple Watch een paar centimeter van het betaalapparaat met contactloos betalen.
+Wacht tot je een tikje voelt, en klaar. Bekijk hier hoe het precies werkt!
+
+## Online betalen in apps of via het web
+
+Om online te betalen met je iPhone of iPad, kies je Apple Pay bij de betaalopties. Je bevestigt de betaling met Face ID of Touch ID.
