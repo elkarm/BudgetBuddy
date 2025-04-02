@@ -1,0 +1,10 @@
+# Wereldbetaling Particulier - ING
+
+### BIC gegevens ING Bank
+
+* De BIC van de ING is: INGBNL2A
+* Voor het ontvangen van een Wereldbetaling kun je gevraagd worden naar het adres van ING:
+ING Bank N.V.
+Foreign Operations
+PO Box 1800
+1000 BV Amsterdam

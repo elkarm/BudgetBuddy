@@ -1,0 +1,27 @@
+# Machtigen
+
+## Veelgestelde vragen
+
+### Wat doe ik als de rekeninghouder geen machtiging meer kan verlenen?
+
+Als de rekeninghouder niet meer in staat is om bankzaken in beheer te geven en er is geen volmacht aanwezig, dan kun je beschermingsbewind of curatele aanvragen via het kantonrecht. Na uitspraak van de rechter krijgt een familielid het beheer over de financiële goederen. Als familie mag je ook verzoeken een professioneel bewindvoerderskantoor aan te wijzen om de financiële belangen te regelen.
+
+### Wat is het belangrijkste verschil tussen een machtiging en een mederekeninghouder aanmelden?
+
+Als je iemand een machtiging verleent dan blijf je als rekeninghouder eigenaar en aansprakelijk. Meld je een extra rekeninghouder aan dan wordt het betaalpakket omgezet naar een gezamenlijke Betaalrekening. Je wordt beide beschikkingsbevoegd over het vermogen en aansprakelijk voor de bankzaken.
+
+# Machtigen
+
+## Veelgestelde vragen
+
+### Waarom ziet de gemachtigde mijn Betaalrekening nog niet in Mijn ING?
+
+Als een gemachtigde zelf een Mijn ING-account heeft wordt de machtiging standaard aan het internetbankieren toegevoegd. Dit gebeurt niet direct, maar is doorgaans binnen één tot vijf werkdagen verwerkt.
+
+### Kan je een machtiging afgeven zonder een koppeling met Mijn ING?
+
+Nee, dat is helaas niet mogelijk. Zodra je een machtiging afgeeft en de gemachtigde bankiert bij ING dan wordt je Betaalrekening waarop de machtiging is afgegeven automatisch zichtbaar in het Mijn ING-account van de gemachtigde.
+
+### Ik zie in Mijn ING als gemachtigde geen inbox-berichten over de gemachtigde Betaalrekening. Hoe kan dat?
+
+Alleen de rekeninghouder ontvangt inbox-berichten over zijn Betaalrekening. Als een bericht over deze Betaalrekening ook voor jou als gemachtigde is bestemd, dan ontvang je dit bericht ook zelf in de inbox van je (eigen) Mijn ING. De overige berichten (zoals een Jaaroverzicht) zijn alleen voor een rekeninghouder zichtbaar.

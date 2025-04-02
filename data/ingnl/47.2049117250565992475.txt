@@ -1,0 +1,29 @@
+# China - ING
+
+Wil je geld overmaken naar China? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+
+### Chinese wet- en regelgeving
+
+* Geld overmaken in CNY is alleen mogelijk voor zakelijke klanten.
+* Vermeld de CNAPS code (China National Advanced Payment System) in het daarvoor bestemde veld. Deze code bevat de lokatie van de begunstigde bank en wordt gebruikt voor de lokale verwerking van CNY in China.
+* Vermeldt de reden van betaling in de omschrijving (ook wel Purpose of Payment Code genoemd). De volgende purpose codes zijn toegestaan:
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Purpose code | Omschrijving |
+| /CGODDR/ | Betaling van goederen |
+| /CCTFDR/ | Kapitaalbetalingen en investeringen |
+| /CSTRDR/ | Betaling van diensten |
+| /CCDNDR/ | Donaties aan goede doelen |
+| /COCADR/ | Dividenduitkering, winstuitkering, belastingbetaling, studiebeurs |
+| /CODADR/ | Loon\- en salarisbetalingen |
+END TABLE IN MARKDOWN
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt jouw begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING jou een OUR-opslag in rekening. Voor China is de OUR-opslag €15.

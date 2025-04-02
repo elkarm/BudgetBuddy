@@ -1,0 +1,23 @@
+# PSD2 - ING - Zeg eens,
+
+Wat merk ik van PSD2? Wat je merkt van PSD2? Nou, je geldzaken regelen wordt steeds makkelijker. Omdat banken, maar ook andere bedrijven nieuwe slimme financiële diensten aanbieden. Ook zijn er andere veranderingen, waar je soms iets van merkt. Zoals een extra controlestap bij het inloggen in Mijn ING bijvoorbeeld.
+Het betalingsverkeer in Europa verandert en vernieuwt voortdurend. Er zijn regels nodig die dat mogelijk maken en er tegelijk voor zorgen dat het veilig blijft. Die regels staan onder meer in PSD2 ‘Payment Services Directive 2’. De nieuwe regels zorgen voor meer concurrentie en tegelijkertijd voor een betere bescherming van consumenten. Zodat jij veilig en steeds makkelijker je geldzaken kunt regelen.
+
+## Nieuwe financiële diensten
+
+Bedrijven die geen bank zijn, kunnen nu toch financiële diensten gaan aanbieden. Want door PSD2 kun jij jouw betaalgegevens met hen delen. Ook kun je een ander bedrijf een betaling namens jou laten starten. Maar jij blijft de baas natuurlijk. Voor een betaling geef je altijd nog zelf akkoord en je gegevens worden alleen gedeeld als jij dat wilt. En als jij dat bedrijf daar nadrukkelijk toestemming voor geeft. Anders niet.
+* Zo werkt toestemming geven
+
+## Waar moet je op letten?
+
+Nieuwe financiële diensten kunnen handig zijn en je helpen met je geldzaken. En daarvoor kun je dus nu door PSD2 je betaalgegevens delen. Om dat mogelijk te maken zijn ook de Uniforme Veiligheidsregels per 14 september 2019 aangepast.
+Maar blijf je altijd afvragen aan wie je je gegevens toevertrouwt en waarvoor ze worden gebruikt. Deze informatie vind je vaak in de voorwaarden of privacy policy van een bedrijf, goed om die te lezen.
+Verder moet je alert blijven op phisingmails . Elke verandering, en dus nu ook PSD2, is een aanleiding voor criminelen om ze te versturen.
+
+## Aansluiten als betaaldienst
+
+Developers en betaaldiensten vinden op ING's Developer Portal alle benodigde informatie om te kunnen aansluiten op ING's PSD2 gerelateerde API's
+Ga naar ING's Developer Portal
+* ### Zo werkt toestemming geven
+Waar kan ik toestemming voor geven en hoe werkt dat?
+Zo werkt toestemming geven

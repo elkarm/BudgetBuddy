@@ -1,0 +1,11 @@
+# Instant Payments - ING
+
+### Waarom worden sommige Instant Payments vanuit het buitenland geweigerd door ING?
+
+Het kan voorkomen dat ING de uit hoofde van intern beleid en wet- & regelgeving benodigde controles op transacties van en naar het buitenland niet binnen enkele seconden kan uitvoeren.
+In dat geval:
+* weigert ING de transactie;
+* onder vermelding van een afkeurreden die aangeeft dat de transactie niet instant uitgevoerd kon worden;
+* er is geen af-/bijschrijving zichtbaar op de rekening
+* voor inkomende betalingen is het daarna de keuze van de betaler of diens bank of de transactie opnieuw gedaan wordt middels een reguliere (niet instant) overboeking.
+* voor uitgaande betalingen door ING klanten welke bij herhaling niet als instant payment uitgevoerd kunnen worden, kan de overschrijving opnieuw gedaan worden als een reguliere (niet) instant overboeking middels de optie "Opnieuw proberen" (Engels: "Resend") in Mijn ING en de Mobiel Bankieren App (vanuit de foutmelding op scherm of vanuit de afgekeurde opdracht in het Opdrachten overzicht).

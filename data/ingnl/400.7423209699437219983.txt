@@ -1,0 +1,17 @@
+# Machtigen
+
+## Hoe meld je een gemachtigde aan?
+
+### Met deze stappen regel je een machtiging via de ING Mobiel Bankieren App
+
+1. Open de App. Klik rechtsonder op 'Service';
+2. Klik op 'Je rekening';
+3. Klik op 'Machtiging instellen';
+4. Klik op ‘Gemachtigde aanmelden’.
+
+### Met deze stappen regel je een machtiging via Mijn ING
+
+1. Log in op Mijn ING;
+2. Open het overzicht Machtigen;
+3. Klik op ‘Gemachtigde aanmelden’.
+Mederekeninghouder bij een en/of rekening Als de Betaalrekening waarvoor je een machtiging wil regelen een gezamenlijke rekening is, dan moet de mederekeninghouder het verzoek ook goedkeuren. Hiervoor moet de mederekeninghouder inloggen via het (eigen) Mijn ING account (bevestiging via Mobiel Bankieren App niet mogelijk) en daarna zoeken op 'Verzoeken van ING'. Op de gevonden pagina staat het verzoek ter goedkeuring klaar.

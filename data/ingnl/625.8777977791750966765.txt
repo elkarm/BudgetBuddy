@@ -1,0 +1,12 @@
+# Vergelijk je pakket
+
+Wil je weten wat de verschillen zijn tussen de verschillende betaalpakketten van ING?
+Dat kan! Selecteer hieronder jouw huidige pakket en bekijk de verschillen met de andere pakketten. Jij bepaalt wat het beste bij je past.
+In de vergelijker staan de tarieven van 1 maart 2024.
+Weet je niet zeker welk pakket je nu hebt? Kijk in je app bij de instellingen van je betaalrekening, of zoek in je afschriften naar kosten.
+
+### Pakketvergelijking
+
+Huidig pakket Selecteer BasisPakket BetaalPakket RoyaalPakket OranjePakket met korting OranjePakket Nieuw pakket Selecteer OranjePakket met korting OranjePakket
+START TABLE IN MARKDOWN
+END TABLE IN MARKDOWN

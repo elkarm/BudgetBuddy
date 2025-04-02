@@ -1,0 +1,6 @@
+# Muntsoortcode buitenlandse valuta - ING
+
+### Tip: voorkom omrekening
+
+Soms is uitvoering van een opdracht erg onvoordelig voor de begunstigde. Bijvoorbeeld bij betalingen in euro's naar de Verenigde Staten. De ING adviseert deze opdrachten in dollars op te geven, omdat omrekening in de Verenigde Staten voor de begunstigde onvoordelig is.
+\* Tot de Europese Economische Ruimte behoren momenteel: België, Bulgarije, Cyprus, Denemarken, Duitsland, Estland, Finland, Frankrijk, Griekenland, Hongarije, Ierland, Ijsland, Italië, Kroatië, Letland, Liechtenstein, Litouwen, Luxemburg, Malta, Nederland, Noorwegen, Oostenrijk, Polen, Portugal, Roemenie, Slovenië, Slowakije, Spanje, Tsjechië, Verenigd Koninkrijk en Zweden.

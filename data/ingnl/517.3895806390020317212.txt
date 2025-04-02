@@ -1,0 +1,23 @@
+# Mexico - ING
+
+Wil je geld overmaken naar Mexico? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Mexio is de OUR-opslag € 50.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur
+
+### Clabe
+
+* In Mexico heet het rekeningnummer “Clabe”. Een Clabe bestaat uit een Bankcode, Branchcode en Rekeningnummer. Een Clabe bestaat uit 18 cijfers. Iedere rekeninghouder in Mexico beschikt over zijn eigen Clabe.
+* Let op: voer bij het rekeningnummer in Mijn ING de volledige Clabe in.
+* Je kunt de Clabe bij de begunstigde opvragen. De ING kan je deze niet geven.
+* Let op: betalingen zonder Clabe worden door de bank van de begunstigde over het algemeen geweigerd.

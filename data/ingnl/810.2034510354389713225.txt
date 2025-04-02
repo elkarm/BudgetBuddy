@@ -1,0 +1,22 @@
+# Inzicht in tarieven van betaalproducten - ING
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Creditcards
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+(* Bij OranjePakket met korting is het afnemen van afschriften niet meer mogelijk.) ING berekent een koersopslag op alle transacties in vreemde valuta. De koersopslag houdt in dat ING bij de omrekening van vreemde valuta naar de euro het bestede bedrag verhoogt met een percentage. Deze koersopslag wordt verwerkt in het bestede bedrag. ING hanteert de wisselkoersen aangeleverd door MasterCard International voor de Betaalpas met het Maestro logo en haar creditcards. Voor de Betaalpas met het V PAY logo hanteert ING de koersen van VISA International. De wisselkoersen kunnen per land en per dag verschillen.
+Kijk hier voor de wisselkoerscalculator. De Europese Commissie heeft de ECB (Europese Centrale Bank) euro wisselkoersen gekozen als referentie koers. Dit betekent dat de ECB wisselkoers als basis dient voor het berekenen van de ING koersopslag als percentage ten opzichte van de ECB referentiewisselkoers. In de wisselkoerscalculator tonen we dit zodat je als klant een juiste beslissing kan nemen of je wel of geen gebruik wilt maken van een DCC optie. Dynamic Currency Conversion (DCC) is wanneer de betaaldienstaanbieder het transactiebedrag aanbiedt af te rekenen in euro in tegenstelling tot het afrekenen van het transactiebedrag in de valuta van het land. De betaaldienstaanbieder in de EER is ook verplicht om het percentage van de valutawisselkosten ten opzichte van de ECB koers aan te geven wanneer DCC als optie aangeboden wordt. De ECB wisselkoersen worden dagelijks gepubliceerd. Van een valuta waar geen ECB wisselkoers van bestaat kunnen we geen percentage publiceren via de calculator.
+Tip: Voor het gebruik van een buitenlandse geldautomaat kan de betreffende bank je kosten in rekening brengen. Tijdens de geldopname word je over deze kosten geïnformeerd en moet je hiervoor expliciet akkoord geven. Deze kosten worden door ons samen met het bedrag van je geldopname van je rekening afgeschreven. ING heeft voorafgaand aan de transactie geen inzage in de omrekenkoersen van de lokale banken of de extra tarieven die zij kunnen rekenen. Check de wisselkoerscalculator voordat je gebruik maakt van DCC; ervaring leert dat lokale betaaldienstaanbieders vaak een hogere omrekenkoers hanteren dan ING.
+START TABLE IN MARKDOWN
+| Storten bij een Geldmaat |
+| - |
+| Storten contant geld op eigen rekening met Betaalpas en in het bezit van OranjePakket met Korting | € 6,00 per storting |
+END TABLE IN MARKDOWN
+\*\* Heb je een Kinderrekening of Jongerenrekening of afschrift in braille? Dan kun je gratis maandelijks een afschrift ontvangen in Nederland. Dit geldt ook wanneer je gebruikmaakt van een Basis-, Betaal- of RoyaalPakket.
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

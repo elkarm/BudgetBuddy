@@ -1,0 +1,10 @@
+# PSD2: Over toestemming geven - Zeg eens,
+
+## Er zijn 3 diensten waar je een ander bedrijf toestemming kan geven:
+
+**Rekeninginformatiedienst** : opvragen van je transacties en saldo van je betaalrekeningen.
+Bijvoorbeeld aan een app die je overzichtelijk laat zien waar jij je geld aan uitgeeft. We delen dan je transactiegegevens van de afgelopen 24 maanden en je saldo.
+**Betaalinitiatiedienst** : betaling doen via het platform van een ander bedrijf.
+Zoals een webshops of betaalapp die je opdracht geven om betalingen te doen van je Betaalrekening bij ING. Die staan dan voor je klaar in Mijn ING of de app en daar keur je de betalingen goed. Een ander bedrijf kan dus nooit betalingen doen vanaf jouw rekening zonder jouw toestemming.
+Saldocheck Een ander bedrijf kan navragen of er genoeg geld op je Betaalrekening bij ING staat om een kaarttransactie uit te voeren. ING geeft dan alleen met een ja of nee aan, of er genoeg geld op je Betaalrekening staat.
+Bekijk om wat voor bedrijven het gaat

@@ -1,0 +1,17 @@
+# Een overzicht van de actuele rentes op de betaalrekening - ING - Renteberekening op je betaalrekening
+
+De rente wordt berekend op dagbasis over het totale saldo op je betaalrekening. Verder wordt de rente berekend over saldoklassen. Het rentepercentage kan per saldoklasse verschillen. Hieronder vind je de saldoklassen en bijbehorende rentepercentages voor de Betaalrekening, Kinderrekening, Jongerenrekening en Studentenrekening per 01/10/2022.
+
+## Dit zijn de rentepercentages per 01/10/2022
+
+## Betaalrekening, Kinderrekening, Jongerenrekening, Studentenrekening
+
+START TABLE IN MARKDOWN
+| Saldo | Rente |
+| - | - |
+| 0 t/m € 100.000 | | 0,00% |
+| Boven € 100.000 t/m € 250.000 | | 0,00% |
+| Boven € 250.000 | | 0,00% |
+END TABLE IN MARKDOWN
+De rentetarieven gelden per rekening en worden op jaarbasis vastgesteld. Bovenstaande saldoklassen en percentages kunnen wijzigen.
+Ondanks de constante zorg en aandacht die de ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

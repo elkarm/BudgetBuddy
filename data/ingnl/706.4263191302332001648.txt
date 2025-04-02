@@ -1,0 +1,21 @@
+# Verschillen betaalpas en creditcard - Betaalpas of creditcard
+
+## Vergelijk de kosten
+
+Wil je precies weten wat de verschillen in kosten zijn? En wat je wanneer betaalt? Met onderstaande tabel kan je het verschil tussen je betaalpas en je creditcard bekijken.
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Kunt u zelf uw pincode kiezen? | Nee | Ja |
+| Wanneer wordt het bedrag afgeschreven van uw rekening? | Directe afschrijving van Betaalrekening | Afschrijving in de 1ste week van de maand |
+| Heeft u realtime inzicht in uw uitgaven in Mijn ING en App? | Ja | Ja |
+| Is het mogelijk om contactloos te betalen? | Ja | Ja |
+| Is het mogelijk om contactloos betalen uit te zetten? | Nee | Nee |
+| Direct wereldwijd bruikbaar | Ja | Ja |
+| Heeft u recht op noodgeld (Emergency Cash) bij verlies of diefstal? | Ja | Ja |
+| Betaalt u rente als u roodstaat? | Ja | Niet van toepassing |
+| Betaalt u rente over het openstaand saldo? | Niet van toepassing | Nee, uw uitgaven worden maandelijks afgeschreven |
+| Meer informatie | ING Betaalpas | ING Creditcard |
+| Zijn uw aankopen verzekerd tegen schade, verlies en diefstal? | Nee | Ja |
+END TABLE IN MARKDOWN
+Bekijk de EER-landen

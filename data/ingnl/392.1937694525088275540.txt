@@ -1,0 +1,5 @@
+# Muntsoortcode buitenlandse valuta - ING
+
+### Aangegeven muntsoort geweigerd
+
+In principe worden betalingsopdrachten uitgevoerd in de door jou aangegeven muntsoort. Behalve als de buitenlandse bank de muntsoort niet accepteert.

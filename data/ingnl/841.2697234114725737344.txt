@@ -1,0 +1,22 @@
+# App updaten voor Apple - ING
+
+Veilig en zo gedaan Mis nooit een update met automatisch updaten, dat is wel zo makkelijk!
+
+## Automatisch updaten
+
+Je kunt automatisch apps laten updaten door je smartphone of tablet. Dit zorgt ervoor dat je altijd de nieuwste versie van de app hebt, zonder dat je er zelf naar om hoeft te kijken.
+**Zo doe je dat:**
+1. Ga naar 'Instellingen' op je iPhone of iPad
+2. Ga naar ‘App Store’
+3. Zet het schakelaartje achter ‘App-updates’ (onder ‘Automatische downloads’) aan. Dit doe je door het witte bolletje naar rechts te schuiven. Het balkje wordt nu groen.
+4. De app wordt automatisch geüpdatet zodra er een update beschikbaar is.
+Doe je het liever elke keer handmatig, volg dan het stappenplan hieronder.
+
+### Stappenplan handmatig updaten
+
+Update de Mobiel Bankieren App
+1. Klik op het icoontje ‘ App Store ’
+2. Type in de zoekbalk ‘ING Bankieren’
+3. Als er een update voor je klaarstaat, zie je een icoontje met ‘Werk Bij’.
+4. Klik hierop. Zo wordt de app ge-update.
+Staat er geen ‘Werk bij’ bij de ING Bankieren app? Dan is de kans groot dat je de laatste versie van onze app al hebt. Heb je een oudere OS versie? Dan kan het zijn dat je je huidige app eerst van je toestel moet verwijderen. Download en activeer de app opnieuw om zo de beste versie voor jouw toestel te kunnen gebruiken.

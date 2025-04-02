@@ -1,0 +1,26 @@
+# Groensparen met het ING Groen Spaardeposito
+
+## De rente
+
+Met het ING Groen Spaardeposito krijg je een vaste rente. De rente verandert dus niet tot het einde van de looptijd.
+* De afgesproken rente geldt op jaarbasis (365 dagen).
+* Rente wordt dagelijks als volgt opgebouwd: rentepercentage / 365 x jouw saldo.
+* Je krijgt de rente uitgekeerd op je Betaalrekening. Er is dus geen rente-op-rente op jouw Groen Spaardeposito.
+START TABLE IN MARKDOWN
+| Looptijd | Rente |
+| - | - |
+| 1 jaar | 2,00% |
+| Deze tarieven gelden per 6 december 2023. Rentewijzigingen voorbehouden. |
+END TABLE IN MARKDOWN
+
+### Hoe werkt jaarlijkse uitbetaling van rente?
+
+Stel:
+* Je hebt een ING Groen Spaardeposito
+* Het saldo is € 5.000
+* De looptijd is 1 jaar
+* Het rentepercentage is 0,65% op jaarbasis (voorbeeldrente)
+Rente per jaar: 0,65% x € 5.000 = € 32,50
+* De rente geldt op jaarbasis (365 dagen).
+* Jouw rente wordt dagelijks als volgt opgebouwd: rentepercentage / 365 x je saldo
+* De rente wordt gestort op jouw Betaalrekening. Er is dus geen rente-op-rente op jouw Groen Spaardeposito.

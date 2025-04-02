@@ -1,0 +1,25 @@
+# Zo werkt de app - ING
+
+## Persoonlijke instellingen
+
+### Apple Pay of Google Pay activeren
+
+In de ING app kun je Google Pay (Android) of Apple Pay (iOS) activeren.
+Ga naar 'Service' en tik op ‘ Je app-instellingen’. Kies voor Google Pay of Apple Pay, afhankelijk van het besturingssysteem dat je device heeft. Lees en accepteer de voorwaarden en ervaar soepel betalen met je telefoon.
+* Hoe activeer ik Apple Pay?
+* Hoe activeer ik Google Pay?
+
+### Gezichtsherkenning & Vingerafdrukidentificatie instellen
+
+Vingerafdruk of gezichtsherkenning identificatie (ook wel biometrics genoemd) kun je gebruiken voor het betalen met Google Pay en Apple Pay. De biometrics kun je via de instellingen van je iPhone of Android telefoon aanzetten. Niet elk device is hiervoor geschikt.
+
+### Mobiele pincode (toegang ING app) wijzigen
+
+Je kunt je mobiele pincode wijzigen via de instellingen van de app:
+* Ga naar 'Service' en tik op ‘Instellingen’
+* Kies voor ‘Mobiele pincode wijzigen’
+Meer over de mobiele pincode
+
+### Jouw mening over de Mobiel Bankieren App
+
+Wij vinden het prettig als je jouw ervaringen met de Mobiel Bankieren App met ons deelt. Jouw feedback helpt ons namelijk de app verder te ontwikkelen. Laat weten wat je vindt via de Feedback button in de app.

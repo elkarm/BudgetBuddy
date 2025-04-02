@@ -1,0 +1,5 @@
+# Creditcard rekeningoverzicht in Mijn ING en de Mobiel Bankieren App - ING
+
+### Kan ik in de app hetzelfde zien als in Mijn ING?
+
+Sinds kort kun je het rekeningoverzicht van de extra creditcard inzien in de Mobiel Bankieren App en in Mijn ING. Zorg er wel voor dat je de laatste update van de Mobiel Bankieren App hebt gedownload, anders kun je het rekeningoverzicht van de extra creditcard niet zien. Voor oude besturingssystemen is er helaas geen update beschikbaar.

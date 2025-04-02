@@ -1,0 +1,11 @@
+# Mastercard ID check - ING
+
+### Waarom krijg ik een Mastercard ID check?
+
+Als je een online aankoop met je creditcard afrekent dan word je gevraagd om een extra stap te doen zodat we zeker weten dat jij het bent die de aankoop doet. Dit is een extra bescherming tegen online fraude.
+
+### Ik krijg geen melding om de betaling te bevestigen en de betaling is geweigerd. De webshop verzoekt mij om contact met de ING op te nemen.
+
+Een betaling kan om meerdere redenen worden geweigerd:
+* een veel voorkomende reden is het niet tijdig bevestigen van de betaling met de ING Bankieren App of ING scanner. Check of je pushnotificaties aan staan zodat je het verzoek om de betaling te bevestigen kunt ontvangen.
+* Een cardhouder kan alleen de betalingen bevestigen met een eigen ING Bankieren App of ING scanner.

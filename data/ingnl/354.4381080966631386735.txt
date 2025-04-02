@@ -1,0 +1,27 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### Apple Pay activeren
+
+**Apple Pay is geschikt voor iedereen vanaf 16 jaar en met:**
+* Een iPhone SE, 6 of hoger en /of een Apple Watch of iPad,
+* Een Betaalrekening (Businesscards zijn niet mogelijk)
+* De meest recente versie van de Mobiel Bankieren app,
+* Een Apple ID die bij iCloud is ingelogd op het toestel waar je Apple Pay gaat activeren
+* Wil je ook je creditcard toevoegen aan Apple Pay? Dan moet je in het bezit zijn van een geldige ING Creditcard of Platinumcard.
+Wat heb je nodig om Apple Pay te activeren?
+* Een particuliere ING Betaalrekening met de laatste versie van de ING Mobiel Bankieren app
+* Zorg dat je een geschikt apparaat hebt
+* Zorg dat je apparaat is geüpdatet naar de laatste iOS versie
+* Zorg dat je een werkende iCloud account hebt
+* Zorg dat je 16 jaar of ouder bent
+* Zorg dat de regio van je telefoon op Nederland staat ingesteld
+* Zorg dat er een correct telefoonnummer bij ING geregistreerd staat.
+* Zorg dat je internet verbinding hebt
+Heb je ook je creditcard toegevoegd aan Apple Pay? Dan kun je deze gebruiken tot je het bestedingslimiet van je ING Creditcard hebt bereikt.
+Let op de bestedingen met je fysieke kaart en mobiele creditcard worden bij elkaar opgeteld.
+Hoe werkt de verificatiecode voor Apple Pay? Een verificatiecode ontvang je wanneer je een nieuwe pas probeert toe te voegen aan je Wallet. Deze code ontvang je op het telefoonnummer dat bij ING bekend is.
+**Heb ik internet nodig om met Apple Pay te betalen?**
+Voor de aan Apple Pay toegevoegde betaalpas heb je geen internetverbinding nodig om te kunnen betalen. Als je een pas via de Mobiel Bankieren app toevoegt aan de Apple Wallet heb je wel internetverbinding nodig.
+Hoe activeer ik Apple Pay op een nieuwe telefoon? Met de functie ‘Begin direct’ (Quick start) kunt uw nieuwe iPhone of iPad automatisch configureren. Zorg er wel voor dat je de SIM-kaart alvast in je nieuwe toestel plaats.

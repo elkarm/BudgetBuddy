@@ -1,0 +1,33 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+## Veelgestelde vragen
+
+### Wat is de betaallimiet van Google Pay?
+
+Per dag kun je maximaal € 2.500 per rekening betalen met je smartphone. Ben je 16 of 17 jaar? Dan is het maximumbedrag € 250 per dag. Dit bedrag geldt per rekening, niet per toestel.
+Voor het maximumbedrag maakt het niet uit of je in Nederland of in het buitenland betaalt. Deze limiet staat los van je plastic Betaalpas en kun je niet wijzigen.
+Voor betalingen vanaf € 50 ontgrendel je je telefoon om te betalen. Voor bedragen onder € 50 kun je betalen zonder te ontgrendelen. Je kunt tot € 100 per dag betalen of maximaal 3 betalingen doen zonder ontgrendeling.
+
+### Waar kan ik mijn transacties met Google Pay inzien?
+
+In de ING-app of in Mijn ING kun je in het afschrijvingenoverzicht alle Google Pay transacties van je betaalrekening terugzien. Als je op de afschrijving klikt zie je bij details of de betaling met Google Pay is uitgevoerd.
+
+### Is Google Pay een gratis dienst?
+
+Je kan gratis gebruik maken van Google Pay.
+
+### Hoe bepaal ik mijn voorkeurspas in de Google Wallet?
+
+1. Open de Google Wallet app
+2. Kies de pas die je standaard wil gebruiken. Selecteer je voorkeurspas door bovenin je Wallet je passen van rechts naar links te 'swipen'.
+3. Tik op de pas
+4. Tik onderaan op 'Gegevens' en dan op 'Als standaard instellen voor contactloze betalingen'
+
+### Hoe pas ik de volgorde van mijn betaalpassen aan in de Google Wallet?
+
+Zo wijzig je de volgorde van je betaalpassen in de Wallet:
+1. Open de Google Wallet app
+2. Scroll naar de laatste betaalmethode. Dit doe je door bovenaan het scherm van rechts naar links te 'swipen'.
+3. Tik op 'Kaartvolgorde bewerken'
+4. Houd je vinger op een pas en sleep deze naar de gewenste plek om de volgorde te wijzigen.
+De betaalpas bovenaan de lijst wordt als eerste weergegeven in Google Wallet.

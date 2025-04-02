@@ -1,0 +1,14 @@
+# App updaten voor Apple - ING
+
+## Software-update voor je telefoon
+
+Naast onze app heeft ook je hele telefoon soms een update nodig. Anders kan het zijn dat je de laatste versie van onze app niet krijgt. Apple biedt daarvoor zogenaamde software-updates aan. Deze software-updates zijn genummerd. Op dit moment is minimaal iOS 15 nodig om onze app te kunnen gebruiken. Hieronder vind je uitleg hoe je het iOS update op je iPhone of iPad.
+
+### Zo doe je een software-update voor iOS (Apple)
+
+Update besturingssysteem van je iPad of iPhone
+1. Klik op ‘Instellingen’ op je smartphone op tablet
+2. Klik op ‘Algemeen’
+3. Klik op ‘Software-update’
+4. Als er een nieuwe update beschikbaar is, dan zie je deze hier staan. Klik op ‘update’ om het downloaden van de update te starten. Klik vervolgens op ‘installeer'
+5. Na de installatie kun je de Mobiel Bankieren App opnieuw proberen te updaten of te downloaden

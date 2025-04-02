@@ -1,0 +1,8 @@
+# Contactloos betalen met 'ING Mobiel Betalen' stopt - ING Mobiel Betalen met Android™
+
+## Veelgestelde vragen
+
+### Wat is het verschil tussen ING Mobiel Betalen en de ING Mobiel Bankieren App?
+
+* **ING Mobiel Betalen** is een service om met je Android™ telefoon contactloos te betalen in een winkel of andere fysieke locatie. Je maakt dus eigenlijk van je platsic Betaalpas een digitale pas, die je in je wallet op je telefoon bewaart. In de winkel kan je zo met je telefoon afrekenen. Deze service stopt per 17 september 2024. Je kan dan alleen nog via Google Pay met je Android™ telefoon betalen
+* Met **de ING Mobiel Bankieren App** kun je altijd en overal via je smartphone je bankzaken regelen. Bijvoorbeeld je saldo checken, geld overmaken en af- en bijschrijvingen inzien. Of natuurlijk Google Pay activeren

@@ -1,0 +1,7 @@
+# Reserveringen - ING
+
+### Reserveringen bij een creditcard
+
+Bij een creditcard wordt het gereserveerde bedrag in mindering gebracht op je bestedingsruimte van je creditcard. Dit gebeurt wanneer een bedrijf, zoals een hotel of autohuur, een reservering plaatst. Bij het bedrag staat dan ‘Reservering’. De reservering verlaagt het bedrag dat je in die maand nog kunt besteden. De actuele bestedingsruimte zie je terug in Mijn ING en de app.
+Een reservering kan volledig of voor een deel worden verwerkt. Als een reservering geen boeking wordt, vervalt deze automatisch na 21 dagen.
+Heb je vragen over een reservering? Neem dan contact op met het bedrijf dat de reservering heeft gedaan, want wij kunnen geen reserveringen verwijderen of aanpassen.

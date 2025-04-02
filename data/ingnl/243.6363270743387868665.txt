@@ -1,0 +1,27 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+## Veelgestelde vragen
+
+### Kan ik geldopnemen bij een geldautomaat met Google Pay?
+
+Nee, op dit moment kun je niet contactloos geld opnemen met je mobiele telefoon.
+Heb je geen Betaalpas bij de hand? En wil je toch geld opnemen? Vraag dan in je ING-app een cashcode aan. Hiermee kun je tot € 100 per dag opnemen bij geldautomaten van Geldmaat. Meer weten ?
+
+### Kan ik Google Pay gebruiken met mijn smartwatch zoals Samsung watch of Fitbit?
+
+Nee. Helaas is Google Pay nog niet beschikbaar voor betalen met je smartwatch. Hier wordt wel aan gewerkt. Zodra bekend is wanneer dit geintroduceerd wordt, dan zullen we hierover communiceren.
+
+### Kan ik ING Mobiel Betalen blijven gebruiken naast Google Pay?
+
+Nee, we adviseren dat niet te doen. Anders moet je bij elke betaling steeds instellen of je wil betalen met ING Mobiel Betalen of Google Pay. Het is daarom makkelijker om alleen Google Pay te gebruiken.
+Google Pay als standaard wallet instellen: Als je Google Pay gaat activeren, wordt gevraagd welke betaalservice jouw voorkeur heeft om te gebruiken.
+Daarnaast kun je de voorkeurs wallet (ING mobiel betalen of Google Pay) ook wijzigen via de instellingen van je telefoon:
+1. Ga naar instellingen van je telefoon
+2. Tik "Verbindingen"
+3. Tik op "FC en contactloze betalingen"
+4. Tik nogmaals op "Contactloze betalingen"
+5. Selecteer de gewenste betaalservice
+
+### Werkt Google Pay als contactloos betalen uitstaat voor mijn plastic betaalpas?
+
+Ja, betalen met je Google Pay werkt nog wel als je contactloos betalen met je plastic betaalpas uitstaat.

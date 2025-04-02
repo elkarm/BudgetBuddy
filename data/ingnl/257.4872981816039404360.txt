@@ -1,0 +1,30 @@
+# Apple Pay | Betalen met de Apple Watch - Betaal met je Apple Watch
+
+Probeer Apple Pay bij ING Apple Pay werkt ook met je Apple Watch. Super soepel, door deze tegen de betaalterminal aan te houden. Activeer het in je Apple Wallet of ING-App.
+
+## Apple Pay activeren voor je Betaalpas
+
+* Open de ING-app en klik op 'Service' rechtsonder.
+* Ga naar je 'Je app -instellingen’ en klik daarna ‘Apple Pay’.
+* Kies voor Betaalpas
+* Selecteer voor welke rekening je Apple Pay wilt activeren.
+* Kies 'Zet in Apple Wallet'. Nadat je op deze knop hebt geklikt, kies je voor 'Apple Watch' en vragen wij om de voorwaarden te accepteren.
+* Je bent klaar om te betalen!
+
+## Apple Pay activeren voor je Creditcard
+
+* Open de Watch app (let op: niet de ING of Wallet app)
+* Kies voor 'Wallet en Apple Pay'
+* Staat je kaart er al tussen? Klik dan op voeg toe, of voeg een nieuwe kaart toe.
+* Volg de stappen voor activatie en kies bij het verifiëren voor 'ING Nederland App'
+* Je kan nu soepel gaan betalen met de creditcard op je Apple Watch
+Helaas is het toevoegen van een zakelijke creditcard niet mogelijk.
+
+## Zo betaal je met je Apple Watch
+
+In de winkel kun je soepel mobiel betalen met Apple Pay op je Apple Watch. Probeer jij het ook?
+* Dubbelklik op het knopje aan de zijkant. Hou het scherm van je Apple Watch een paar centimeter van het betaalapparaat met contactloos betalen.
+* Wacht tot je een tikje voelt, en klaar.
+Online, in apps of via Safari kun je Apple Pay betalingen op je Mac bevestigen met je Apple Watch
+* Om online te betalen met je Apple Watch, kies je Apple Pay bij de betaalopties op je Mac.
+* Je bevestigt de betaling dan door tweemaal op de zijknop van de Apple Watch te klikken.

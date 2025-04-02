@@ -1,0 +1,10 @@
+# Tarieven Overstappen naar ING - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Overstapservice | De Overstapservice zorgt dat je eenvoudig en zonder rompslomp kunt overstappen naar ING met je dagelijkse bankzaken. Je af\- en bijschrijvingen lopen maximaal 13 maanden automatisch via je ING\-rekening. De bedrijven die automatisch geld van jouw rekening afschrijven worden door ING geïnformeerd. |
+| | € 0,00 |
+END TABLE IN MARKDOWN
+Meer informatie over de Overstapservice Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

@@ -1,0 +1,20 @@
+# Verschillen betaalpas en creditcard - Betaalpas of creditcard
+
+## Vergelijk de kosten
+
+Wil je precies weten wat de verschillen in kosten zijn? En wat je wanneer betaalt? Met onderstaande tabel kan je het verschil tussen je betaalpas en je creditcard bekijken.
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| | Bij gebruik Betaalpas | Bij gebruik Creditcard of Platinumcard |
+| Betalen in winkels/restaurants in euro's | € 0,00 | € 0,00 |
+| Betalen in winkels/restaurants in vreemde valuta | 1,4% koersopslag\*\* | 2% koersopslag\*\* |
+| Geld opnemen (euro's) bij geldautomaten in Nederland | € 0,00 | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie |
+| Geld opnemen (euro's) bij geldautomaten binnen de EER\-landen | € 0,00\*\*\* | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie\*\*\* |
+| Geld opnemen (euro's) bij geldautomaten buiten de EER\-landen | € 3,50 per transactie\*\*\* | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie\*\*\* |
+| Geld opnemen (vreemde valuta) bij geldautomaten | € 3,50 per transactie\*\*\* + 1,4% koersopslag\*\* | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie\*\*\* + 2% koersopslag\*\* |
+| Geld opnemen (euro's) bij bankkantoren | \- | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie\*\*\* |
+| Geld opnemen (vreemde valuta) bij bankkantoren | \- | 4% van het opgenomen bedrag, met minimum van € 4,50 per transactie\*\*\* + 2% koersopslag\*\* |
+| Maximale opnamebedrag | standaard limiet: € 500 flexibel limit: € 5.000 \*voor opnemen in Indonesie geldt een limiet van € 250 | Creditcard: € 400 Platinumcard: € 1.000 (in max. 2 transacties) |
+END TABLE IN MARKDOWN
+Bekijk de EER-landen

@@ -1,0 +1,29 @@
+# Zo werkt Betaalverzoek - ING - Makkelijk geld terugvragen
+
+## Veelgestelde vragen Betaalverzoek
+
+### Hoe kan ik een betaalverzoek delen?
+
+Je kan een betaalverzoek delen via een link of via een QR code die je genereert vanuit de app. Nadat je een betaalverzoek heb gecreëerd klik op “delen”, delen via Whatsapp, E-mail of andere kanalen (hierbij deel je de link). Of je klikt op “Opslaan als QR code”. Vervolgens kan je de QR code versturen via Whatsapp, E-mail, andere kanalen of print deze uit en hang de QR code op.
+
+### Kan ik een betaalverzoek meerdere keren delen?
+
+Je kunt een Betaalverzoek meerdere malen delen. Je Betaalverzoek blijft namelijk 35 dagen staan, dus ook op een later moment kun je binnen deze aantal dagen het verzoek opnieuw versturen.
+Een betaalverzoek heeft een limiet van €5000 in totaal. Creëer een nieuwe betaalverzoek, zodra dit bedrag is bereikt. Je vindt je betaalverzoeken in de App en Mijn ING bij 'opdrachten'.
+
+### Wat is het maximale bedrag voor een betaalverzoek?
+
+Een betaalverzoek heeft een limiet van €5000.
+
+### Wat kost een ING Betaalverzoek?
+
+Het versturen en ontvangen van een ING betaalverzoek is kosteloos.
+
+### Hoe weet ik of een ING Betaalverzoek link betaal?
+
+Check hiervoor het webadres (de url). Het juiste adres is: https://www.ing.nl/de-ing/payreq/unieke nummer
+**Let goed** op dat na dit unieke nummer geen "/" (forward slash) volgt.
+
+### Waarom ziet mijn partner bij de gezamenlijke rekening niet alle betaalverzoeken?
+
+De betaalverzoeken zijn alleen zichtbaar in de eigen Mobiel Bankieren App van diegene die de betaalverzoeken heeft aangemaakt. Je partner ziet dus niet de door jou aangemaakte betaalverzoeken.

@@ -1,0 +1,16 @@
+# Wereldbetaling Particulier - ING
+
+### Belangrijkste kenmerken
+
+Snelle verwerking
+* Voor veel valuta's verwerkt ING je betaling direct en kan het geld dezelfde dag nog bij de begunstigde zijn. Meer info zie de uiterste aanlevertijden .
+Wisselkoers direct bekend
+* De wisselkoers die je ziet in het transactieaanbod in Mijn ING, geldt vrijwel altijd. Er kan soms een klein verschil zijn doordat de koers tijdens je overschrijving wordt bijgesteld. Zo weet je direct waar je aan toe bent wanneer je een Wereldbetaling wilt doen.
+* Om de beste en meest transparante wisselkoersen aan te bieden, stelt ING deze vast op basis van de externe gecertificeerde bron WM Reuters, uitgevoerd door Refinitiv . Refinitiv is een gecertificeerde aanbieder van wisselkoersen onder de regulering van de ESMA (European Securities and Markets Authority). ING hanteert vanaf 1 februari 2022 een koersopslag van 0,85% op deze wisselkoersen.
+* Bij het aanmaken van een Wereldbetaling worden de omwisselkosten getoond. Deze kosten zijn het verschil tussen het omgewisselde bedrag met de WM Reuters middenkoers en de wisselkoers van ING. De omwisselkosten worden niet apart in rekening gebracht, maar zijn onderdeel van het omgewisselde bedrag met de wisselkoers van ING.
+* Op de website van Refinitiv kun je klikken op "Access Rates", vul daarna je persoonlijke gegevens in. Vervolgens krijg je een overzicht van de laatst bekende midmarket rates van WM Reuters.
+Vast tarief van 6 euro
+* ING hanteert een vast tarief van 6 euro voor het versturen en ontvangen van Wereldbetalingen.
+* Dit tarief geldt voor betalingen met kostenoptie SHA (je deelt de kosten met de ontvanger) of OUR (jij draagt alle kosten)
+* Wanneer je kiest voor het verleggen van alle kosten naar de ontvanger (BEN), betaal je geen kosten.
+* Wanneer je kiest voor het dragen van alle kosten, inclusief die van de ontvanger (OUR), komen deze laatste er nog bij. Zie kosten per land .

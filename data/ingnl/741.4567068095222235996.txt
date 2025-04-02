@@ -1,0 +1,17 @@
+# Inloggen in Mijn ING lukt niet - ING
+
+## Je inloggegevens van Mijn ING zijn geblokkeerd
+
+Voor de veiligheid blokkeren we je inloggegevens van Mijn ING als je:
+* meerdere keren onjuiste inloggegevens invoert, vraag dan hier je gebruikersnaam en/of wachtwoord opnieuw aan.
+* meerdere keren een onjuiste sms-code invoert. We blokkeren de toegang tot Mijn ING dan voor 3 uur. Na deze 3 uur kun je weer gewoon gebruik maken van Mijn ING zoals je gewend bent. Je hoeft niets te doen.
+
+## Inloggen lukt niet terwijl je je inloggegevens echt juist hebt ingevuld
+
+* Check eerst of wij misschien een storing hebben. Dat moeten wij aan slag. Jij kunt daar dan zelf niets aan doen. We communiceren de storing altijd zo snel mogelijk op de inlogpagina .
+* Staat je CAPS-lock of NUM-lock niet per ongeluk aan? Vaak brand er een lampje op je toetsenbord wanneer deze aan staat. Zet die dan uit. En probeer het nog een keer.
+* Heb je je toetsenbord en de taal wel goed ingesteld? Dat wil ook nog wel eens helpen.
+
+## Je bent ingelogd maar ziet een wit scherm
+
+Misschien heb je Mijn ING in je browser nog niet toegevoegd als ‘vertrouwde website’. Voeg dan https://mijn.ing.nl toe aan de lijst met vertrouwde websites in je browser. Dan werkt het meestal wel weer.

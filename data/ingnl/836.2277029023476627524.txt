@@ -1,0 +1,18 @@
+# Een BKR registratie, wat nu? - Een BKR-registratie
+
+## Wat is een negatieve BKR-registratie?
+
+### Overzicht codes en betekenis
+
+START TABLE IN MARKDOWN
+| Code | Betekenis |
+| - | - |
+| A | Je loopt een bepaalde periode achter met de betaling van je krediet. |
+| H | Je hebt een betalingsachterstand weer ingelopen en je krediet loopt gewoon door. Naast de achterstandsmelding (A) zie je dan een herstelmelding (H). |
+| 1 | Je hebt een geregistreerde betalingsachterstand (A) en je hebt een betalingsregeling afgesproken om de betalingsachterstand en het krediet terug te betalen. |
+| 2 | De kredietaanbieder heeft de betalingsachterstand en het krediet op geëist. Dit betekent dat de kredietaanbieder je gevraagd heeft om de betalingsachterstand en het krediet in één keer terug te betalen. |
+| 3 | De kredietaanbieder heeft € 250 of meer afgeboekt op de betalingsachterstand en het krediet. Of hij heeft je € 250 of meer kwijtgescholden. |
+| 4 | De kredietaanbieder heeft contact met je gezocht maar je blijkt onbereikbaar te zijn. |
+| 5 | Je hebt een preventieve betalingsregeling voor je hypotheek afgesproken met je kredietaanbieder. Deze code is tijdelijk. |
+END TABLE IN MARKDOWN
+Bovenstaande codes zijn overgenomen van BKR. Meer informatie over de codes vind je bij BKR .

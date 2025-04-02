@@ -1,0 +1,13 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### De betaalpas en Apple Pay: Meerdere betaalpassen, betaalpas verwijderen, pasblokkades
+
+Kan ik meerdere passen toevoegen? Je kunt per IBAN een pas activeren. Daarnaast kun je, afhankelijk van het type toestel dat je hebt, 12 verschillende betaalkaarten activeren (vanaf Iphone 8 en Apple Watch 3). Voor oudere types is het maximum 8. Heb je een geldige ING Credticard dan kun je deze ook aan Apple Pay toevoegen.
+Hoe kies ik met welke pas ik betaal? Tik voor je de betaling goedkeurt op de afbeelding van de pas die je wilt gebruiken. Je ziet hem nu als eerste. Je kunt de standaard mobiele pas wijzigen in de telefooninstellingen en in het gedeelte 'Wallet en Apple Pay'. Hier vind je onder ‘Transactievoorkeuren’ de optie om je standaardkaart in te stellen. Voor je horloge kun je de standaard betaalpas op het horloge of in de Watch-app op je telefoon wijzigen. Op de Mac ga je naar Systeemvoorkeuren en kies je''Wallet en Apple Pay''. Klik onderaan op ''Standaardkaart''. Kies hier de betaalpas die je wilt gebruiken.
+Hoe kan ik een betaalpas verwijderen? Je kunt de betaalpas op elk gewenst moment uit de Apple Wallet verwijderen. Ga naar de Apple Wallet, tik op de pas die je wilt verwijderen. Tik op het menu (blauw rondje met drie witte puntjes). Onderaan het scherm zie je ‘verwijder kaart’. Kies ‘Verwijder’ als je de kaart definitief wilt verwijderen. De transactiehistorie is dan ook niet meer zichtbaar in de Wallet.
+Kan ik de pas van Apple Pay in Mijn ING verwijderen? Nee, maar je kunt de betaalpas op elk gewenst moment uit de Apple Wallet verwijderen.
+**Kan ik alsnog met Apple Pay betalen als ik mijn plastic betaalpas heb geblokkeerd?**
+Ja, je kunt gewoon gebruik maken van Apple Pay. **Kan ik met Apple Pay betalen als ik contactloze betalingen voor mijn betaalpas uit zet?**
+Ja, betalen met je betaalpas in de Apple Wallet staat los van contactloos betalen met je plastic betaalpas. Je kunt gewoon betalen bij een betaalautomaat en in applicaties en online winkels die Apple Pay-betalingen met Maestro accepteren.

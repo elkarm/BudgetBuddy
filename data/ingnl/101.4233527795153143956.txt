@@ -1,0 +1,23 @@
+# De variabele spaarrente gaat omhoog - De spaarrente gaat omhoog
+
+### De tarieven per particuliere spaarrekening (met variabele rente op jaarbasis) vanaf 15 oktober 2023
+
+START TABLE IN MARKDOWN
+| Spaarrekening | | Rente per 15 oktober 2023 |
+| - | - | - |
+| Saldo van € 100.000 t/m € 1.000.000 | | 1,25% (was 1,15%) |
+| Saldo boven € 1.000.000 | | 0,00% (was 0,00%) |
+| | | |
+| Groeirekening en Sneltreinspaarrekening | | |
+| Saldo van € 0 t/m € 10.000 | | 1,25% (was 1,15%) |
+| Saldo van € 10.000 t/m € 100.000 | | 1,25% (was 1,15%) |
+| Saldo van € 100.000 t/m € 1.000.000 | | 1,25% (was 1,15%) |
+| Saldo boven € 1.000.000 | | 0,00% (was 0,00%) |
+| | | |
+| Losgekoppelde Bankspaarrekening | | |
+| Gehele saldo | | 1,25% (was 1,15%) |
+| | | |
+| Spaarloonrekening | | |
+| Gehele saldo | | 1,25% (was 1,15%) |
+| | | |
+END TABLE IN MARKDOWN

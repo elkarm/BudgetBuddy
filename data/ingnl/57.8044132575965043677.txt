@@ -1,0 +1,8 @@
+# ING Wisselkoerscalculator
+
+## Bereken hier uw kosten met actuele koersen
+
+### Je kosten
+
+Vul de gegevens van jouw transactie in en druk dan op Bereken
+**Voorwaarden** Bij deze berekening horen natuurlijk voorwaarden Vertel me alles

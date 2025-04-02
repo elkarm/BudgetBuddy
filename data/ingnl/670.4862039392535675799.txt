@@ -1,0 +1,31 @@
+# Opnamekosten ING Spaardeposito en Groen Spaardeposito - ING
+
+## Je situatie wijzigt
+
+Bij scheiding, werkloosheid, arbeidsongeschiktheid of schuldsanering betaal je tot € 100.000 per rekeninghouder geen kosten. Boven dit bedrag betaal je opnamekosten. Hieronder zie je 2 rekenvoorbeelden die van toepassing zijn bij scheiding en werkloosheid.
+
+### We gaan uit van het volgende scenario:
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Inleg ING (Groen) Spaardeposito partner 1 | € 30.000 |
+| Inleg ING (Groen) Spaardeposito partner 2 | € 120.000 |
+| Inleg ING (Groen) Spaardeposito partner 1 & 2 | € 20.000 |
+| Gewenste opnamebedrag | € 170.000 |
+END TABLE IN MARKDOWN
+
+### Voorbeeld: Jij en je partner gaan scheiden
+
+* Partner 1 kan € 30.000 + € 20.000 = € 50.000 kosteloos opnemen
+* Partner 2 kan € 100.000 kosteloos opnemen
+* Over de resterende € 20.000 worden opnamekosten betaald
+
+### Voorbeeld: partner 2 raakt werkloos
+
+* Partner 1 kan geen kosteloze opname doen
+* Partner 2 kan in totaal € 100.000 kosteloos opnemen
+* Partner 2 kan dit volledige bedrag opnemen van het deposito op zijn/haar naam
+* Partner 2 kan er bijvoorbeeld ook voor kiezen € 15.000 kosteloos op te nemen van het gezamenlijke deposito
+* Partner 2 kan daarnaast € 85.000 kosteloos opnemen van het deposito op zijn/haar naam
+* Over de resterende € 70.000 worden opnamekosten betaald

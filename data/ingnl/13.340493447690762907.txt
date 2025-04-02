@@ -1,0 +1,37 @@
+# Google Pay activeren in de ING app - ING
+
+## Veelgestelde vragen - Google Pay activeren
+
+### Welke rekeningen kan ik toevoegen aan Google Pay?
+
+Je kunt Google Pay gebruiken voor alle betaalrekeningen die op je eigen naam staan.
+* **Gezamenlijke rekening** : als mederekeninghouder kun je deze rekening toevoegen aan de Google Pay Wallet
+* **Jongerenrekening & Studentenrekening** : vanaf 16 jaar kun je gebruik maken van Google Pay
+* **Zakelijke rekening:** is ook eenvoudig toe te voegen aan de Google Wallet
+Google Pay kun je niet gebruiken:
+* op een rekening waarvoor je gemachtigd bent
+* als je onder bewind staat
+
+### Kan ik ING Mobiel Betalen blijven gebruiken naast Google Pay?
+
+Nee, we adviseren dat niet te doen. Anders moet je bij elke betaling steeds aangeven of je wil betalen met ING Mobiel Betalen of Google Pay. Het is daarom makkelijker om alleen Google Pay te gebruiken.
+**Voorkeurs wallet (ING mobiel betalen of Google Pay) instellen** :
+Als je Google Pay gaat activeren, wordt gevraagd welke betaalservice jouw voorkeur heeft om te gebruiken.
+Daarnaast kun je de voorkeurs wallet (ING mobiel betalen of Google Pay) ook wijzigen via de instellingen van je telefoon:
+1. Ga naar instellingen van je telefoon
+2. Tik "Verbindingen"
+3. Tik op "FC en contactloze betalingen"
+4. Tik nogmaals op "Contactloze betalingen"
+5. Selecteer de gewenste betaalservice
+
+### Hoe kan ik de digitale betaalpas verwijderen uit de Google Wallet?
+
+1. Open de Google Wallet app
+2. Zoek de betaalpas en/of creditcard die je wilt verwijderen
+3. Tik op de kaart
+4. Tik rechtsboven op "Meer" en vervolgens op "Betaalmethode verwijderen"
+
+### Hoe kan ik Google Pay blokkeren?
+
+Dit kun je doen via de Google Wallet app. Bijvoorbeeld bij verlies, diefstal of fraude.
+Lukt blokkeren niet? Bel dan onze Alarmlijn op telefoonnummer 020 22 888 00. Dan blokkeren we de betaalmogelijkheid van Google Pay direct voor je.

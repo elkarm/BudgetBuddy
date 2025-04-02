@@ -1,0 +1,31 @@
+# Periodieke Overschrijving - ING
+
+Met een Periodieke Overschrijving zorg je voor een periodieke betaalopdracht naar een andere rekening. Bijvoorbeeld jouw maandelijkse huur of contributie.
+
+## Wat is een Periodieke Overschrijving?
+
+* Periodiek geld overschrijven naar een andere rekening
+* Eenvoudig te regelen via de Mobiel Bankieren App en Mijn ING
+* Eenvoudig in te trekken tot de dag voor uitvoer
+* Een Periodieke Overschrijving is gratis voor particuliere klanten van ING
+
+## Nieuwe Periodieke Overschrijving in de Mobiel Bankieren App
+
+Je kunt jouw nieuwe Periodieke Overschrijving als volgt doen:
+1. Log in in de app
+2. Klik in de app op de rekening waar vandaan je een betaling wilt doen en klik op ‘Overschrijven’
+3. Vul de velden in
+4. Het veld ‘inplannen’ staat standaard op vandaag. Dit kan je wijzigen.
+5. Voer de uitvoerdatum in die je voor ogen hebt voor deze overboeking
+6. Bepaal bij ‘frequentie’ hoe vaak deze overschrijving herhaald moet worden en wat de einddatum is
+7. Klik op ‘Inplannen’
+8. Bevestig de overschrijving met je pincode
+9. De periodieke overschrijving is ingepland
+
+## Intrekken Periodieke Overschrijving via de App
+
+Je kunt je Periodieke Overschrijving intrekken:
+1. Log in in de app
+2. Jouw periodieke overschrijving vind je onderin bij ‘Opdrachten’, kies 'Overschrijvingen'
+3. Klik op de opdracht voor een gedetailleerde weergave
+4. Vanuit deze weergave kan je de Periodieke Overschrijving intrekken

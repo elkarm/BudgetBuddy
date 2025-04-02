@@ -1,0 +1,21 @@
+# Instant Payments - ING
+
+### Wat kost een Instant Payment?
+
+Er zijn geen extra kosten voor een Instant Payment vergeleken met een reguliere Europese Overschrijving.
+
+### Waarom is mijn betaling niet als instant payment verwerkt?
+
+In de volgende gevallen wordt een betaling niet als Instant Payment verwerkt:
+* de bank van de begunstigde neemt niet deel aan Instant Payments
+* de rekening van de begunstigde is een buitenlandse rekening
+* de rekening van de begunstigde heeft een actieve Overstapservice naar een bank die niet deelneemt aan Instant Payments
+* er is een technische verstoring of er vindt onderhoud plaats bij één van de betrokken banken waardoor Instant Payments niet mogelijk zijn
+* geplande opdrachten (periodiek of eenmalig geagendeerd)
+* zogenaamde verzamelbetalingen (ook wel batchbetalingen genoemd) zoals salaris, toeslagen en uitkeringen worden door de deelnemende banken nog niet als Instant Payment verwerkt
+* het transactie bedrag is hoger dan 5 miljoen euro of hoger dan het maximale bedrag dat de begunstigde bank accepteert voor inkomende instant payments.
+Wanneer je een overschrijving doet met Mijn ING of met de Mobiel Bankieren App zie je na het invullen van bedrag en begunstigde rekening op het scherm of we de overschrijving ' **Direct** ' uitvoeren (als Instant Payment) of ' **Binnen een werkdag** ' (als reguliere Europese Overschrijving). Wanneer een verstuurde Instant Payment niet lukt dan melden we dat als volgt:
+* Foutmelding op scherm, en/of;
+* Inbox bericht en/of;
+* Retourboeking (Afschrijving en direct daarna een Bijschrijving onder vermelding van een afkeurreden).
+Wanneer een bepaalde overschrijving mislukt als Instant Payment met als reden "Direct overmaken lukt niet" of "Time-out", dan kan deze middels de knop 'Probeer opnieuw' alsnog als reguliere Euro overschrijving worden verstuurd met een verwerkingstijd van (maximaal) 1 werkdag. Controleer eerst het bij- en afschrijvingen overzicht om zeker te zijn of het bedrag niet is afgeschreven of retour is geboekt.

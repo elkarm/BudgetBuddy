@@ -1,0 +1,15 @@
+# Snel je saldo checken - ING
+
+Je saldo checken zonder inloggen? We leggen uit hoe je dat kunt doen.
+
+## Saldo widget voor iOS
+
+De saldo widget is te gebruiken op een Apple-toestel (vanaf iOS 15), met uitzondering van de Apple Watch.
+1. Kijk bij je App-instellingen en zet 'iOS widget' aan.
+2. Ga (buiten de app) naar het startscherm van je toestel en druk lang op een leeg gedeelte.
+3. Druk op de plus die bovenin verschijnt en zoek de ING-app.
+Even kiezen hoe groot je de widget wil zien, dan alleen nog toevoegen. Je ziet de widget op het startscherm, maar je kunt hem ook op de Today View zetten. Dat zie je als je naar links veegt op het startscherm.
+
+## Notificaties aanzetten (voor Android en iOS)
+
+Als je bij Instellingen Pushnotificaties aanzet, kun je een minimumsaldo instellen. En aangeven vanaf welk bedrag je op de hoogte wil zijn van af- en bijschrijvingen. Je weet dan zonder inloggen wat er op je rekening gebeurt, doordat je pushnotificaties krijgt.

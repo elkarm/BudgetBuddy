@@ -1,0 +1,23 @@
+# Activate your app with your ID - ING
+
+This is our way of keeping mobile banking secure Have you re-downloaded the ING Mobile Banking App? Before you start using the app, please make sure you activate it. The process to do so will be slightly different from 20 October 2021. This is because we are incrementally switching to a new way of activation, during which you check your proof of identity with your phone or tablet.
+
+### Why use your ID for activation?
+
+We are constantly working to improve the Mobile Banking App and keep it secure. In doing so, we use the latest technical capabilities, including in terms of security. One of these capabilities is to check your ID with your phone or tablet .
+This is because it shows you have both your phone/tablet and your ID in your possession, meaning we know for sure that it's you who's activating the app. This makes it even more difficult for criminals to misuse your data. In short: it is a safe and future-proof technique for activating your app. This is a technique that is increasingly being used, including by the government and other banks.
+Of course, you want to ensure that abusing your data remains difficult for criminals. The best way to do so is to keep your ID for yourself. Never let another person take it with them, and never let someone else scan your ID. On this page you can read more about the tricks criminals use to defraud you from your data and your money.
+
+# Activate your app with your ID
+
+### If you want to know more
+
+You can read more about the new way of activating your app in the answers to frequently asked questions. Alternatively, you can check how the activate with your ID process works.
+
+### Why are there now 2 ways to activate the app?
+
+Every year, many customers activate their app. It is therefore important that we introduce the new way of activation with care. Therefore, we have chosen a transition period in which activation is possible in two ways.
+
+### Can I choose between activation with my Betaalpas (Debit Card) or with my ID?
+
+No, that is not an option. The app will automatically forward you to one of the two activation methods.

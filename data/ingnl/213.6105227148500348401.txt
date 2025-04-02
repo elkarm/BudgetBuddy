@@ -1,0 +1,14 @@
+# Belt ING? Check het Gesprek - Ontmasker oplichters met Check het Gesprek
+
+## Veelgestelde vragen
+
+### Waarom biedt ING deze nieuwe functie? Waarom is dit belangrijk?
+
+Helaas worden nog steeds veel mensen slachtoffer van bankhelpdeskfraude. Volgens cijfers van de NVB was de totale schade aan bankhelpdeskfraude in 2022 bijna 51 miljoen euro. Naast de financiële schade van slachtoffers komt hier veel emotionele schade bij kijken. Criminelen zetten mensen zo onder druk dat ze hen weten over te halen geld over te maken of hun pas af te geven. Dit geld verdwijnt rechtstreeks in de zakken van criminelen die hier weer andere oplichtingspraktijken mee kunnen financieren. Dit maakt bankhelpdeskfraude, maar ook andere vormen van fraude, een maatschappelijk probleem.
+Hoewel wij onze klanten hiervoor actief waarschuwen, hebben zij hier helaas ook mee te maken. En dat willen we tegengaan. Daarom introduceert ING nu Check het Gesprek. Hiermee vergroten we samen de kans dat de klant de (poging tot) fraude herkent en voorkomt, en kan tegelijkertijd een oplichter worden ontmaskerd.
+
+### Hoe werkt het precies?
+
+Onderaan het inlogscherm van de ING-app staat binnenkort de knop ‘Check het Gesprek’. Wanneer een klant een alarmerend telefoontje ontvangt over de betaalrekening, van iemand die zegt van ING te zijn, dan kan de klant tijdens het telefoongesprek op deze knop drukken en zijn of haar (vaste of mobiele) telefoonnummer intypen waarop gebeld wordt.
+In het belsysteem van ING wordt vervolgens direct gecontroleerd of er écht iemand van ING naar het telefoonnummer van de klant aan het bellen is. De klant ziet meteen op zijn of haar scherm of het klopt of niet, en wat de klant dan moet doen.
+Is dit het geval? Dan krijgt de klant bevestigt in de app dat hij/zij wordt gebeld door ING. Ook wordt de voornaam van de bellende medewerker getoond. Is dit niet het geval? Dan wordt de klant gewaarschuwd dat hij/zij een oplichter aan de lijn heeft en kan de klant met een druk op de knop de Alarmlijn bellen.

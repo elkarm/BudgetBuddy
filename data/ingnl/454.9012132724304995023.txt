@@ -1,0 +1,34 @@
+# Zo werkt de app - ING
+
+## Persoonlijke instellingen
+
+### Je Jaaroverzichten bekijken en downloaden
+
+Het Jaaroverzicht bekijken of downloaden doe je via 'Service' en daarna 'Je rekening'. Tik dan op Jaaroverzicht en volg de stappen.
+
+### Pushbericht
+
+Het beheren van pushnotificaties doe je via Instellingen > Pushnotificaties.
+Je kunt bijvoorbeeld een melding ontvangen wanneer iemand je Betaalverzoek heeft betaald of als je bijvoorbeeld buiten Europa gaat terwijl je Betaalpas niet op ‘Werelddekking’ staat. Handig toch?
+Schuif naar aan/uit.
+
+### Je gegevens wijzigen
+
+Van een adreswijziging na verhuizing doorgeven tot je telefoonnummer veranderen. Regel 't rechtsonder in de app. Ga naar 'Service' en tik op 'Je gegevens'.
+Je naam of geboortedatum wijzigen?
+
+### Daglimiet wijzigen
+
+* Ga naar Service en klik op ‘Je rekening’. Selecteer ‘Daglimiet app’.
+* Vul het bedrag in dat je als daglimiet wilt.
+* Wil je een tijdelijke daglimiet kiezen, dan kun je een einddatum instellen.
+* Klik op ‘Instellen’ en bevestig met je mobiele pincode.
+* In het venster verschijnt de bevestiging van je wijziging. Na uur 4 is je verhoging ook daadwerkelijk doorgevoerd (verlagingen zijn direct actief).
+
+### Houd je saldo privé instellen
+
+Geen zin om zomaar je saldo te showen? De app helpt je erbij: houd je saldo privé! Als je dat aanzet bij je app-instellingen, maak jij je saldo zichtbaar als het uitkomt. Of je verbergt het juist als dat nodig is.
+* Ga in de app naar 'Instellingen'
+* Klik op 'Houd je saldo privé'
+* Kies welke optie je wilt aanzetten: Je saldo 'Standaard verborgen' of 'Standaard zichtbaar' na inloggen
+* Kies hoe je het saldo wil tonen/verbergen: 'Ingedrukt houden, met twee vingers op je overzicht' of 'Zwaai over overzicht, als een magiër met vlakke hand van boven naar beneden'

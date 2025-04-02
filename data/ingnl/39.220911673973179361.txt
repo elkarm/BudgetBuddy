@@ -1,0 +1,25 @@
+# Garmin Pay activeren bij ING
+
+## Veelgestelde vragen
+
+### Hoe kan ik mijn Garmin Pay pincode instellen of wijzigen?
+
+Hoe werkt de pincode? De pincode (oftewel de ontgrendelingscode) van je Garmin watch dient als authenticatie om te kunnen betalen.
+Toets elke 24 uur één keer je Garmin Pay pincode in. Daarna kun je de betaling starten. Zolang het horloge om je pols blijft, hoef je de rest van de dag geen pincode meer in te voeren. Doe je het horloge af en later weer om? Voer dan eerst weer de pincode in om te kunnen betalen.
+Deel nooit je pincode om te voorkomen dat anderen met je Garmin watch kunnen betalen.
+Instellen of wijzigen van de Garmin pincode De pincode kun je instellen of wijzigen via de Garmin Connect app.
+* Open de Garmin app
+* Ga naar "Instellingen"
+* Kies voor "Profiel en privacy"
+* Klik op "Garmin account beheer"
+Daarna word je doorgeleid naar de Garmin website. Hier kun je je accountgegevens wijzigen.
+
+### Wat kan ik doen als het activeren van Garmin Pay niet lukt?
+
+Kun je Garmin Pay niet vinden in je telefoon? Dan kan het zijn dat je nog niet de laatste versie van de ING app op je telefoon hebt staan.
+**Problemen tijdens het activeren:**
+Krijg je tijdens het toevoegen van de betaalpas aan de Garmin Wallet een algemene foutmelding in de Garmin Connect app? Sluit dan de Garmin Connect app af en probeer het opnieuw.
+
+### Welke gegevens worden er gedeeld met Garmin als ik betaal met Garmin Pay?
+
+ING en Garmin wisselen geen persoonsgegevens uit. Om je een overzicht te geven van je laatste betalingen, kan Garmin je Garmin Pay betaalgegevens laten zien van de laatste 30 dagen.

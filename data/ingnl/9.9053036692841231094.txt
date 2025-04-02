@@ -1,0 +1,24 @@
+# Uitbetalen van je restsaldo - ING
+
+## Waar stuur ik mijn verzoek naartoe?
+
+ING controleert je handtekening op het formulier met de handtekening die geregistreerd is bij ING en/of met de handtekening op het kopie identiteitsbewijs. ING accepteert hiervoor geen digitale ondertekening.
+Print daarom het formulier uit, vul het volledig in, onderteken het en e-mail het naar ING. Vergeet niet de gevraagde bijlagen mee te sturen met je verzoek.
+Je kunt het formulier en de bijbehorende documenten inscannen (of er foto's van maken) en per e-mail naar ING verzenden.
+
+### Verstuur verzoek (Particuliere Betaalrekening)
+
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Per e\-mail | Per e\-mail |
+| Particulier verzoek | |
+| kwieck@ing.nl | |
+| | |
+| Per Post | Per Post |
+| In Nederland | Vanuit het buitenland |
+| ING | ING |
+| Antwoordnummer 40620 | I.B.R.S. / C.C.R.I. NUMÉRO 40540 |
+| 8900 TA Leeuwarden | 8900 SP Leeuwarden |
+| | PAYS BAS |
+END TABLE IN MARKDOWN

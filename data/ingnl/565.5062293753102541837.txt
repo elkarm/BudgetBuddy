@@ -1,0 +1,25 @@
+# Bahrein - ING
+
+Wil je geld overmaken naar Bahrein? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+
+### Bedrag
+
+Voor Bahreinse dinar geldt een afwijkende regel voor het over te boeken bedrag. Je mag een bedrag tot maximaal drie decimalen (tienden centen) achter de komma noteren.
+Bijvoorbeeld: 10,225
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Bahrein is de OUR-opslag €50.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN
+
+Het IBAN voor Bahrein bestaat uit 22 posities alfanumeriek (cijfers en letters aaneengesloten invullen), bijvoorbeeld: BH67BMAG00001299123456.

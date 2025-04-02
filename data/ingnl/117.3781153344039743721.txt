@@ -1,0 +1,22 @@
+# Alles over betalen - ING - Alles over Betalen
+
+## Veelgestelde vragen
+
+### Wat kost betalen in het buitenland?
+
+Wil je precies weten wat de verschillen in kosten zijn? En wat je wanneer betaalt? Met onderstaande tabel kan je het verschil tussen je betaalpas en je creditcard bekijken.
+START TABLE IN MARKDOWN
+| | | |
+| - | - | - |
+| Kunt u zelf uw pincode kiezen? | Nee | checked |
+| Wanneer wordt het bedrag afgeschreven van uw rekening? | Directe afschrijving van Betaalrekening | Afschrijving in de 1ste week van de maand |
+| Heeft u realtime inzicht in uw uitgaven in Mijn ING en App? | checked | checked |
+| Is het mogelijk om contactloos te betalen? | checked | checked |
+| Zijn uw aankopen verzekerd tegen schade, verlies en diefstal? | Nee | checked |
+| Direct bruikbaar buiten Europa | Nee, u dient uw Betaalpas eerst op werelddekking in te stellen | checked |
+| Heeft u recht op noodgeld (Emergency Cash) bij verlies of diefstal? | checked | checked |
+| Mogelijkheid tot gespreid betalen | Nee | checked |
+| Betaalt u rente als u roodstaat? | Ja | Niet van toepassing |
+| Betaalt u rente over het openstaand saldo? | Niet van toepassing | Nee, bij maandelijkse afbetaling. Ja, als u gebruik maakt van gespreid betalen |
+| Meer informatie | ING Betaalpas | ING Creditcard |
+END TABLE IN MARKDOWN

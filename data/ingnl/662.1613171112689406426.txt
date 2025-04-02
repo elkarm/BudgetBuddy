@@ -1,0 +1,19 @@
+# BIC en IBAN - ING
+
+De BIC van de ING is INGBNL2A. Als je geld overmaakt naar het buitenland, moet je BIC- en IBAN-codes vermelden. Deze codes maken het internationale betalingsverkeer efficiënter en goedkoper.
+
+### Wat is BIC?
+
+Iedere bank heeft een eigen Bank Identifier Code (BIC). Daardoor komen internationale betalingsoverdrachten bij de juiste bank terecht. De BIC wordt ook wel SWIFT adres of SWIFT code genoemd. De BIC van de ING is INGBNL2A. Voor het ontvangen van geld uit het buitenland op je Betaalrekening wordt soms gevraagd naar het adres van ING. Je kunt dan het volgende adres doorgeven:
+ING Bank N.V.
+Foreign Operations
+PO Box 1800
+1000 BV Amsterdam
+
+### Wat is IBAN?
+
+Het International Bank Account Number (IBAN) identificeert elke rekeninghouder, inclusief bank en vestigingsland. Dankzij de unieke IBAN kunnen banken de betaling helemaal automatisch verwerken, zonder aanvullende informatie. Het is dus noodzakelijk dat de rekeninginformatie op de factuur voor zakelijk betalingsverkeer een juiste IBAN toont.
+
+### Verplicht
+
+Vanaf 1 januari 2007 zijn BIC en IBAN verplicht bij overboekingen naar landen binnen de Europese Economische Ruimte. Dit is het gevolg van Europese bancaire regelgeving. Een correcte IBAN en BIC kun je alleen krijgen via de (bank van de) begunstigde. Zonder de betreffende IBAN en BIC kan de buitenlandse bank je opdracht weigeren en onder inhouding van extra kosten naar je retourneren. In het reguliere betaalscherm wordt door ING de BIC ingevuld. Bij het scherm van een wereldbetaling wordt dit niet gedaan en zul je de correcte IBAN en BIC via de begunstigde moeten verkrijgen.

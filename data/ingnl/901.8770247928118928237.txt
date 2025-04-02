@@ -1,0 +1,9 @@
+# Wereldbetaling Particulier - ING
+
+### Uitleg kostenopties BEN, SHA en OUR
+
+* OUR: jij neemt alle kosten voor je rekening, zowel die van ING als die van de ontvangende bank. Door de tussenbank mogen geen kosten worden ingehouden. Het volledige bedrag zal bij de bank van de begunstigde aankomen. De begunstigde bank kan in uitzonderlijke gevallen nog extra kosten inhouden. De ING heeft geen invloed op deze kosten.
+* SHA: je deelt de kosten met de ontvanger (shared). Hiervoor wordt aan jou een tarief in rekening gebracht door de ING en wordt de ontvanger getarifeerd door zijn bank. Meestal worden er nog aanvullende kosten in rekening gebracht door tussenbanken.
+* BEN: hiervoor wordt aan jou niets in rekening gebracht door ING. De begunstigde (benificiary) neemt alle kosten voor zijn rekening, ook de kosten die ING maakt. ING houdt deze kosten vast in van het bedrag dat wordt overgeboekt.
+* Opdrachten naar een EER-land kunnen door wet- en regelgeving alleen op basis van shared kostenverdeling (SHA) worden verwerkt, dit geldt voor alle valuta's
+* Het tarief voor het navragen van een Wereldbetaling is €30.

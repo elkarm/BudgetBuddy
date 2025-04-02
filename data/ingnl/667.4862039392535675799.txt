@@ -1,0 +1,6 @@
+# Opnamekosten ING Spaardeposito en Groen Spaardeposito - ING
+
+## De rente op jouw deposito is lager dan de actuele rente
+
+In deze situatie betaal je 0,5% van het opnamebedrag voor ING Spaardeposito en 2% voor ING Groen Spaardeposito. Daarnaast betaal je extra kosten. Om deze kosten vast te stellen, wordt de volgende berekening gebruikt:
+Het renteverschil (actuele rentetarief van een ING (Groen) Spaardeposito – rentetarief van jouw huidige ING (Groen) Spaardeposito maal het opnamebedrag) wordt contant gemaakt tegen het actuele rentepercentage van een ING (Groen) Spaardeposito over de werkelijke resterende looptijd.

@@ -1,0 +1,7 @@
+# Van je rekening een en/of rekening maken - ING - Maak van je rekening een En/of rekening
+
+## Veelgestelde vragen rekeninghouder toevoegen
+
+### Ik kan de persoon die ik via de app wil toevoegen aan mijn rekening niet vinden
+
+Vul het juiste IBAN, geboortedatum en achternaam in van de persoon die je wilt toevoegen. Maak je een typefout dan zal de persoon niet worden gevonden. De juiste achternaam staat op de Betaalpas van de toe te voegen persoon. Maar gebruik NIET een eventuele tussenvoegsel (Bijvoorbeeld: “van der Sluis” voer je in als “Sluis”). Lukt het dan nog steeds niet? Neem dan contact op met Klantenservice en vraag om een medewerker.

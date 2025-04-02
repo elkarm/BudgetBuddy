@@ -1,0 +1,19 @@
+# Automatisch sparen - ING
+
+## Starten, wijzigen of stopzetten
+
+### Starten via Mijn ING of de App
+
+Starten via Mijn ING:
+1. Ga naar Mijn ING
+2. Klik op de button ‘Overschrijven’
+3. Geef aan wanneer en hoe vaak je het bedrag wilt overboeken
+4. Bevestig met ‘Opslaan’
+Starten via de Mobiel Bankieren App: Ga in de Mobiel Bankieren App naar je spaarrekening
+Kies voor ‘Inleggen’ en stel in hoe vaak je wil overschrijven
+
+### Uw automatische spaar- ontspaaropdracht wijzigen of stopzetten
+
+1. Ga naar ’Opdrachten’ (links in het Mijn ING menu)
+2. Onder ’Gepland’ staan de automatische spaaropdrachten. Klik op de opdracht
+3. Hier verschijnt de optie ’Wijzigen’ en ‘Verwijderen’

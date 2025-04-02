@@ -1,0 +1,17 @@
+# Spaarrekening voor je kind of baby openen - ING - Spaarrekening voor je kind openen
+
+## Veelgestelde vragen
+
+### Hoe kan ik als grootouder of derde (automatisch) sparen op de Groei Groter Rekening?
+
+Het is als grootouder niet mogelijk om zelf een Groei Groter Rekening te openen. Sparen vanaf een niet gekoppelde betaalrekening kan door het geld over te maken naar het IBAN-nummer van de Groei Groter Rekening. Het IBAN kan je opvragen bij de ouder of voogd die de rekening heeft geopend. De ouder of voogd kan het IBAN-nummer vinden op de instellingen-pagina van de Groei Groter Rekening in de Mobiel Bankieren App of via Mijn ING.
+Geef bij de overboeking ten minste de volgende gegevens mee:
+1. Ontvanger: Voornaam + achternaam van het kind (de Groei Groter Rekeninghouder)
+2. Rekeningnummer: IBAN Groei Groter Rekening (bijvoorbeeld NL00INGB0012345678)
+Goed om te weten: vergeet niet jouw eventuele automatische spaaropdracht stop te zetten als het kind 18 jaar wordt .
+
+### Hoe kan ik als ouder of voogd (automatisch) sparen op de Groei Groter Rekening?
+
+De Groei Groter Rekening is gekoppeld aan een ING Betaalrekening. Je kunt op de volgende manier (automatisch) sparen:
+* Je bent zelf de houder van de gekoppelde ING Betaalrekening. Via app of Mijn ING kun je (periodiek) geld overmaken van jouw betaalrekening naar de Groei Groter Rekening.
+Wil je als ouder of voogd sparen vanaf een andere ING Betaalrekening dan de gekoppelde betaalrekening of vanaf een betaalrekening bij een andere bank? Maak dan met een periodieke opdracht geld over naar het IBAN-nummer van de Groei Groter Rekening. Dit IBAN-nummer kan je vinden op de instellingen-pagina van de Groei Groter Rekening in de Mobiel Bankieren App of via Mijn ING.

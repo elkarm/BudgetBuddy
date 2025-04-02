@@ -1,0 +1,32 @@
+# Geld opnemen - ING
+
+### Hoeveel contant geld kan ik opnemen?
+
+Per dag kun je maximaal € 500 opnemen, dit is de standaard opnamelimiet. Heb je even meer contant geld nodig? Dan verhoog je de limiet. Dat kan tot € 5.000 en maximaal voor 3 dagen. Wil je liever minder geld kunnen opnemen? Dan verlaag je de limiet gewoon. Jij bepaalt wat het beste bij je past. Overigens, als het even kan, betaal dan liever digitaal. Dat is altijd veiliger.
+**Limieten Betaalpas**
+Geldopname met een Betaalpas bij een geldautomaat
+START TABLE IN MARKDOWN
+| Geldautomaat | Maximum per dag |
+| - | - |
+| Geldmaat | € 500 |
+| Andere geldautomaat Nederland | € 500 |
+| Buitenland | € 500 |
+| Na wijzigen Betaalpas\-limiet(*Je kunt je limiet zelf aanpassen in Mijn ING of via de ING Mobiel Bankieren App. Deze limiet geldt voor zowel geldopname in het binnenland als in het buitenland.) |
+| - |
+| Geldmaat | max € 5.000\* |
+| Andere geldautomaat Nederland | max € 5.000\* |
+| Buitenland | max € 5.000\* |
+END TABLE IN MARKDOWN
+Let op: Er kan een maximum aantal biljetten per transactie van toepassing zijn. Op een Geldmaat kun je wel meerdere transacties per dag uitvoeren totdat je limiet is bereikt. Bij sommige buitenlandse banken kun je minder dan je limiet opnemen.
+Limieten Creditcard Geldopname met een Creditcard bij een geldautomaat
+START TABLE IN MARKDOWN
+| Creditcard | Maximum per dag |
+| - | - |
+| In euro's | € 400 in max. 2 transacties |
+| In vreemde valuta | € 400 in max. 2 transacties |
+| Platinumcard |
+| - |
+| In euro's | € 1.000 in max. 2 transacties |
+| In vreemde valuta | € 1.000 in max. 2 transacties |
+END TABLE IN MARKDOWN
+Limieten Betaalpas wijzigen en bekijken

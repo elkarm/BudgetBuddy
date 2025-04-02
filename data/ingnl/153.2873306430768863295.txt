@@ -1,0 +1,23 @@
+# Contactloos geld opnemen en storten met je pas - ING - Contactloos opnemen en storten met de Betaalpas
+
+## Waarom contactloos geld opnemen of storten?
+
+### Is contactloos opnemen met pas veilig?
+
+Wanneer je contactloos geld wilt opnemen met een pas, wordt er altijd gevraagd om een pincode. Het is niet mogelijk om alleen met een pas (zonder pincode) contactloos geld op te nemen.
+
+### Kan ik contactloos pinnen via de geldautomaat ook uitzetten?
+
+Contactloos opnemen en storten is op alle passen standaard beschikbaar. Iedereen kan zelf de keuze maken om contactloos te gebruiken, of om de kaart in de automaat te stoppen. Het is niet mogelijk om contactloos 'uit' te zetten.
+Wanneer je contactloos geld wilt opnemen met een pas, wordt er vanwege veiligheid altijd gevraagd om een pincode op de automaat in te toetsen.
+
+### Hoeveel contant geld kan ik contactloos opnemen?
+
+Je opnamelimiet en je stortlimiet zijn ook van toepassing voor de contactloze transactie.
+Per dag is het standaard opnamelimiet € 500. Je kunt zelf je opnamelimiet wijzigen in Mijn ING of via de ING Mobiel Bankieren App.
+Je opnamelimiet voor het opnemen met je pas is hetzelfde als je limiet voor contactloos opnemen. Deze limieten zijn niet apart van elkaar in te stellen.
+
+### Welke passen kunnen contactloos gebruikt worden?
+
+De NFC reader op de geldautomaten van Geldmaat kunnen alleen gebruikt worden door passen van: Mastercard, Mastercard PayPass Maestro, Mastercard Cirrus, Visa, Visa Electron, Visa Plus, Visa V Pay en Visa Interlink.
+Het verschilt per bank of de mogelijkheid voor contactloos ook daadwerkelijk wordt aangeboden.

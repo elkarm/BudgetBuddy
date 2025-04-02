@@ -1,0 +1,33 @@
+# Mastercard ID check - ING
+
+Omdat ook bij online betalen veiligheid voorop staat.
+Mastercard ID Check beschermt je tegen online misbruik van je creditcard.
+
+### Wat is Mastercard ID Check?
+
+Als je online iets koopt met je creditcard kan er gevraagd worden om de betaling te bevestigen met de ING Bankieren App of de ING scanner. Hiervoor maakt ING gebruik van de Mastercard ID check. Zo weten we dat de aankopen die je doet echt door jou worden gedaan. Deze controle maakt online betalen met je creditcard nog veiliger.
+
+### Hoe werkt Mastercard ID Check?
+
+Als je online iets afrekent met je creditcard bij een webshop dan moet je bij sommige betalingen een extra stap uitvoeren.
+
+### Gebruik je de ING Bankieren App?
+
+1. Controleer het bedrag.
+2. Controleer de laatste 4 cijfers van je creditcard.
+3. Open de ING Bankieren App. Daar zie je vanzelf je opdracht.
+4. Bevestig de betaling en kies voor doorgaan.
+5. Na het goedkeuren van de betaling keer je weer terug naar de webshop.
+
+### Gebruik je een ING scanner?
+
+1. Scan de QR-code.
+2. Vul de pincode in op je scanner.
+3. Controleer de betaalopdracht. In het scherm van je ING scanner verschijnt het bedrag, de naam van de webshop en een eenmalig wachtwoord (7 cijfers).
+4. Keur de betaling goed door de eenmalige code over te nemen die op je scanner (7 cijfers) wordt getoond.
+5. Na het goedkeuren van de betaling keer je weer terug naar de webshop.
+
+### Wat doe ik als ik geen ING app of ING scanner heb?
+
+Om veilig online te kunnen betalen met je creditcard moet er een extra controle worden uitgevoerd, hiervoor is een ING Bankieren App of ING scanner vereist. De Mastercard ID check is er om je te beschermen tegen online misbruik van je creditcard.
+Als je geen ING Bankieren App of ING Scanner gebruikt dan kun je geen online betalingen doen met je creditcard. Maak bij je online aankoop gebruik van een ander betaalmiddel.

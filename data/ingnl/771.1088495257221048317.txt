@@ -1,0 +1,21 @@
+# Contactloos betalen met 'ING Mobiel Betalen' stopt - ING Mobiel Betalen met Android™
+
+## Veelgestelde vragen
+
+### Hoe kan ik Google Pay als standaard wallet instellen?
+
+Dat kan op de volgende manier:
+* Ga naar instellingen van je telefoon
+* Tik op 'Verbindingen'
+* Tik op 'NFC en Contactloze betalingen'
+* Tik op 'Contactloze betalingen'
+* Selecteer de gewenste betaalservice
+
+### Is Google Pay veilig en hoe zit het met privacy?
+
+Veiligheid staat bij ons voorop. Betalen met Google Pay is net zo veilig als met ING Mobiel Betalen. Je digitale betaalpas (en plastic betaalpas) zijn beveiligd via NFC. Dat betekent dat tijdens het contactloos betalen de betaalgegevens op dezelfde manier worden uitgewisseld. Om gegevens uit te kunnen wisselen, moet je je telefoon op maximaal 10 cm afstand houden van de betaalautomaat. Zit je mobiel in je tas of broekzak, dan is contact maken niet mogelijk.
+Neem bij verlies, diefstal en fraude wel contact op met onze alarmlijn. Zo kan je digitale pas gelijk worden geblokkeerd.
+**Google Pay & Privacy**
+Wat gebeurt er met jouw gegevens? Om Google Pay te kunnen activeren en te gebruiken voor betalingen, deelt ING je naam, adres en telefoonnummer met Google.
+Als je betaalt met Google Pay dan ontvangt Google je betaalgegevens om de transactie technisch mogelijk te maken. Dit zijn bijvoorbeeld de datum en tijd van de betaling. Maar ook het bedrag en de naam van de winkel waar je hebt betaald.
+Nadat je Google Pay hebt geactiveerd is Google verantwoordelijk voor het veilig houden en het eventuele gebruik van jouw persoonsgegevens en geldt de privacyverklaring van Google . Wil je je privacyvoorkeuren voor Google Pay wijzigen? Dat kan via de privacy check van Google.

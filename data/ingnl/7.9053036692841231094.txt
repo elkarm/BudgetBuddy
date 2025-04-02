@@ -1,0 +1,16 @@
+# Uitbetalen van je restsaldo - ING
+
+## Verplichte documentatie
+
+### Verplichte documentatie (Zakelijke Betaalrekening)
+
+START TABLE IN MARKDOWN
+| | | Zakelijke Betaalrekening | |
+| - | - | - | - |
+| | | < € 10.000 | > € 10.000 |
+| | | Ingevuld en ondertekend formulier | Ingevuld en ondertekend formulier |
+| | | Kopie geldig identiteitsbewijs van de vertegenwoordiger(s) | Gewaarmerkt kopie geldig identiteitsbewijs van de vertegenwoordiger(s) |
+| | | | Kopie afschrift bestemmingsrekening (inclusief IBAN nummer)(** De rekening waar je het saldo op wilt hebben gestort moet op dezelfde naam staan als de rekening die is opgeheven of op naam van de wettelijk vertegenwoordiger van de entiteit van de opgeheven rekening.) |
+| | | | Rechthebbenden verklaring / statuten of notulen(*** Indien de entiteit is afgewikkeld hebben wij een rechthebbendenverklaring nodig. Dit is verzamelbegrip voor een document waaruit blijkt dat je recht hebt op het restsaldo. Indien de entiteit nog bestaat maar niet is ingeschreven in de KvK, dan de laatste statuten of notulen waaruit blijkt dat je bevoegd bent.) |
+END TABLE IN MARKDOWN
+\* Betreft het een minderjarige rekeninghouder? Stuur dan een (gewaarmerkt) kopie van een geldig identiteitsbewijs van zowel de rekeninghouder als de wettelijke vertegenwoordiger zoals een ouder/voogd mee.

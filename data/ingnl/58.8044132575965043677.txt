@@ -1,0 +1,7 @@
+# ING Wisselkoerscalculator - Voorwaarden
+
+Sluiten Percentage van onze koersopslag ten opzichte van de ECB euro referentiewisselkoers
+De Europese Commissie heeft de ECB (Europese Centrale Bank) euro wisselkoersen gekozen als referentiekoers. De ECB euro wisselkoersen worden dagelijks gepubliceerd. De ECB euro wisselkoers dient als basis voor het berekenen van onze koersopslag als percentage ten opzichte van de ECB euro wisselkoers.
+De publicatie van dit percentage is bedoeld om de vergelijking te kunnen maken met door andere betaaldienstaanbieders binnen de EER (Europese Economische Ruimte) gepubliceerde percentages. Hierdoor kun je een juiste beslissing nemen of je wel of geen gebruik wilt maken van de DCC (Dynamic Currency Conversion) service.
+Dynamic Currency Conversion service Van DCC is sprake wanneer je het transactiebedrag afrekent in euro in tegenstelling tot het afrekenen van het transactiebedrag in de valuta van het land. Een betaaldienstaanbieder in de EER die DCC aanbiedt is namelijk ook verplicht om zijn wisselkostenpercentage te publiceren. Je kunt ons percentage raadplegen door gebruik te maken van onze wisselkoerscalculator op ING.nl. Van valuta waarvan geen ECB referentiewisselkoers bestaat kan ING geen percentage publiceren via de calculator.
+Let op: De wisselkoers inclusief de door ING gehanteerde koersopslag en het omgerekende bedrag in euro zijn slechts indicatief.

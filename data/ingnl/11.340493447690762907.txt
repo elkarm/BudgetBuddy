@@ -1,0 +1,39 @@
+# Google Pay activeren in de ING app - ING
+
+Zo gepiept in de ING-app
+
+## Google Pay activeren in 2 minuten
+
+Wat heb je nodig om Google Pay te gebruiken?
+* Een Android™ telefoon, met versie 8 of hoger en NFC-chip. Wil je weten of jouw telefoon zo'n chip heeft? Ga dan naar ‘Instellingen’ en tik op "Verbonden apparaten". Als je hier "NFC" ziet staan, heeft jouw toestel deze functie. Je kunt deze dan aanvinken en gebruiken
+* Een betaalrekening bij ING
+* De meest recente versie van de ING Mobiel Bankieren App
+* De meest recente versie van de Google Wallet app.
+Je kunt Google Pay gebruiken als je 16 jaar of ouder bent.
+1. 1
+
+#### Start in de ING Mobiel Bankieren App
+
+    * Ga naar de ING-app
+    * Tik rechtsonder op "Service"
+    * Scroll naar "Zelf regelen" en tik op "Je app-instellingen"
+2. 2
+
+#### Kies je Betaalpas
+
+    * Tik op "Google Pay" en daarna op "Betaalpas"
+    * Selecteer de Betaalrekening waarvoor je Google Pay wilt activeren
+    * Check je persoonsgegevens en geef toestemming voor het delen hiervan met Google
+    * Tik op "toevoegen aan Google Pay"
+3. 3
+
+#### Toevoegen in de Google Wallet
+
+Je komt terecht in de Google Wallet-omgeving.
+* Accepteer hier de voorwaarden
+4. 4
+
+#### Betalen maar!
+
+De ING Betaalpas zit in de Google Wallet.
+* Je bent klaar om te betalen!

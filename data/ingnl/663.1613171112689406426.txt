@@ -1,0 +1,11 @@
+# BIC en IBAN - ING
+
+### IBAN / BIC code van je eigen rekening
+
+Je vindt je IBAN op de afrekening van je Zakelijke Rekening, of in rekeningoverzicht in de Mobiel Bankieren App of op Mijn ING Zakelijk. De BIC van de ING is INGBNL2A.
+Een voorbeeld van een correcte IBAN-code is NL20INGB0001234567.
+De IBAN-code bestaat uit een landcode: in dit voorbeeld NL. Deze wordt gevolgd door een controlegetal. In bovenstaand voorbeeld is dat 20. Na het controlegetal staat de bankcode. De Bankcode van de ING is: INGB. Ten slotte volgt het rekeningnummer (totaal 10 cijfers, aanvullen met voorloopnullen indien nodig).
+
+### Wat is een "branch code"?
+
+In sommige landen wordt gevraagd om een "branch code". Als er sprake is van een branche van een bank, worden er 3 karakters toegevoegd aan de BIC waardoor deze 11 karakters heeft. Dit zie je vaak terug bij banken in Duitsland, Groot Brittannië of Frankrijk. Om het aantal karakters in de BIC gelijk te stellen kan er XXX worden toegevoegd. In het geval van een betaling aan een ING bankrekening wordt dit dan INGBNL2AXXX.

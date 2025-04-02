@@ -1,0 +1,13 @@
+# Online identificeren met iDIN
+
+Dé manier van online identificeren.
+
+## Wat is iDIN?
+
+iDIN is de online identificatiedienst die door de banken gezamenlijk is ontwikkeld. Gebruik je als particuliere klant Mijn ING of de Mobiel Bankieren App en zie je het iDIN-logo op een website? Dan is iDIN direct te gebruiken. Makkelijk, veilig en vertrouwd online identificeren en inloggen.
+Wanneer je iDIN gebruikt, identificeer je je door gegevens te versturen via Mijn ING of de Mobiel Bankieren App. Je ziet altijd om welke gegevens het gaat en het versturen moet altijd bevestigd worden. Organisaties kunnen met iDIN om meerdere gegevens vragen, onder andere:
+* Naam
+* Geslacht
+* Geboortedatum
+* Woonadres
+Als je aan een website eerder gegevens hebt verstuurd met iDIN, kan de organisatie ervoor kiezen om je de volgende keer met iDIN te laten inloggen zonder opnieuw alle gegevens te vragen. Makkelijk en veilig via Mijn ING of de Mobiel Bankieren App. Er worden geen andere bankgegevens verstuurd en ING krijgt geen gegevens van de organisatie.

@@ -1,0 +1,28 @@
+# Inloggen in Mijn ING lukt niet - ING
+
+## Lukt inloggen nog steeds niet?
+
+Dan hebben we nog 4 tips voor je.
+
+### 1. Je browser opschonen
+
+Door je browser op te schonen kun je het volgende verwijderen:
+* Cookies en andere websitegegevens
+* Tijdelijke internet bestanden en afbeeldingen (ook wel 'cache bestanden' genoemd)
+* Je download geschiedenis
+* Je browse geschiedenis
+Hoe doe je dat?
+* Dit kun je doen via de instellingen van je browser. Open je browser en toets CTRL-SHIFT-DEL. Dan kom je direct bij de juiste instellingen. Sluit je browser hierna af en start het opnieuw op.
+* Of probeer een incognitovenster. Incognito browsen, ook wel privé browsen genoemd, is een functie die je kunt activeren in elke browser. Wanneer je de incognitomodus inschakelt worden onder andere cookies geblokkeerd of verwijderd. Je kunt hiervoor de sneltoetsen Ctrl+Shift+N gebruiken (voor Google Chrome of Safari) of Ctrl+Shift+P (voor Internet Explorer of Firefox), dan opent vanzelf een incognitovenster.
+
+### 2. Schakel over naar een mobiel netwerk of naar WiFi
+
+Hapert je internetverbinding? Voor een betere verbinding kan het helpen om over te schakelen naar een mobiel 4G-netwerk (in plaats van WiFi) of een beveiligd WiFi-netwerk (in plaats van 4G). Herstart de webpagina waar je mee bezig was en probeer het daarna opnieuw.
+Of zet je 4G of WiFi aan en weer uit, dat kan ook nog wel eens helpen.
+5G Is de nieuwste generatie mobiel internet, de opvolger van 4G. En kun je ook prima gebruiken.
+
+### 3. Gebruik een andere browser
+
+Probeer een andere browser. Met je browser kun je surfen op internet, bijvoorbeeld met Google Chrome of Safari. Heb je geen andere browser om te gebruiken, dan kun je deze downloaden. Wil je weten welke browsers ING ondersteund? Klik dan hier .
+Soms helpt het alleen al om je browser of besturingssysteem te updaten. Stel automatisch updaten van je browser en besturingssysteem in, dan zit je altijd goed.
+Update je browser en besturingssysteem

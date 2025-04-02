@@ -1,0 +1,27 @@
+# Zo werkt mobiel betalen met Google Pay - ING
+
+Dat is makkelijk betalen Activeer Google Pay in de ING-app
+* Voor je ING Betaalrekening en Creditcard
+* Overal waar je contactloos kan betalen, maar ook in apps en webshop
+* In binnen- en buitenland
+
+## Dé Google-manier van betalen
+
+Google Pay gebruik je om te betalen met je Android™ telefoon (versie 8 of hoger). Hiervoor gebruik je de Google Wallet. Dit is een digitale portemonnee, waarin je je betaalpassen, creditcards en klantkaarten bewaart. Google Pay werkt overal waar je contactloos kunt betalen. In winkels, maar ook in apps en webshops. In binnen- en buitenland.
+
+### Activeer Google Pay in je ING-app
+
+In 2 minuten heb je Google Pay geactiveerd in de ING-app.
+Google Pay is beschikbaar voor iedereen vanaf 16 jaar.
+* Bekijk hoe je Google Pay activeert
+* Je ING Creditcard koppelen aan Google Pay? Kijk dan hier!
+
+## Betalen met Google Pay
+
+Voor elke betaling met Google Pay ontgrendel je eerst je telefoon. Daarna kun je betalen.
+Let op: Voor veilig betalen met Google Pay, raden we je aan om je telefoon te ontgrendelen met biometrics (gezichtsherkenning of vingerafdrukidentificatie). Gebruik je toch liever de pincode voor ontgrendeling? Zorg dat de standaard pincode (fabrieksinstelling) is aangepast. Voor meer informatie ga naar autoriteitpersoonsgegevens.nl .
+
+## Veiligheid
+
+Wist je dat betalen met Google Pay net zo veilig is als contactloos betalen met je plastic Betaalpas? Tijdens het betalen met je telefoon worden de betaalgegevens namelijk op dezelfde manier uitgewisseld (via NFC).
+Om gegevens uit te kunnen wisselen moet je je telefoon op maximaal 10 cm afstand houden van de betaalautomaat.

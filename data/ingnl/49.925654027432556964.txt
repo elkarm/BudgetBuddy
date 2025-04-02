@@ -1,0 +1,17 @@
+# OranjePakket en OranjePakket met korting - ING
+
+Wat past bij je? Het OranjePakket met korting past bij je als je 100% mobiel of digitaal je bankzaken doet zonder papier en daarnaast niet of nauwelijks gebruik maakt van contant geld. Je betaalt dus (vrijwel) alles digitaal of met je (mobiele) Betaalpas of creditcard.
+
+### De verschillen tussen deze twee pakketten zijn:
+
+START TABLE IN MARKDOWN
+| | | | OranjePakket | OranjePakket met korting |
+| - | - | - | - | - |
+| Pakketkosten per maand (per jaar) | | | € 3,65 (€43,80) | € 3,20 (€38,40) |
+| Variabele kosten | | | | |
+| Aantal gratis stortingen van biljetten per jaar. Daarna € 6,00 per extra storting. Een storting van munten kost altijd € 6,00. | | | 2 keer | 0 keer |
+| Opname in euro's met je Betaalpas(sen) uit een geldautomaat in Nederland en andere EER\-landen (per opname) | | | €0,00 | €0,80 |
+| Overig | | | | |
+| Papieren diensten (apart getarifeerd als je er gebruik van maakt) | | | Ja | Nee |
+END TABLE IN MARKDOWN
+Heb je meer dan 1 Betaalpas bij je pakket, omdat je bijvoorbeeld een En/of Betaalrekening hebt of een gemachtigde pas? De variabele kosten gelden voor de contant geld handelingen die je met elke Betaalpas doet. Bijvoorbeeld: je kunt bij een OranjePakket in totaal 2 keer per jaar gratis biljetten storten en niet 2 keer per Betaalpas.

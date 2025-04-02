@@ -1,0 +1,31 @@
+# India - ING
+
+### Doel van de betaling
+
+Voor betalingen naar India controleert de buitenlandse bank waarom je naar dit land geld overboekt. Zonder het doe van de betaling te vermelden, wordt jouw transactie mogelijk vastgehouden of niet verwerkt en door de buitenlandse bank retour geboekt.
+Vermeldt de reden van betaling in de omschrijving (ook wel Purpose of Payment Code genoemd). De volgende purpose codes zijn toegestaan:
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Purpose Code | Omschrijving |
+| S1301 | Familie ondersteuning |
+| P1303 | Goede doelen |
+| S1302 | Persoonlijke geschenken en donaties |
+| S1306 | Belastingbetalingen |
+| S1401 | Salarisbetaling |
+| P0301 | Reiskosten |
+| P0006 | Investeringen in India |
+| P0008 | Aankoop van vastgoed |
+| P0012 | Leningen |
+| S0101 | import van goederen (vooraf) |
+| S0 102 | Import van goederen (factuurbetaling) |
+| P0402 | Koeriersdiensten |
+| P0403 | Telecommunicatie |
+| P1004 | Juridische diensten |
+| P1006 | Consultancy |
+| P1019 | Overige dienstverlening |
+| P1406 | Uitbetaling van winsten naar India |
+| S0802 | IT\- Software |
+| S0801 | IT\- Hardware |
+| S0806 | IT\- Overige |
+END TABLE IN MARKDOWN

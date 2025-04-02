@@ -1,0 +1,21 @@
+# Update je app - ING
+
+## Veelgestelde vragen
+
+### Hoe controleer ik welke versie van de App ik heb?
+
+Dat gaat zo:
+1. Open de Mobiel Bankieren App
+2. Kies in het menu ‘Service’
+3. Klik op ‘Over deze app’
+4. U ziet het versienummer
+Goed om te weten: in de App Store of Google Play Store zie je het nieuwste versienummer.
+Je hebt de laatste versie van de app als je in de App Store of Google Play Store geen 'Werk bij' ziet staan.
+
+### Waarom worden oudere versies van de Mobiel Bankieren App onbruikbaar?
+
+Oude versies van de app werken soms alleen nog samen met oude versies van besturingssystemen van je tablet of smartphone. Dat kan onveilig zijn. De fabrikant brengt na een tijdje namelijk geen veiligheidsupdates meer uit. Een mogelijk veiligheidslek in een oud besturingssysteem brengt daarom risico’s mee. Daaraan wil je je bankzaken niet blootstellen.
+Daarnaast verbetert ING de app met iedere update. We maken de app makkelijker in gebruik, voegen nieuwe mogelijkheden toe én zorgen voor meer veiligheid. Daarom is het belangrijk dat je altijd bankiert met de recentste versie van de Mobiel Bankieren App.
+Op dit moment is minimaal iOS 15 of Android 8 nodig om onze app te kunnen gebruiken. Hiermee ontvang je namelijk de nieuwste versies van de app. Heb je nu een lager besturingssysteem en kun je deze niet updaten? Dan is je toestel helaas verouderd.
+We snappen dat het heel vervelend is als je app onbruikbaar wordt, maar veiligheid is het belangrijkst.
+Meer over updaten vind je via onderstaande link. Update je software

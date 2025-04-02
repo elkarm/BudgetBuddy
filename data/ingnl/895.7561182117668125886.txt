@@ -1,0 +1,17 @@
+# Online identificeren met iDIN
+
+## Hoe werkt iDIN?
+
+iDIN lijkt sterk op de manier waarop iDEAL werkt. Je selecteert op de website van de organisatie ‘ING’ uit de lijst met banken.
+* Als je dat op een computer doet, word je doorverwezen naar onze beveiligde omgeving. Daar scan je de QR-code met de Mobiel Bankieren App of log je in met de vertrouwde inlogmethode van Mijn ING.
+* Als je dat op een mobiel apparaat doet, wordt de Mobiel Bankieren App van ING automatisch geopend.
+De organisatie kan je vragen om met iDIN te identificeren, in te loggen, je leeftijd te bevestigen of te ondertekenen.
+**Identificeren**
+Bij identificeren krijg je een overzicht van de gegevens die je kunt delen met de gekozen organisatie. Je telefoonnummer en e-mailadres kun je desgewenst en voor verzending nog aanpassen. Het versturen van de gegevens bevestig je via Mijn ING of de Mobiel Bankieren App met je 5-cijferige mobiele pincode. Daarna keer je automatisch terug naar de website van de organisatie.
+**Inloggen**
+Heb je met iDIN eerder een account aangemaakt bij een organisatie? Dan kan de organisatie ervoor kiezen om je de volgende keer met iDIN te laten inloggen zonder opnieuw alle gegevens te vragen. Dit werkt op dezelfde manier als het identificeren met iDIN. Je moet het inloggen altijd bevestigen met je inlogmethode van Mijn ING of de Mobiel Bankieren App. Bij het inloggen worden geen andere bankgegevens verstuurd en ING krijgt geen gegevens van de organisatie.
+**Leeftijd bevestigen**
+Met iDIN kun je ook je leeftijd bevestigen bijvoorbeeld omdat je iets koopt waarvoor je moet aantonen dat je meerderjarig bent.
+**Ondertekenen**
+Met iDIN Ondertekenen kun je een digitale handtekening zetten. Zo kun je bijvoorbeeld een Incassomachtiging afgeven. Ook bij iDIN Ondertekenen gebruik je de inlogmethode van Mijn ING of de Mobiel Bankieren App om je digitale handtekening te zetten.
+**Goed om te weten** : Wij kunnen niet zien wat je bij een website regelt. Omgekeerd krijgt een website geen toegang tot je bankgegevens. Lees voor het versturen altijd goed hoe de organisatie met persoonlijke gegevens omgaat.

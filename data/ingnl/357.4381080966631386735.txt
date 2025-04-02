@@ -1,0 +1,24 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### Hoe voeg ik een 'icoon' toe aan mijn digitale Betaalpas?
+
+Om een 'icoon' toe te kunnen voegen aan je Apple Wallet heb je de meest recente versie van de ING Mobiel Bankieren App nodig. Een 'icoon' kun je alleen toevoegen aan een ING Betaalpas. Het is niet mogelijk om een 'icoon' aan op je digitale credit card te plaatsen.
+Stappen om een icoontje op je digitale ING Betaalpas te plaatsen:
+* Ga naar de ING App
+* Klik rechtsonder op "service"
+* Scroll naar "Zelf regelen" en klik op "Je app-instellingen"
+* Klik op "Apple Pay"
+* Selecteer de ING Betaalpas waarop het icoontje geplaatst moet worden
+* Selecteer "Icoon aan pas toevoegen"
+* Kies het gewenste icoontje
+* Opslaan en klaar!
+
+### Vragen over transacties
+
+Waar zie ik mijn transacties? Je ziet je transacties in het transactieoverzicht in de Mobiel Bankieren app. De laatste tien transacties zie je in de Apple Wallet. Als je een smartwatch (Garmin, Fitbit, etc.) hebt gekoppeld aan je telefoon kun je ze daar ook op zien. Je kunt dit aan of uit zetten in de instellingen van de app van je smartphone.
+Waarom is mijn transactie afgewezen?
+* Je hebt onvoldoende saldo of je hebt je daglimiet bereikt.
+* De betaalpas is nog niet actief en wacht op verificatie.
+* De rekening waarmee je een transactie wil doen is een geblokkeerde rekening.

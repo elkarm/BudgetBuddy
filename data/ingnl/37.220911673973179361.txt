@@ -1,0 +1,47 @@
+# Garmin Pay activeren bij ING
+
+Zo gepiept in de app!
+
+## Wat heb je nodig voor Garmin Pay?
+
+Om Garmin Pay te kunnen gebruiken moet je 16 jaar of ouder zijn. Verder heb je het volgende nodig:
+* Een Garmin Smartwatch die de betaalfunctie ondersteunt
+* De nieuwste versie van de ING app (op een iOS of Android™ toestel)
+* Een betaalrekening van ING
+* De nieuwste versie van de Garmin Connect app
+
+## Garmin Pay activeren in enkele stappen
+
+In de ING app kun je Garmin Pay eenvoudig activeren.
+1. 1
+
+#### Open de ING app en ga naar "service"
+
+    * Open de ING app
+    * Klik rechtsonder op "service"
+    * Scroll naar "Zelf regelen" en klik op "Je app-instellingen"
+    * Kijk bij "Betalen" en klik op "Garmin Pay"
+2. 2
+
+#### Kies je Betaalpas
+
+    * Selecteer je Betaalrekening
+    * Klik op zet in wallet
+3. 3
+
+#### Toevoegen in de Garmin Wallet
+
+Je komt terecht in de Garmin Wallet omgeving.
+* We vragen je hier om de voorwaarden te accepteren
+* Om je identiteit te controleren, klik op "Gebruik de ING Nederland mobiele app"
+4. 4
+
+#### Betalen maar!
+
+Je ING betaalpas zit in de Garmin wallet
+* Je bent klaar om te betalen!
+
+## Is Garmin Pay veilig?
+
+Garmin Pay is net zo veilig als betalen met je gewone ING Betaalpas, waar je ook contactloos mee kunt betalen.
+Om te betalen met je Garmin watch voer je minimaal 1 keer per dag je Garmin Pay pincode in. Doe je de Garmin watch af en later weer om? Ook dan moet je eerst de pincode invoeren voordat je de betaling kunt starten.

@@ -1,0 +1,11 @@
+# Zo gebruik je de ING Scanner - ING
+
+Als je de scanner hebt ontvangen en geactiveerd, kun je hem gaan gebruiken voor het bevestigen van je betalingen.
+
+## Hoe bevestig ik met de scanner?
+
+1. Maak in Mijn ING een overschrijving aan zoals je gewend bent.
+2. Er verschijnt een kleurencode op het scherm van Mijn ING.
+3. Zet je scanner aan met de oranje knop, richt de camera goed op je scherm en scan de kleurencode.
+4. Toets je zelfgekozen pincode in en controleer de opdracht op het scherm van de scanner.
+5. Bevestig de opdracht door de code die in de scanner verschijnt, over te typen in Mijn ING. En klaar ben je.

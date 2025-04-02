@@ -1,0 +1,36 @@
+# Tarieven Creditcards - ING - Inzicht in tarieven van betaalproducten
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+START TABLE IN MARKDOWN
+| Creditcard/Platinumcard | | | |
+| - | - | - | - |
+| Uw Pakket | Creditcard | 1e Extra Creditcard | 2e Extra Creditcard |
+| OranjePakket met korting | € 19,80 per jaar | € 15,00 per jaar | € 15,00 per jaar |
+| OranjePakket | € 19,80 per jaar | € 15,00 per jaar | € 15,00 per jaar |
+| Niet meer te openen pakketten | Creditcard | 1e Extra Creditcard | 2e Extra Creditcard |
+| BasisPakket | € 19,80 per jaar | € 15,00 per jaar | € 15,00 per jaar |
+| BetaalPakket | Onderdeel van pakket | Onderdeel van pakket | € 15,00 per jaar |
+| RoyaalPakket | Niet mogelijk | Niet mogelijk | Niet mogelijk |
+| | | | |
+| Uw Pakket | Platinumcard | 1e Extra Platinumcard | 2e Extra Platinumcard |
+| OranjePakket met korting | € 52,20 per jaar | € 31,20 per jaar | € 31,20 per jaar |
+| OranjePakket | € 52,20 per jaar | € 31,20 per jaar | € 31,20 per jaar |
+| Niet meer te openen pakketten | Platinumcard | 1e Extra Platinumcard | 2e Extra Platinumcard |
+| BasisPakket | € 52,20 per jaar | € 31,20 per jaar | € 31,20 per jaar |
+| BetaalPakket | Niet mogelijk | Niet mogelijk | Niet mogelijk |
+| RoyaalPakket | Onderdeel van pakket | Onderdeel van pakket | € 31,20 per jaar |
+END TABLE IN MARKDOWN
+START TABLE IN MARKDOWN
+| Studenten Creditcard |
+| - |
+| Studenten Creditcard | | € 14,40 per jaar |
+END TABLE IN MARKDOWN
+\* Het rentepercentage van Gespreid betalen is direct gekoppeld aan de maximale kredietvergoeding. Over rentewijzigingen word je altijd vooraf geïnformeerd.

@@ -1,0 +1,22 @@
+# PSD2: Over toestemming geven - Zeg eens,
+
+Waar kan ik toestemming voor geven en hoe werkt dat?
+Je betaalgegevens delen met een ander bedrijf of een betaling doen aan een ander bedrijf gaat makkelijk door PSD2. Maar niet zomaar. Je moet wel eerst toestemming geven. Hoe weet je eigenlijk of dat veilig is?
+
+## Hier kun je op letten
+
+* Vraag jezelf af wie je jouw gegevens toevertrouwt en controleer waar ze voor worden gebruikt. Dat lees je meestal in de voorwaarden of privacy policy van een bedrijf.
+* Controleer bij een betaling, die door een ander bedrijf gestart is, of het bedrijf, het bedrag en de omschrijving kloppen.
+* Lees ook de informatie over Veilig Bankieren en PSD2
+
+## Hoe werkt toestemming geven om mijn betaalgegevens te delen?
+
+We delen je betaalgegevens alleen met een ander bedrijf als je daar zelf toestemming voor geeft. En wees gerust: dat gaat niet ongemerkt of per ongeluk. Je moet er namelijk ook voor inloggen in Mijn ING en de keuze van de betaalrekening bevestigen met je mobiele telefoon. Eigenlijk werkt het net als een betaalopdracht. Kijk:
+
+## Dit zijn de stappen:
+
+1. Eerst geef je het bedrijf toestemming.
+2. Daarna log je in in Mijn ING en geef je aan voor welke rekening je toestemming geeft.
+3. En je bevestigt die keuze met je mobiel
+Pas daarna heeft een ander bedrijf toegang tot je betaalgegevens. Voor 90 dagen. Daarna moet je de rekening opnieuw koppelen via Mijn ING.
+En als je geen toestemming geeft aan een ander bedrijf, verandert er dus niets voor jou.

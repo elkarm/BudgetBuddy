@@ -1,0 +1,21 @@
+# Inloggegevens Mijn ING opnieuw aanvragen of wijzigen - ING - Inloggegevens Mijn ING opnieuw aanvragen of wijzigen?
+
+## Een sterk wachtwoord
+
+Kies een wachtwoord dat je zelf makkelijk kunt onthouden (en anderen niet kunnen raden).
+
+### Voor je wachtwoord voor Mijn ING stellen we de volgende eisen:
+
+* Het wachtwoord bestaat uit cijfers en letters (met leestekens maak je het nog sterker)
+* Er wordt minimaal 1 hoofdletter, 1 kleine letter en 1 cijfer gebruikt
+* Het wachtwoord is minimaal 10 en maximaal 160 karakters lang
+* Het wachtwoord is niet hetzelfde als (of lijkt niet op) jouw gebruikersnaam
+* Je wachtwoord is in de afgelopen 12 maanden niet eerder gebruikt
+
+### Je kunt de volgende karakters gebruiken:
+
+* Cijfers: 0 t/m 9
+* Letters: kleine letters (a t/m z) en hoofdletters (A t/m Z)
+* Speciale tekens: !"#$%&'()\*+,-./:;<=>?@[\]^\_`{|}~
+* Een spatie mag, alleen niet aan het begin of einde van het wachtwoord
+Tips voor een sterk wachtwoord

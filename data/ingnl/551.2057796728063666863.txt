@@ -1,0 +1,12 @@
+# Betaalpas in het buitenland - ING
+
+### Sanctieregelgeving en/of op grond van het beleid van ING
+
+* Waar kun je niet betalen/geld opnemen met je Betaalpas? Dit geldt in Cuba, Rusland en de Krim (een gebied in Oekraïne).
+* Waar kun je niet betalen/geld opnemen met je Betaalpas **en** heb je geen toegang tot de Mobiel Bankieren App/Mijn ING? Dit geldt in de landen: Syrië, Noord-Korea, Sudan (voormalig “Noord-Sudan”) en Iran.
+
+### Waar moet je op letten bij betalen in het buitenland?
+
+Doe je een betaling in euro’s? Dan betaal je geen extra kosten. Doe je een betaling in vreemde valuta? Dan wordt de wisselkoers per transactie verhoogd met 1,40% koersopslag.
+**Tip!** ING heeft voorafgaand aan de transactie geen inzage in de omrekenkoersen van de lokale banken of de extra tarieven die zij kunnen rekenen. Check de wisselkoerscalculator voordat je gebruik maakt van Dynamic Currency Conversion (DCC); ervaring leert dat lokale betaaldienstaanbieders vaak een hogere omrekenkoers hanteren dan ING.
+Omdat alle betalingen nu standaard via de chip worden verwerkt en de magneetstrip uitstaat kan het voorkomen dat je op enkele plaatsen op IJsland, in de Verenigde Staten en in Australië in winkels niet meer met je Betaalpas kunt afrekenen. Neem dus naar deze bestemmingen een creditcard mee of reken er contant af.

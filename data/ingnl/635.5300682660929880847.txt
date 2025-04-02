@@ -1,0 +1,31 @@
+# Snelheid betalingen - ING
+
+Binnen Nederland Heb je net je huur overgemaakt en wil je weten wanneer je verhuurder het bedrag op zijn rekening heeft staan? Hieronder zie je hoe snel je betalingen binnen Nederland verwerkt worden.
+
+### Overschrijving naar een Betaalrekening bij ING
+
+De tijdstippen hieronder gelden voor betalingen via de Mobiel Bankieren App, Mijn ING of via de Saldolijn naar een Betaalrekening bij ING.
+START TABLE IN MARKDOWN
+| | |
+| - | - |
+| Tijdstip van betaalopdracht | Alle dagen |
+| Geld afgeschreven van rekening | Direct |
+| Geld bijgeschreven op rekening begunstigde | Direct |
+END TABLE IN MARKDOWN
+
+### Overschrijving naar een Betaalrekening bij een andere bank
+
+De tijdstippen hieronder gelden voor betalingen via de Mobiel Bankieren App, Mijn ING of via de Saldolijn naar een Betaalrekening bij een andere bank dan ING.
+START TABLE IN MARKDOWN
+| Tijdstip van betaalopdracht | Geld afgeschreven van rekening | Geld bijgeschreven op rekening van begunstigde |
+| - | - | - |
+| Werkdagen voor 15.00 uur | Direct | Dezelfde dag, of direct in geval van instant payments |
+| Werkdagen na 15.00 uur(* Op werkdagen na 15:00 wordt de afschrijving nog volledig verwerkt. De bijschrijving is mogelijk nog dezelfde werkdag en anders de eerstvolgende werkdag.), in het weekend en op feestdagen(** Klik hier voor een overzicht van de feestdagen.) | Direct | Eerstvolgende werkdag, of direct in geval van instant payments |
+END TABLE IN MARKDOWN
+
+### Overige betalingen
+
+* Betalingen met een overschrijvingskaart:
+Het geld wordt binnen 2 dagen na ontvangst van de opdracht door ING bijgeschreven op de rekening van de begunstigde.
+* Betaling naar het buitenland:
+Wanneer het geld wordt bijgeschreven op de rekening van de begunstigde is afhankelijk van het land. Meer informatie over betaling naar het buitenland .

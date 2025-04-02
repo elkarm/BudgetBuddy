@@ -1,0 +1,14 @@
+# Als updaten niet lukt - ING
+
+## 3. Andere manier van inloggen en bevestigen
+
+Heb je geen geschikt toestel en lukt het ook niet om daar aankomen, dan kun je niet meer bankieren met de app. Je zult dan moeten overstappen naar een andere manier van inloggen en bevestigen in Mijn ING (internetbankieren). Haal dan wel eerst de app van je telefoon en verwijder deze telefoon uit Mijn ING.
+Bankieren zonder app
+
+### Zo verwijder je de app van je oude telefoon
+
+Eerst haal je de app van je telefoon. En daarna verwijder je het toestel in Mijn ING op de volgende manier:
+1. Log hier in
+2. Onder ‘Mobiele toestellen’ zie je op welke toestellen jij de app hebt geïnstalleerd
+3. Kies bij jouw oude toestel voor ‘Blokkeren’. Je toestel wordt nu geblokkeerd en je krijgt hier een bevestiging van te zien.
+4. En daarna voor ‘Verwijderen’. Je toestel wordt nu verwijderd en ook hier krijg je een bevestiging van te zien.

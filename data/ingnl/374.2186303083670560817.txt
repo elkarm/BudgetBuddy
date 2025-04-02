@@ -1,0 +1,19 @@
+# Rusland - ING
+
+### Verplichte gegevens
+
+Het juist vermelden van de betaalgegevens voorkomt dat de transactie langzamer wordt verwerkt of door de begunstigde bank wordt geweigerd. Voor betalingen naar Rusland gelden de volgende regels:
+Rekeningnummer en tennaamstelling
+* Het rekeningnummer van de begunstigde is een 20-cijferige rekeningnummer.
+* Vermeld de voornaam, de achternaam en de vadersnaam, volledig uitgeschreven.
+* Indien de begunstigde een rekening aanhoudt bij ING Eurasia en de begunstigde een bank is, moet in het omschrijvingsveld het rekeningnummer en naam van de uiteindelijke begunstigde weergegeven worden. Deze gegevens vermeld je na de VO code.
+Betalingen in RUB(*We voeren geen transacties meer uit in Russische roebel (RUB) door de situatie in Oekraïne)
+* Het opgeven van een BIK code is verplicht voor betalingen in RUB.
+* Vermeld de BIK code in het daarvoor bestemde veld (niet te verwarren met de BIC). De BIK code is het registratienummer bij de Russische Centrale Bank en bestaat uit 9 cijfers.
+* Voor betalingen in RUB is het opgeven van een BIC optioneel, maar wel aan te bevelen.
+Omschrijving van de betaling
+* De eerste regel in de omschrijving moet starten met een ‘VO code’ (VOxxxxx). Na de VO code volgt de beschrijving van de betaling
+* De VO code is een 5 cijferige code voorafgegaan door de letters ‘VO’. Deze code geeft het doel van de betaling aan. De leverancier moet op de factuur de VO code en VO beschrijving vermelden.
+* De VO beschrijving vul je na VO code in en moet de reden van betaling aangeven. Deze kan bijvoorbeeld verwijzen naar de geleverde goederen, services of investeringen.
+* Na de VO beschrijving vermeld je de specifieke omschrijving van de betaling in het Engels of Russisch. Deze omschrijving moet niet letterlijk dezelfde zijn als de uitleg van de VO code.
+* Vermeld de INN van de begunstigde (tax identification number). Zowel personen als organisaties hebben een INN in Rusland.

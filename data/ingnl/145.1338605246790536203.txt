@@ -1,0 +1,25 @@
+# OUR-opslag: tarieven per land - ING
+
+De OUR-opslag is een bedrag bovenop het reguliere transactietarief. Dit bedrag wordt in rekening gebracht als je in de betaalopdracht aangeeft om, naast het tarief van ING, ook de kosten van de bank van de ontvanger te betalen (kostenverdeling OUR). De OUR-opslag is een vergoeding voor het bedrag dat de bank van ontvanger in rekening brengt. Met de opslagtarieven sluit de ING zo dicht mogelijk aan bij de werkelijke kosten die de bank van de ontvanger in rekening brengt.
+Onderstaande OUR-tarieven gelden niet voor Wereldbetalingen binnen de Europese Economische Ruimte (EER). Opdrachten naar een EER-land kunnen door wet- en regelgeving alleen op basis van shared kostenverdeling (SHA) worden verwerkt, dit geldt voor alle valuta's.
+START TABLE IN MARKDOWN
+| ISO\-code | Land | Tarief | ISO\-code | Land | Tarief |
+| - | - | - | - | - | - |
+| AL | Albanië | € 25,00 | MU | Mauritius | € 15,00 |
+| AD | Andorra | € 15,00 | ME | Montenegro | € 25,00 |
+| AO | Angola | € 25,00 | MZ | Mozambique | € 25,00 |
+| AW | Aruba | € 9,00 | NA | Namibië | € 15,00 |
+| AU | Australië | € 15,00 | AN | Nederlandse Antillen | € 9,00 |
+| BW | Botswana | € 25,00 | NZ | Nieuw Zeeland | € 15,00 |
+| BR | Brazilië | € 25,00 | UG | Oeganda | € 50,00 |
+| BI | Burundi | € 25,00 | UA | Oekraïne | € 15,00 |
+| BQ | Caribisch Nederland | € 9,00 | OM | Oman | € 25,00 | |
+| CA | Canada | € 15,00 | PK | Pakistan | € 25,00 |
+| CL | Chili | € 50,00 | PE | Peru | € 15,00 |
+| CN | China | € 15,00 | RE | Reunion | € 25,00 |
+| CW | Curaçao | € 9,00 | RU | Rusland | € 50,00 |
+| EG | Egypte | € 15,00 | SM | San Marino | € 25,00 |
+| PH | Filippijnen | € 15,00 | RS | Servië | € 15,00 |
+| GG | Guernsey | € 25,00 | SG | Singapore | € 25,00 |
+| HK | Hong Kong | € 15,00 | SX | Sint Maarten | € 9,00 |
+END TABLE IN MARKDOWN

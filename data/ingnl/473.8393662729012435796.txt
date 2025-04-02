@@ -1,0 +1,18 @@
+# PSD2 - Vertel me
+
+Welke bedrijven kunnen bij mijn betaalgegevens Sinds de invoering van PSD2 kun jij ook andere bedrijven toegang geven tot jouw betaalgegevens. Als je dat wilt en dat bedrijf daarvoor toestemming geeft. En dat bedrijf moet daar wel een vergunning voor hebben.
+En zo’n vergunning krijg je niet zomaar, daarvoor zijn strenge eisen. In Nederland houden de Nederlandsche Bank, de Autoriteit Consument en Markt, Autoriteit Persoonsgegevens en AFM hier toezicht op.
+Jij bepaalt zelf aan welke bedrijven je jouw betaalgegevens toevertrouwt. In Mijn ING en de app zie je dan precies aan welke bedrijven je toestemming hebt gegeven.
+
+## Over welke gegevens hebben we het?
+
+Als jij dat wilt, delen we je transactie- en saldogegevens met een ander bedrijf. De eerste keer delen we dan je transactiegegevens van de afgelopen 24 maanden. Vanuit PSD2 is dat verplicht. Dan kun je namelijk via dat bedrijf dezelfde betaalgegevens bekijken als bij ons in de app en Mijn ING. Na die eerste keer sturen we steeds een update.
+* Je rekeningnummer
+* Naam van de begunstigde
+* Rekeningnummer van de begunstigde
+* Omschrijving of betalingskenmerk
+* Bedrag en datum van de transactie
+
+## Wil je geen gegevens meer delen?
+
+Je toestemming aan een bedrijf verloopt na 90 dagen vanzelf. Wil je eerder stoppen met het delen van je gegevens? Dan trek je je toestemming zelf in binnen Mijn ING of bij dat andere bedrijf. Wat het andere bedrijf daarna met jouw gegevens doet, verschilt per bedrijf. Dit vind je vaak terug in de privacy policy of de voorwaarden van dat bedrijf. Goed om dat te bekijken als je toestemming geeft.

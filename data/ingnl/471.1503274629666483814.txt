@@ -1,0 +1,27 @@
+# Australië - ING
+
+Wil je geld overmaken naar Australië? Op deze pagina lees je hoe dat werkt.
+
+### Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+
+### Kosten
+
+Voor deze buitenlandse overboekingen worden kosten in rekening gebracht. Kies je voor de OUR kostenverdeling dan wordt de begunstigde door zijn bank niets in rekening gebracht. Hiervoor brengt ING een OUR-opslag in rekening. Voor Australië is de OUR-opslag €15.
+
+### Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .
+
+### IBAN, BIC en BSB
+
+Australië kent geen standaardrekeningstructuur en geen IBAN.
+Australië maakt voor het betalingsverkeer gebruik van een nationale bankcode: de Australian Bank State Branch Code (BSB Code). Deze code bestaat uit 6 cijfers (bijvoorbeeld 033003) en is alleen nodig voor betalingen in AUD naar Australië.
+Voor betalingen naar Australië in andere valuta's dan AUD, zoals EUR, is alleen een BIC nodig.
+
+### Let op!
+
+* Het is niet toegestaan om een postbus / PO Box als adres van begunstigde aan te geven.
+* Op facturen kan het zijn dat de BSB-code in twee delen wordt weergegeven (bijvoorbeeld 033-003). Feitelijk bestaat de BSB-code uit drie onderdelen: Bank (2 cijfers), State (1 cijfer), Branch (3 cijfers). Deze gedeeltes zet je achter elkaar. In dit voorbeeld wordt dat dus 033003 (dit is de Westpac Banking Corporation te Melbourne, Australië).

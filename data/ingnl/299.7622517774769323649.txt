@@ -1,0 +1,24 @@
+# App updaten voor Android - ING
+
+Veilig en zo gedaan Mis nooit een update met automatisch updaten, dat is wel zo makkelijk!
+
+## Automatisch updaten
+
+Je kunt automatisch apps laten updaten door je smartphone of tablet. Dit zorgt ervoor dat je altijd de nieuwste versie van de app hebt, zonder dat je er zelf naar om hoeft te kijken.
+**Zo doe je dat:**
+1. Open de Google Play Store
+2. Zoek de 'ING Mobiel Bankieren' op
+3. Rechts bovenin het scherm staan 3 bolletjes onder elkaar (het Menu), klik hierop
+4. Zet de schuif aan bij 'Auto update'
+5. Zodra deze groen is, staat automatisch updaten voor de Mobiel Bankieren App aan.
+6. De app wordt automatisch geüpdatet zodra er een update een beschikbaar is.
+Doe je het liever elke keer handmatig, volg dan het stappenplan hieronder.
+
+### Stappenplan handmatig updaten
+
+Update Mobiel Bankieren App
+1. Klik op het icoontje ‘ Google Play Store ’ op je smartphone of tablet
+2. Type in de zoekbalk ‘ING Bankieren’
+3. Als er een update voor je klaarstaat, dan zie je een icoontje ‘Werk Bij’.
+4. Klik hierop, het updaten van de app start nu automatisch.
+Staat er geen ‘Werk bij’? Dan is er geen update en heb je de laatste versie van de app al.

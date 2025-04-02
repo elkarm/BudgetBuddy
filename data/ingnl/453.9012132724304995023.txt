@@ -1,0 +1,34 @@
+# Zo werkt de app - ING
+
+## Weergave van je rekeningen in de app
+
+### (On)zichtbaar maken van je rekeningen
+
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Ga naar 'Wijzigen' (het ‘Oogje’ bovenin het scherm)
+* Vink de rekeningen aan die je in het overzicht wilt zien.
+* Kies ‘Gereed’ om de wijzigingen te bewaren
+NB: rekeningen die je uitvinkt kun je later altijd weer aanvinken in dit overzicht
+
+### Volgorde wijzigen van je rekeningen
+
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Ga naar 'Wijzigen' (het ‘Oogje’ bovenin het scherm)
+* Plaats je vinger op het icoontje met 3 streepjes aan de rechterzijde van de rekening
+* Sleep de rekening naar de gewenste nieuwe positie
+* Kies ‘Gereed’ om de wijzigingen te bewaren (iPhone/iPad)
+
+### Zelf een naam geven aan je rekeningen
+
+Je kunt elke rekening een zelfgekozen naam geven in de Mobiel Bankieren App.
+iPhone/iPad:
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Ga naar 'Wijzigen' (het ‘Oogje’ bovenin het scherm)
+* Klik op de naam van de rekening
+* Vul de gewenste naam in
+* Kies ‘Gereed’ om de wijzigingen te bewaren
+Android:
+* Open je rekeningenoverzicht in de Mobiel Bankieren App
+* Ga naar 'Wijzigen' (het ‘Oogje’ bovenin het scherm)
+* Klik op de naam van de rekening
+* Vul de gewenste naam in

@@ -1,0 +1,22 @@
+# Wijzigingen per 1 januari 2023 - ING
+
+Per 1 januari 2023 wijzigen de tarieven van onze betaalpakketten.
+Alle pakketten worden € 0,80 per maand duurder.
+Ook vervallen de papieren diensten in het OranjePakket met korting.
+
+### Vanaf 1 januari 2023 nieuwe tarieven betaalpakketten
+
+START TABLE IN MARKDOWN
+| | Per maand tot 1\-1\-2023 | Per maand vanaf 1\-1\-2023 |
+| - | - | - |
+| OranjePakket met korting | € 1,90 | € 2,70 |
+| OranjePakket | € 2,35 | € 3,15 |
+| BasisPakket | € 3,05 | € 3,85 |
+| BetaalPakket | € 5,00 | € 5,80 |
+| RoyaalPakket | € 8,05 | € 8,85 |
+END TABLE IN MARKDOWN
+Het BasisPakket, BetaalPakket en RoyaalPakket zijn sinds 4 april 2016 niet meer af te sluiten.
+Weten welk betaalpakket je hebt? Dat vind je in je app, Mijn ING of op je afschrift.
+In de app klik je op je Betaalrekening en dan rechtsboven op de drie bolletjes. Daar zie je je rekeningdetails, inclusief je pakketnaam.
+Je kunt ook in Mijn ING en/of de app zoeken op “kosten”. In de omschrijving van de kosten van je betaalpakket zie je welk pakket je hebt.
+Dit is ook een goed moment om te kijken of het pakket nog bij jouw manier van bankieren past. Dit doe je eenvoudig via ing.nl/pakketvergelijker .

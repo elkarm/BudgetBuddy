@@ -1,0 +1,30 @@
+# Je app activeren met je identiteitsbewijs - ING
+
+## Meer weten?
+
+In de veelgestelde vragen & antwoorden lees je meer over de nieuwe manier van je app activeren. Of check hoe activeren met je identiteitsbewijs werkt.
+
+### Ik heb een app die al werkt. Moet ik hem nu opnieuw activeren?
+
+Nee, dan hoef je niks te doen. Activeren is alleen nodig als je de app opnieuw installeert. Bijvoorbeeld op een nieuwe telefoon of een extra device, zoals een tablet.
+
+### Met welke identiteitsbewijzen kan ik de app activeren?
+
+Je kunt de volgende **geldige** identiteitsbewijzen gebruiken:
+* een paspoort
+* een ID-kaart uit de Europese Unie
+* een Nederlandse verblijfsvergunning
+* een Vreemdelingen Identiteitsbewijs
+* een Nederlands rijbewijs
+
+### Ik heb geen identiteitsbewijs en ik wil de app activeren. Wat nu?
+
+Volgens de wet ben je verplicht om een geldig identiteitsbewijs te kunnen tonen vanaf 14 jaar. Heb je geen identiteitsbewijs? Vraag die dan aan bij de gemeente waar je staat ingeschreven. Op de site van je gemeente vind je hier meer informatie over.
+
+### Wat gebeurt er met mijn gegevens?
+
+Die worden beveiligd naar ons verstuurd. Wij checken of jij het bent en voegen eventueel ontbrekende voorna(a)m(en) toe aan onze systemen. Daarna worden de gegevens die we hebben ontvangen zo snel mogelijk vernietigd. Ze worden dus ook niet in je app opgeslagen. In ons privacy statement lees je meer over hoe we met je gegevens omgaan.
+
+### Waarom checken jullie mijn gegevens? Jullie kennen mij toch al?
+
+Je gegevens zijn inderdaad al eerder bij ons vastgelegd. Het gaat erom dat wij weten dat **jij** het bent op het moment dat je de app activeert. Daarom vergelijken we de gegevens van je identiteitsbewijs tijdens het activeren van de app met de gegevens die je bij ons hebt opgegeven tijdens het klant worden.

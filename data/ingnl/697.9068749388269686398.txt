@@ -1,0 +1,17 @@
+# Creditcard in het buitenland - ING
+
+Ga je binnenkort naar het buitenland? Dan is dit handig om te weten.
+
+### Betalen & geld opnemen
+
+* Ben je binnen de EER-landen en betaal je in euro's? Dan is betalen met je creditcard gratis.
+* Ben je niet in een EER-land of betaal je niet in euro's? Dan wordt het bedrag omgerekend naar euro's o.b.v. een wisselkoers en een koersopslag van 2,00%.
+Euro's opnemen bij geldautomaten kost je 4% van het opgenomen bedrag, met een minimum van € 4,50 per transactie. Neem je vreemde valuta op? Dan komt er nog 2,00% koersopslag bij.
+Vergelijking betaalpas en creditcard
+
+### Kies voor de lokale munteenheid
+
+Krijg je bij het betalen of geld opnemen de keuze tussen afrekenen in de lokale munteenheid of in euro’s?
+Wanneer je voor het afrekenen in de lokale munteenheid kiest dan maak je gebruik van Dynamic Currency Conversion (DCC). Bij DCC wordt de wisselkoers van de lokale betaaldienstaanbieder toegepast en als je daar niet voor kiest, de wisselkoers van de ING.
+Betaaldienstaanbieders in de EER zijn bij DCC verplicht hun koersopslag, uitgedrukt als percentage ten opzichte van de ECB -referentiekoers, te melden voordat je de betaling goedkeurt, bijvoorbeeld op de geldautomaat. Deze verplichting geldt niet buiten de EER.
+Buitenlandse winkels, horeca en banken gebruiken bijna altijd een hogere omrekenkoers naar euro's dan ING.

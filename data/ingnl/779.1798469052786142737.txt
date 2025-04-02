@@ -1,0 +1,23 @@
+# Verenigde Staten (USA) - ING
+
+Wil je geld overmaken naar Verenigde Staten? Op deze pagina lees je hoe dat werkt.
+
+## Zo werkt het
+
+* Log in op Mijn ING en ga naar het overschrijfscherm
+* Selecteer het land en de valuta waarin je wilt overmaken
+* Na het invoeren van het bedrag en de kostenverdeling, krijg je direct een indicatie van de prijs en wisselkoers
+
+## IBAN, Fedwire en BIC
+
+In de Verenigde Staten bestaat geen standaard rekeningnummerstructuur en geen IBAN. Het rekeningnummer wordt op facturen meestal aangeduid met ‘Account Number’.
+Betalingen in USD
+* De VS maken voor het betalingsverkeer gebruik van een nationale 9-cijferige bankcode: Fedwire (FW), ook wel ‘Routing number’ of ‘ABA’.
+* Deze nationale bankcode is verplicht voor betalingen in USD naar de Verenigde Staten.
+* Voor betalingen in USD is het BIC veld optioneel, maar wel aan te bevelen.
+* Voor betalingen in andere valuta dan USD, is alleen het opgeven van een BIC verplicht.
+Nb. Het is niet mogelijk om betalingen in andere valuta dan USD (bijv. EUR) te doen naar banken in de USA die geen BIC hebben. Banken in de USA die geen BIC hebben, kunnen geen andere valuta's dan USD ontvangen waardoor je met hoge omwisselkosten te maken zou krijgen.
+
+## Verwerkingsduur
+
+Wil je weten hoe lang de verwerking van je opdracht duurt? Kijk dan bij de verwerkingsduur .

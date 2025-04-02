@@ -1,0 +1,10 @@
+# Zo werkt de app - ING
+
+## Persoonlijke instellingen
+
+### Engelse taal instellen
+
+Via de instellingen van de app kun je de taal wijzigen in Engels of Nederlands.
+* Ga in de app naar 'Instellingen'
+* Klik op 'Taal'
+* Kies welke optie je wilt aanzetten: Nederlands of English

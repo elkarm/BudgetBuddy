@@ -1,0 +1,23 @@
+# Rood staan op je betaalrekening - ING - ING Rood Staan
+
+## Wat kost ING Rood Staan?
+
+### Meer informatie over deze tabel
+
+* **Totale kredietbedrag**
+Het afgesproken bedrag dat je maximaal rood mag staan (limiet).
+* **Variabele debetrentevoet**
+Het rentepercentage dat je voor je krediet betaalt is effectief en op jaarbasis. De debetrentevoet is variabel en gelijk aan de maximale kredietvergoeding verminderd met 0,1%. De maximale kredietvergoeding is op dit moment 14.90%. Hierdoor betaal je 14,90% (15% - 0,1%). Wijzigingen voorbehouden.
+* **Maandbedrag**
+Dit is de maandelijkse verplichte betaling als je het totale kredietbedrag gedurende de hele maand hebt opgenomen. Het maandbedrag bestaat bij ING Rood Staan alleen uit rente. Je hoeft niet maandelijks af te lossen maar je moet er wel voor zorgen dat je gedurende één volledige dag per 3 maanden een positief saldo op je Betaalrekening hebt. Rente betaal je alleen over het bedrag dat je rood staat. Het maandbedrag wordt maandelijks achteraf afgeschreven.
+* **Duur**
+De duur van de overeenkomst is onbepaald.
+* **Kosten Oranjepakket (per maand)**
+Dit zijn de kosten die, naast de rente, deel uitmaken van de totale kosten van het krediet. Om gebruik te kunnen maken van het krediet heb je een Betaalrekening bij ING nodig. Een Betaalrekening is onderdeel van een pakket. Hier zijn de kosten van het OranjePakket (inclusief betaalpas) opgenomen. Dit is het meest voorkomende pakket. Deze kosten betaal je eenmaal per maand, achteraf. Heb je een Studentenrekening, dan betaal je hiervoor geen kosten. Pas op het moment dat je Studentenrekening is omgezet naar een Betaalrekening ga je deze kosten betalen.
+* **Jaarlijks kostenpercentage (JKP)**
+Dit zijn de rente en andere kosten die je betaalt voor het krediet, uitgedrukt als jaarlijks percentage van het totale kredietbedrag. De kosten van de Betaalrekening zijn gelijk bij ieder kredietbedrag. Hierdoor is bij hogere kredietbedragen het jaarlijks kostenpercentage lager. Voor de berekening van dit percentage gaan wij uit van de volgende aannames:
+  + Het totale kredietbedrag wordt onmiddellijk opgenomen en na 3 maanden in zijn geheel afgelost.
+  + Je betaalt maandelijks de rente, achteraf.
+  + De debetrentevoet verandert niet gedurende de looptijd.
+  + Tussentijds wordt niet extra afgelost en worden geen nieuwe opnames gedaan.
+  + Je maakt gebruik van een OranjePakket, de kosten hiervoor veranderen niet tijdens de looptijd.

@@ -1,0 +1,34 @@
+# Inzicht: weten waar je geld naartoe gaat - ING
+
+## Er kijkt geen mens naar je gegevens
+
+### Hoe kan ik de categorie van een transactie aanpassen?
+
+Aanpassen van een categorie doe je zo: Klik op de categorie en dan zie je de transacties die daarbij horen.Hoort een transactie hier niet tussen volgens jou? Ga naar de details en klik op de categorie om deze te wijzigen. Wil je soortgelijke transacties voortaan altijd in die categorie? Dat kan je direct daar aangeven. Je krijgt een lijstje met soortgelijke transacties en die kun je dan meteen ook omzetten naar een andere categorie.
+
+### Kan ik zelf nieuwe categorieën toevoegen?
+
+Nee. Je kunt alleen uit de bestaande categorieën kiezen. Het is niet mogelijk om zelf categorieën toe te voegen of de naam te veranderen.
+
+### Tot hoever kan ik terugkijken?
+
+Je kunt het huidige kalenderjaar terugkijken en de twee jaar daarvoor.
+
+### Hoe pas ik de weergave van mijn transacties aan van maand naar jaar of omgekeerd?
+
+In de app:
+* Klik op het kalender icoontje rechtsboven
+In Mijn ING
+* Klik op een maand of een jaar
+
+### Kan ik de gegevens downloaden?
+
+Nee, je kunt op dit moment de informatie nog niet downloaden.
+
+### Hoe zit het met mijn privacy?
+
+De indeling van de transacties in categorieën gebeurt automatisch door een computerprogramma. Er komt geen mens aan te pas. We gaan daarbij heel zorgvuldig om met je persoonsgegevens. Voor het gebruik van je af- en bijschrijvingen voor Inzicht, vragen we vooraf je toestemming. Deze toestemming ziet ook specifiek op het verwerken van bijzondere persoonsgegevens. Jouw toestemming kun je altijd weer intrekken. Wil je meer weten over hoe wij omgaan met je persoonsgegevens en welke rechten je hebt? Lees dan ons privacy statement.
+
+### Kan ik Inzicht gebruiken als financieel advies?
+
+Nee, we proberen je een zo goed mogelijk inzicht te geven. We kunnen niet garanderen dat altijd alle categorieën die gekoppeld worden aan transacties kloppen. Inzicht kan je niet zien als financieel advies, maar wel als een hulpmiddel voor meer overzicht en inzicht in je geldzaken. Wij doen niets met de gegevens die Inzicht biedt. Het is echt alleen bedoeld voor jou.

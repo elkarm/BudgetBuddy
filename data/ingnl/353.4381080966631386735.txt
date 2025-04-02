@@ -1,0 +1,26 @@
+# Apple Pay bij ING - ING - Mobiel betalen met Apple Pay
+
+## Veelgestelde vragen
+
+### Waarom betalen met Apple Pay in plaats van contactloos met de betaalpas?
+
+Apple Pay is een contactloze en snelle manier van mobiel betalen met je iPhone, iPad of Apple Watch. Het voordeel is dat je geen fysieke betaalpas meer nodig hebt voor een betaling. Aangezien we tegenwoordig de telefoon vaak dichtbij ons hebben maakt dat de handeling snel en makkelijk.
+
+### Hoe bevestig ik een betaling met Apple Pay?
+
+Voor elke contactloze betaling met Apple Pay heb je een bevestiging nodig. Je kunt deze betaling snel bevestigen op 2 manieren, met:
+* Face ID
+* Touch ID
+Je hebt geen pincode nodig. Zit er op jouw smartphone **geen** vingerafdrukscanner of gezichtsherkenning? Dan kun je de ontgrendelingscode van je toestel gebruiken om een betaling goed te keuren.
+
+### Wat is Face ID of gezichtsherkenning? En hoe werkt het?
+
+Face ID, of gezichtsherkenning, is een manier om je te identificeren met behulp van een gezichtsscanner. Die gezichtsscanner is een speciale camera aan de voorkant van je toestel. De scanner analyseert je gezicht op basis van meer dan 30.000 herkenningspunten en kijkt bijvoorbeeld ook naar reliëf.
+Om Face ID te gebruiken bij een betaling, moet je Face ID configureren op het apparaat. Dit gaat eenvoudig via de instellingen op je iPhone of iPad. Niet alle toestelmodellen hebben Face ID.
+Bekijk hier de video om te zien hoe een betaling met Face ID verloopt.
+
+### Wat is Touch ID of vingerafdruk identificatie? En hoe werkt het?
+
+Touch ID of vingerafdruk identificatie is een manier om je te identificeren met behulp van een vingerafdrukscanner. Ieder mens heeft een eigen vingerafdruk. Door de lijnen en structuren van de vingerafdruk is er een uniek patroon en hiermee vindt de identificatie plaats.
+Om Touch ID te gebruiken bij een betaling, moet je Touch ID configureren op het apparaat. Dit gaat eenvoudig via de instellingen op de iPhone of iPad. Niet alle toestelmodellen hebben Touch ID.
+Bekijk hier de video om te zien hoe een betaling met Touch ID verloopt.

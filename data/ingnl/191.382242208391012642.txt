@@ -1,0 +1,14 @@
+# Eurozone-landen - ING
+
+### Kosten
+
+De kosten voor een overschrijving in euro’s naar een land binnen de Eurozone worden altijd gedeeld (SHA) tussen jou en de ontvanger.
+Voor Frans Guyana, Guadeloupe, Martinique en Réunion gelden dezelfde regels als voor Frankrijk.
+Dit geldt ook voor de volgende landen die geen deel uitmaken van de Eurozone maar wel de euro als valuta hebben:
+START TABLE IN MARKDOWN
+| Land | Posities | Voorbeeld |
+| - | - | - |
+| Andorra | 24 | AD1200012030200359100100 |
+| Monaco | 27 | MC9320052222100112233M44555 |
+| San Marino | 27 | SM68S0542811101000000123456 |
+END TABLE IN MARKDOWN

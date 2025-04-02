@@ -1,0 +1,7 @@
+# Machtigen
+
+## Veelgestelde vragen
+
+### Kan ik mijn rekening opheffen als er een gemachtigde op geregistreerd is?
+
+Nee, het is niet mogelijk om een rekening op te heffen als op die rekening nog een gemachtigde geregistreerd is. De gemachtigde moet eerst afgemeld worden. Pas daarna kan een rekening opgeheven worden.

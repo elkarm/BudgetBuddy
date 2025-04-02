@@ -1,0 +1,25 @@
+# Inzicht in tarieven van betaalproducten - ING
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Creditcards
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+Tip: Het is vaak verstandig om te betalen in de lokale munteenheid. Als je wilt afrekenen in euro’s wordt het bedrag dat je besteedt in vreemde valuta door de bank of winkel naar de euro omgerekend. Vaak hanteert men in deze gevallen een hogere omrekenkoers dan ING waardoor je duurder uit bent.
+START TABLE IN MARKDOWN
+| Uitgaande Overschrijvingen | |
+| - | - |
+| Overschrijving via Mijn ING | € 0,00 |
+| Overschrijving via iDEAL | € 0,00 |
+| Overschrijving via Mobiel Bankieren | € 0,00 |
+| Europese Overschrijvingskaarten voor houders van een OranjePakket of ING Studentenrekening, Jongerenrekening en Kinderrekening (niet mogelijk met OranjePakket met korting) | € 12,50 per boekje van 20 kaarten |
+| Europese Overschrijvingskaarten voor houders van het BasisPakket, BetaalPakket of Royaalpakket | gratis |
+| 20 portvrije ING verzendenveloppen naar correspondentieadres klant: in bezit van OranjePakket of ING Studentenrekening, Jongerenrekening of Kinderrekening(* Bij OranjePakket met korting is het afnemen van afschriften niet meer mogelijk.) (niet mogelijk met OranjePakket met korting) | € 15,00 |
+| 20 portvrije ING verzendenveloppen naar correspondentieadres klant: voor houders van de overige pakketten(** Heb je een Kinderrekening of Jongerenrekening of afschrift in braille? Dan kun je gratis maandelijks een afschrift ontvangen in Nederland. Dit geldt ook wanneer je gebruikmaakt van een Basis-, Betaal- of RoyaalPakket.) (niet mogelijk met OranjePakket met korting) | gratis |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

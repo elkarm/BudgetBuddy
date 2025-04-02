@@ -1,0 +1,5 @@
+# Verschillen betaalpas en creditcard - Betaalpas of creditcard
+
+## \*\* Wat is koersopslag?
+
+ING berekent een koersopslag op alle transacties in vreemde valuta. De koersopslag houdt in dat ING bij de omrekening van vreemde valuta naar euro's het bestede bedrag verhoogt met een percentage. Voor de Maestro Betaalpas of Mastercard creditcard hanteren wij de wisselkoersen van Mastercard. Voor de V PAY Betaalpas hanteren wij de wisselkoersen van VISA. De wisselkoersen kunnen per land en per dag verschillen. Kijk op de ING Wisselkoerscalculator voor de wisselkoersen.

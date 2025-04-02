@@ -1,0 +1,28 @@
+# Zo werkt de app - ING
+
+## Voor je dagelijkse bankzaken
+
+### Saldo, af- en bijschrijvingen bekijken
+
+In de app kun je je saldo, af- en bijschrijvingen bekijken. Ook kun je zonder in te loggen je saldo bekijken. Dat kan voor Apple gebruikers in de widget (vanaf iOS 15).
+Meer over snel je saldo checken zonder in te loggen
+
+### Opdrachten bevestigen in Mijn ING
+
+Met de app kun je voortaan je opdrachten in Mijn ING (internetbankieren) bevestigen. Dat gaat supersnel met je vingerafdruk of met je mobiele pincode.
+Hoe werkt mobiel bevestigen?
+
+### Betalingen doen / geld overmaken
+
+Met de app kun je:
+* Betalingen inplannen
+* Betalingen doen en geld overmaken binnen Europa
+* iDEAL betalingen doen
+* Apple Pay of Google Pay in gebruik nemen
+Betalingen inplannen
+* Klik in de app op de rekening waar vandaan je een betaling wilt doen en klik op ‘Overschrijven’.
+* Vul de velden in
+* Tik op 'Versturen' en bevestig de betaling met je mobiele pincode. De overschrijving wordt voltooid
+Wanneer je je periodieke overschrijving wilt agenderen, zodat het automatisch wordt overgeschreven, volg je dezelfde stappen. Alleen vul je ook het veld ‘Inplannen’ in. Deze staat standaard op eenmalig-vandaag. Dit kun je wijzigen. Voer de uitvoerdatum in die je voor ogen hebt voor deze overboeking. Bepaal bij ‘frequentie’ hoe vaak deze overschrijving herhaald moet worden en wat de einddatum is. Klik op ‘Gereed’ en de periodieke overschrijving heb je ingepland.
+Betalen met je mobiel (Google Pay/ Apple Pay)
+Als ING klant kun je gebruik maken van Google Pay (Android) en Apple Pay (iOS). De activatie hiervan doe je in de ING app. Vervolgens kun je via je mobiele telefoon betalen. Bekijk hier de video’s over hoe Google Pay en Apple Pay werkt.

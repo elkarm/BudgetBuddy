@@ -1,0 +1,21 @@
+# Inzicht in tarieven van betaalproducten - ING
+
+Bij het kiezen van een financieel product is het belangrijk om op de hoogte te zijn van de tarieven. Daarom heeft ING ze voor je op een rij gezet.
+* Betaalpakketten
+* Betaalrekeningen
+* Rente op de Betaalrekening
+* Overstappen naar de ING
+* Creditcards
+* Passen
+* Rood staan
+* Overige Producten
+* Buitenland
+(* Bij OranjePakket met korting is het afnemen van afschriften niet meer mogelijk.)Je bestelt de enveloppen online . Heb je vragen? Bekijk de veelgestelde vragen .
+START TABLE IN MARKDOWN
+| Opnemen | |
+| - | - |
+| Opnemen met creditcard bij geldautomaten in vreemde valuta | 4% met een minimum van € 4,50 per transactie + 2,00% koersopslag(** Heb je een Kinderrekening of Jongerenrekening of afschrift in braille? Dan kun je gratis maandelijks een afschrift ontvangen in Nederland. Dit geldt ook wanneer je gebruikmaakt van een Basis-, Betaal- of RoyaalPakket.) |
+| Opnemen met creditcard bij bankkantoren buiten Nederland in euro's | 4% van het opgenomen bedrag met een minimum van € 4,50 per transactie |
+| Opnemen met creditcard bij bankkantoren buiten Nederland in vreemde valuta | 4% van het opgenomen bedrag met een minimum van € 4,50 per transactie + 2,00% koersopslag\* |
+END TABLE IN MARKDOWN
+Ondanks de constante zorg en aandacht die ING aan de samenstelling van haar website www.ing.nl besteedt, is het helaas mogelijk dat in de genoemde tarieven typefouten staan. ING is niet aansprakelijk voor enigerlei directe of indirecte schade die voor jou uit eventuele typefouten zou kunnen voortvloeien.

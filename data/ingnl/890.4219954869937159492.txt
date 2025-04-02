@@ -1,0 +1,10 @@
+# Daglimiet aanpassen - ING
+
+## Veelgestelde vragen daglimiet
+
+### Ik heb mijn daglimiet verhoogd. Waarom kan ik het bedrag toch niet overmaken?
+
+Dit kan een aantal oorzaken hebben:
+* de nieuwe limit wordt na 4 uren actief. Dat geldt altijd bij een verhoging. We snappen dat langer wachten voordat je een betaling kunt doen soms onhandig is. Maar we hebben dit gedaan om het (telefonische) oplichters moeilijker te maken. Door deze wachttijd heb jij meer tijd om te checken of het verhaal van de oplichter wel klopt. Bijvoorbeeld door ons zelf even te bellen. Met de langere wachttijd kunnen we (telefonische) oplichting helpen voorkomen.
+* In de tussentijd is er een betaling gedaan van je rekening waardoor het saldo misschien niet meer voldoende is voor de betaling
+* Er bestaan aparte limieten voor pinnen , geld opnemen , overschrijven in Mijn ING of de app . Check of je de juiste limiet hebt gewijzigd.
